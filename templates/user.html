@@ -1,0 +1,60 @@
+<html>
+  <head>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='style.css') }}">
+  </head>
+  <center>
+    <body>
+      <form action = "/library" method = "POST">
+        <div class="left_side">
+          <title>  MacrolactoneDB </title>
+          <header>
+            <div class="filter_titles">
+              <h1> <img src="{{ img_file }}" style="width:200px;height:200px;"> MacrolactoneDB </h1>
+            </div>
+            <!-- THE SECTION HERE IS FOR SLIDE SHOWS -->
+
+            <!-- THE SECTION HERE IS FOR SLIDE SHOWS -->
+          </header>
+        </div>
+        <div class="user_inputs">
+          <fieldset class='form-group'>
+            <div class="filter_titles">
+              <h3><b>Ring Filters</b></h3>
+            </div>
+            <div class="filters">
+              <p>Ring Size <input type = "text" name = "ringsize" /></p>
+              <p>Number of Rings <input type = "text" name = "nRings" /></p>
+              <p>Number of Large Rings (>=12-membered) <input type = "text" name = "nG12Rings" /></p>
+              <p>Number of Fused Rings <input type = "text" name = "nFusedRings" /></p>
+              <p>Number of Aromatic Rings <input type = "text" name = "nAromaticRings" /></p>
+            </div>
+          </fieldset>
+          <fieldset class='form-group'>
+            <div class="filter_titles">
+              <h3><b>Macrolide Filters</b></h3>
+            </div>
+             <div class="filters">
+               <p>Number of Sugars <input type = "text" name = "nSugars" /></p>
+               <p>Number of Esters in Large Rings (>=12-membered) <input type = "text" name = "nCoreEsters" /></p>
+             </div>
+           </fieldset>
+           <fieldset class='form-group'>
+             <div class="filter_titles">
+               <h3><b>Molecular Property Based Filters</b></h3>
+             </div>
+             <div class="filters">
+               <p>Molecular Weight <input type = "text" name = "MW" /></p>
+               <p>SlogP <input type = "text" name = "SlogP" /></p>
+               <p>Meet Lipinski Rules? (y or n): <input type = "text" name = "Lipinski" /></p>
+             </div>
+          </fieldset>
+          <input class="submit_button" type = "submit" name = "View Library" value = "SUBMIT" style="float: right;"/>
+        </div>
+        <!-- <div>
+          <button class="submit_button" type="submit" name="View Library" value="submit"></button> -->
+          <!-- <p><input type = "submit" name = "View Library" value = "submit" /></p> -->
+        <!-- </div> -->
+      </form>
+    </body>
+  </center>
+</html>

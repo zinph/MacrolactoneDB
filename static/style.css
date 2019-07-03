@@ -1,0 +1,78 @@
+body {
+  background-color: white;
+  font-family: Palatino Linotype;
+  color: black;
+}
+
+p {
+  font-size: 15px;
+  line-height: 0.5px;
+}
+
+p input {
+  padding: 0px 0px;
+  margin: 0px 0;
+  margin-left: 8px;
+}
+
+input {
+  font-family: Palatino Linotype;
+  font-size: 15px;
+}
+
+.user_inputs {
+  float: right;
+  width: 50%;
+  padding: 5px;
+}
+
+.left_side {
+  float: left;
+  width: 45%;
+  padding: 5px;
+}
+
+.filters {
+  text-align: center;
+}
+
+.filter_titles {
+  color: #4472c4;
+  line-height: 16px;
+  font-size: 20px;
+}
+
+.filter_titles img {
+  vertical-align: middle;
+  position: relative;
+}
+
+.form-group {
+  padding-top: 0.1px;
+  padding-bottom: 0.1px;
+}
+
+
+.submit_button {
+  /* background-color: black; */
+  background-color: #4472c4;
+  color: white;
+  border: 2px solid silver;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 99.5%;
+}
+
+.submit_button:hover {
+  background-color: #FF1493;
+  /* background-color: white; */
+  color: white;
+}

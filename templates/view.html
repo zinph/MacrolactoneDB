@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='table.css') }}">
+    <title>Filtered Macrolactone Database</title>
+</head>
+<body>
+  <!-- <p>Output File name: <input type = "text" name = "filename" /></p> -->
+  <a href="/return-smiles/" target="blank"><button class='btn btn-default'>Download SMILES</button></a>
+  <a href="/return-SDF/" target="blank"><button class='btn btn-default'>Download SDF</button></a>
+  <a href="/return-CSV/" target="blank"><button class='btn btn-default'>Download CSV</button></a>
+
+  <h3>
+    <b> Your Filtered Macrolactone Database </b>
+    <h4>
+      {{ value }} compounds have been filtered from MacrolactoneDB based on your specified inputs.
+    <h4>
+  </h3>
+
+  <!-- <p><input type = "submit" name = "Download library" value = "download" /></p> -->
+  {% for table in tables %}
+    <!-- {{titles[loop.index]}} -->
+    {{ table|safe }}
+  {% endfor %}
+</body>
+</html>
