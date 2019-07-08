@@ -1,4 +1,9 @@
 import re
+import sqlite3
+# from flask import g
+import pickle
+import pandas as pd
+# from flask_sqlalchemy import SQLAlchemy
 from rdkit.Chem import PandasTools
 from rdkit.Chem.Draw import IPythonConsole
 from IPython.core.display import display, HTML
@@ -6,6 +11,9 @@ from flask import Flask, render_template, request, send_file, Response, url_for
 from MacrolactoneDB_Miner import MacrolactoneDB_Miner
 
 app = Flask(__name__)
+# app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///filtered_macrolactones.db"
+# db = SQLAlchemy(app)
+
 
 # def image_formatter(im):
 #     return f'<img src="data:image/jpeg;base64,{image_base64(im)}">'
@@ -13,25 +21,13 @@ app = Flask(__name__)
 def path_to_image_html(path):
     return '<img src="'+ path + '" width="60" >'
 
-# def smiles_writer(smiles):
-#     f = open('temp.smiles','w')
-#     f.write('smiles\n')
-#     f.write('\n'.join(smiles))
-#     f.close()
-
-def frame_manage(df):
-    PandasTools.AddMoleculeColumnToFrame(df,'smiles','structures')
-    structures = df['structures']
-    df = df.drop(columns=['structures', 'smiles'])
-    df.insert(0, 'Structures', structures)
-    return df
-
 def is_int(input):
   try:
     num = int(input)
   except ValueError:
     return False
   return True
+
 
 def cleanup(input_string):
     stripped = re.sub(r'\s+', '', input_string)
@@ -47,6 +43,7 @@ def cleanup(input_string):
         else:
             low,high = stripped, stripped
     return low,high
+
 
 @app.route('/')
 def user():
@@ -96,15 +93,22 @@ def getvalue():
 
     sample = MacrolactoneDB_Miner(command)
     library_df = sample.compile_filters()
+    library_df.to_pickle('temp.pickle')
+    # library_df.to_sql(name='temp', con=db.engine, index=False)
     num_cpds = library_df.shape[0]
 
     # smiles_writer(library_df['smiles'].tolist())
-    library_df = frame_manage(library_df)
+    # library_df = frame_manage(library_df)
 
     return render_template('view.html',tables=[library_df.to_html(index=False)], titles=library_df.columns.values, value=num_cpds)
 
 @app.route('/return-smiles/')
 def return_files_smiles():
+    df = pd.read_pickle('temp.pickle')
+    f = open('temp.smiles','w')
+    f.write('smiles\n')
+    f.write('\n'.join(df['smiles'].tolist()))
+    f.close()
     try:
         result = send_file('temp.smiles', as_attachment = True)
         return result
@@ -113,8 +117,21 @@ def return_files_smiles():
 
 @app.route('/return-CSV/')
 def return_files_csv():
+    df = pd.read_pickle('temp.pickle')
+    df = df.drop(columns=['structures'])
+    df.to_csv('temp.csv', index=False)
     try:
         result = send_file('temp.csv', as_attachment = True)
+        return result
+    except Exception as e:
+        return str(e)
+
+@app.route('/return-SDF/')
+def return_files_sdf():
+    df = pd.read_pickle('temp.pickle')
+    PandasTools.WriteSDF(df, 'temp.sdf', molColName='structures', properties=list(df.columns), allNumeric=False)
+    try:
+        result = send_file('temp.sdf', as_attachment = True)
         return result
     except Exception as e:
         return str(e)

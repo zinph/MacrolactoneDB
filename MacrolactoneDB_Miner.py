@@ -12,7 +12,9 @@
 
 import pandas as pd
 from rdkit import RDConfig
+from rdkit.Chem import PandasTools
 import time
+import pickle
 
 '''
 RS_min = int
@@ -179,6 +181,15 @@ class MacrolactoneDB_Miner:
                 df = df[df['naRing'] >= min_naRing]
         return set(df['InChI Keys'].unique())
 
+    def frame_manage(self):
+        PandasTools.AddMoleculeColumnToFrame(self.filtered_df,'smiles','structures')
+        structures = self.filtered_df['structures']
+        df = self.filtered_df.drop(columns=['structures'])
+        df.insert(0, 'structures', structures)
+        df = df[['ChEMBL_IDs','structures',"target_organism","target_molecule_pref_name",'# Known Targets','Known Targets','smiles']]
+        df = df.sort_values(by='# Known Targets', ascending=False, na_position='last')
+        return df
+
     def compile_filters(self):
         RS_inchi = self.limit_RS(self.df, self.command['RS_min'], self.command['RS_max'])
         MW_inchi = self.limit_MW(self.df, self.command['MW_min'], self.command['MW_max'])
@@ -196,13 +207,27 @@ class MacrolactoneDB_Miner:
         self.filtered_df = self.df.loc[self.df['InChI Keys'].isin(self.filtered_inchi)]
         # print(filtered_df.shape[0], ' compouds have been compiled based on your filters.')
         # smiles = filtered_df['smiles'].tolist()
-        # PandasTools.AddMoleculeColumnToFrame(library_df,'smiles','Molecule picture')
-        self.filtered_df.to_csv('temp.csv', index=False)
-        self.smiles_writer()
-        smiles_frame = self.filtered_df[['ChEMBL_IDs','smiles',"document_journal","target_organism","target_molecule_pref_name",'# Known Targets','Known Targets']]
-        return smiles_frame
+        PandasTools.AddMoleculeColumnToFrame(self.filtered_df,'smiles','Molecule picture')
 
+        # export csv file
+        # self.filtered_df.to_csv('temp.csv', index=False)
+
+        ## export sdf file
+        # PandasTools.WriteSDF(self.filtered_df, 'temp.sdf', molColName='structures', properties=list(self.filtered_df.columns), allNumeric=False)
+
+        # export smiles
+        # self.smiles_writer()
+
+        # self.filtered_df.to_sql(name='temp', con=db.engine, index=False)
+        smiles_frame = self.frame_manage()
+
+        return smiles_frame
         # filtered_df['smiles'].to_csv(filename,index=False)
+
+    def inchi_writer(self):
+        f = open('filtered_inchi','w')
+        f.write(','.join(self.filtered_df['InChI Keys'].tolist()))
+        f.close()
 
     def smiles_writer(self):
         f = open('temp.smiles','w')

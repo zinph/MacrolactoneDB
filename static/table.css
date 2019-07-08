@@ -45,6 +45,11 @@ tr:hover            { background-color: #ffff99;}
   cursor: pointer;
 }
 
+.button {
+  float: left;
+  border: 1px solid green;
+}
+
 .button1 {
   background-color: white;
   color: black;
