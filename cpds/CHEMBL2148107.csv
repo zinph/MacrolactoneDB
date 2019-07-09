@@ -1,0 +1,8 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL299,Homo sapiens,J. Med. Chem.,2012,12039689,Ki,None,Protein kinase C alpha,CHEMBL2148237,BAO_0000357,7.82,Inhibition of [3H]PDBu binding to PKCalpha C1A domain
+CHEMBL3045,Homo sapiens,J. Med. Chem.,2012,12039690,Ki,None,Protein kinase C beta,CHEMBL2148238,BAO_0000357,7.82,Inhibition of [3H]PDBu binding to PKCbeta C1A domain
+CHEMBL2938,Homo sapiens,J. Med. Chem.,2012,12039691,Ki,None,Protein kinase C gamma,CHEMBL2148239,BAO_0000357,7.92,Inhibition of [3H]PDBu binding to PKCgamma C1A domain
+CHEMBL2996,Homo sapiens,J. Med. Chem.,2012,12039692,Ki,None,Protein kinase C delta,CHEMBL2148240,BAO_0000357,8.48,Inhibition of [3H]PDBu binding to PKCdelta C1B domain
+CHEMBL3582,Homo sapiens,J. Med. Chem.,2012,12039693,Ki,None,Protein kinase C epsilon,CHEMBL2148241,BAO_0000357,7.77,Inhibition of [3H]PDBu binding to PKCepsilon C1B domain
+CHEMBL3616,Homo sapiens,J. Med. Chem.,2012,12039694,Ki,None,Protein kinase C eta,CHEMBL2148242,BAO_0000357,8.23,Inhibition of [3H]PDBu binding to PKCeta C1B domain
+CHEMBL3920,Homo sapiens,J. Med. Chem.,2012,12039695,Ki,None,Protein kinase C theta,CHEMBL2148243,BAO_0000357,8.54,Inhibition of [3H]PDBu binding to PKCtheta C1B domain

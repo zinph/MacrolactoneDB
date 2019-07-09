@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL394,Homo sapiens,Bioorg. Med. Chem.,2011,7928937,IC50,PORPOISAMIDE A,HCT-116,CHEMBL1921229,BAO_0000219,4.6,Antiproliferative activity against human HCT116 cells after 48 hrs by MTT assay
+CHEMBL615023,Homo sapiens,Bioorg. Med. Chem.,2011,7928939,IC50,PORPOISAMIDE A,U2OS,CHEMBL1921230,BAO_0000219,4.55,Antiproliferative activity against human U2OS cells after 48 hrs by MTT assay

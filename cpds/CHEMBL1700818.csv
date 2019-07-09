@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1795098,Homo sapiens,None,None,7016420,IC50,None,Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1,CHEMBL1794574,BAO_0000019,5.93,"PUBCHEM_BIOASSAY: Dose Response confirmation of uHTS hits for Scp-1 phosphatase using a colorimetric assay. (Class of assay: confirmatory) [Related pubchem assays (depositor defined):AID493091, AID493120]"

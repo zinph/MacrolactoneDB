@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL372,Homo sapiens,Bioorg. Med. Chem. Lett.,2000,911351,IC50,None,Homo sapiens,CHEMBL695826,BAO_0000218,5.96,Inhibitory activity against human concanavalin-A proliferation assay
+CHEMBL1902,Homo sapiens,Bioorg. Med. Chem. Lett.,2000,911352,IC50,None,FK506-binding protein 1A,CHEMBL678815,BAO_0000357,8.68,"The compound was tested for binding affinity to FK506 binding protein 12 using Rapamycin as control, with an ascomycin conjugate of alkaline phosphatase in a competition binding assay"

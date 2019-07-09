@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614721,Homo sapiens,J. Nat. Prod.,2003,2426444,IC50,lyngbyastatin 3,LoVo,CHEMBL993801,BAO_0000219,6.4,Cytotoxicity against human LoVo cells
+CHEMBL398,Homo sapiens,J. Nat. Prod.,2003,2426445,IC50,lyngbyastatin 3,KB,CHEMBL993800,BAO_0000219,7.5,Cytotoxicity against human KB cells

@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614590,Homo sapiens,Bioorg. Med. Chem. Lett.,2000,1245407,IC50,None,KB 3-1,CHEMBL702645,BAO_0000219,9.35,Concentration required to inhibit the growth of paclitaxel-sensitive human epidermoid carcinoma cells KB-31 by 50 percent (72 hr exposure)
+CHEMBL398,Homo sapiens,Bioorg. Med. Chem. Lett.,2000,1245408,IC50,None,KB,CHEMBL703994,BAO_0000219,9.64,Concentration required to inhibit the growth of paclitaxel-resistant human epidermoid carcinoma cells KB-8511 by 50 percent (72 hr exposure)
+CHEMBL613488,Sus scrofa,Bioorg. Med. Chem. Lett.,2000,1245409,EC50,None,Sus scrofa,CHEMBL761868,BAO_0000218,6.03,Concentrations required to induce 50 percent polymerization of porcine brain-derived micro-tubule protein

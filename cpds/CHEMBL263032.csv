@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL375,Mus musculus,Bioorg. Med. Chem. Lett.,1999,527902,IC50,None,Mus musculus,CHEMBL744373,BAO_0000218,8.46,In vitro immunosuppressive activity in murine splenic T cells
+CHEMBL1902,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,527903,EC50,None,FK506-binding protein 1A,CHEMBL682212,BAO_0000357,7.5,Effective concentration determined was towards FK506 binding protein 12 by competitive binding assay using [3H]-dihydro FK-506 as radioligand
+CHEMBL4445,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,527904,IC50,None,"Serine/threonine protein phosphatase 2B catalytic subunit, alpha isoform",CHEMBL876410,BAO_0000357,7.85,Concentration required for inhibition of serine/threonine protein phosphatase calcineurin (CAN)
+CHEMBL614309,None,Bioorg. Med. Chem. Lett.,1994,1170849,IC50,None,T-cells,CHEMBL812376,BAO_0000219,8.46,In vitro evaluation for immunosuppressive activity against proliferation of antigen stimulated murine splenic T cells

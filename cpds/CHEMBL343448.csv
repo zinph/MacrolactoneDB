@@ -1,0 +1,10 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1865,Homo sapiens,ACS Med. Chem. Lett.,2012,10981392,IC50,ROMIDEPSIN,Histone deacetylase 6,CHEMBL2065943,BAO_0000357,6.7,Inhibition of recombinant HDAC6 using Ac-Lys(Ac)-AMC as substrate after 30 mins by fluorescence analysis
+CHEMBL2111363,Homo sapiens,ACS Med. Chem. Lett.,2012,10981396,IC50,ROMIDEPSIN,Histone deacetylase 3/Nuclear receptor corepressor 2 (HDAC3/NCoR2),CHEMBL2065942,BAO_0000223,8.52,Inhibition of recombinant HDAC3/NCoR2 using Ac-Lys(Ac)-AMC as substrate after 30 mins by fluorescence analysis
+CHEMBL1937,Homo sapiens,ACS Med. Chem. Lett.,2012,10981401,IC50,ROMIDEPSIN,Histone deacetylase 2,CHEMBL2065941,BAO_0000357,9.0,Inhibition of recombinant HDAC2 using Ac-Lys(Ac)-AMC as substrate after 30 mins by fluorescence analysis
+CHEMBL325,Homo sapiens,ACS Med. Chem. Lett.,2012,10981405,IC50,ROMIDEPSIN,Histone deacetylase 1,CHEMBL2065940,BAO_0000357,9.7,Inhibition of recombinant HDAC1 using Ac-Lys(Ac)-AMC as substrate after 30 mins by fluorescence analysis
+CHEMBL1865,Homo sapiens,Bioorg. Med. Chem. Lett.,2012,12074971,IC50,ROMIDEPSIN,Histone deacetylase 6,CHEMBL2160548,BAO_0000357,6.21,Inhibition of HDAC6 by fluorimetric assay in presence of DTT
+CHEMBL3524,Homo sapiens,Bioorg. Med. Chem. Lett.,2012,12074987,IC50,ROMIDEPSIN,Histone deacetylase 4,CHEMBL2160545,BAO_0000357,6.29,Inhibition of HDAC4 by fluorimetric assay
+CHEMBL325,Homo sapiens,Bioorg. Med. Chem. Lett.,2012,12074993,IC50,ROMIDEPSIN,Histone deacetylase 1,CHEMBL2160544,BAO_0000357,9.0,Inhibition of HDAC1 by fluorimetric assay in presence of DTT
+CHEMBL325,Homo sapiens,Bioorg. Med. Chem. Lett.,2012,12074998,IC50,ROMIDEPSIN,Histone deacetylase 1,CHEMBL2160543,BAO_0000357,7.44,Inhibition of HDAC1 by fluorimetric assay
+CHEMBL612545,None,Eur. J. Med. Chem.,2012,12177588,IC50,ROMIDEPSIN,Unchecked,CHEMBL2212533,BAO_0000219,5.7,Inhibition of HDAC-mediated HIF-1alpha activity in mouse LLC cells

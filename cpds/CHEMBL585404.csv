@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2010,3087576,Ki,None,Unchecked,CHEMBL1038807,BAO_0000019,10.22,Inhibition of HCV NS3/4A protease
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2010,3087577,EC50,None,Hepatitis C virus,CHEMBL1038808,BAO_0000218,7.92,Antiviral activity against HCV 1b infected in Huh7 cells assessed as inhibition viral subgenomic replication by luciferase based replicon assay

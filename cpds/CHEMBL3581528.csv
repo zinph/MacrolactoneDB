@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL299,Homo sapiens,J. Nat. Prod.,2015,15615279,Ki,None,Protein kinase C alpha,CHEMBL3582655,BAO_0000357,7.86,"Inhibition of [20-3H]phorbol 12,13-dibutyrate binding to human PKCalpha by scintillation counting based poly(ethylene) glycol precipitation assay"

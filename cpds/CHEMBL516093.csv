@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2008,2561621,IC50,BEAUVERIOLIDE I,Unchecked,CHEMBL983788,BAO_0000219,6.22,Inhibition of cholesterol ester synthesis in mouse macrophages assessed as lipid droplet accumulation
+CHEMBL2782,Homo sapiens,Bioorg. Med. Chem. Lett.,2012,7990365,IC50,BEAUVERIOLIDE I,Acyl coenzyme A:cholesterol acyltransferase 1,CHEMBL1936449,BAO_0000357,6.11,Inhibition of ACAT1- mediated cholesteryl ester synthesis in macrophages
+CHEMBL3879854,Chlorocebus aethiops,None,2014,16897279,IC50,BEAUVERIOLIDE I,Sterol O-acyltransferase 2,CHEMBL3882631,BAO_0000219,4.7,Inhibition of African green monkey ACAT2 expressed in CHO cells assessed as reduction in [14C]CE formation using [1-14C]oleoyl-CoA measured after 6 hrs by TLC method
+CHEMBL3879850,Chlorocebus aethiops,None,2014,16897281,IC50,BEAUVERIOLIDE I,Sterol O-acyltransferase 1,CHEMBL3882630,BAO_0000219,6.22,Inhibition of African green monkey ACAT1 expressed in CHO cells assessed as reduction in [14C]CE formation using [1-14C]oleoyl-CoA measured after 6 hrs by TLC method
+CHEMBL2782,Homo sapiens,None,2015,17709007,IC50,BEAUVERIOLIDE I,Acyl coenzyme A:cholesterol acyltransferase 1,CHEMBL3887315,BAO_0000357,6.22,
+CHEMBL4465,Homo sapiens,None,2015,17709020,IC50,BEAUVERIOLIDE I,Acyl coenzyme A:cholesterol acyltransferase 2,CHEMBL3887316,BAO_0000357,4.7,

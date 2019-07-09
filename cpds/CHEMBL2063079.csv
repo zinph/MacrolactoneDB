@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,ACS Med. Chem. Lett.,2012,10978327,Ki,None,Unchecked,CHEMBL2065351,BAO_0000019,10.7,Inhibition of Hepatitis C virus (isolate BK) genotype 1b NS3/4a protease expressed in Escherichia coli by time-resolved fluorescence analysis
+CHEMBL612545,None,ACS Med. Chem. Lett.,2012,10978342,Ki,None,Unchecked,CHEMBL2065352,BAO_0000019,6.7,Inhibition of Hepatitis C virus (isolate NZL1) genotype 3a NS3/4a protease expressed in Escherichia coli by time-resolved fluorescence analysis
+CHEMBL379,Hepatitis C virus,ACS Med. Chem. Lett.,2012,10979626,IC50,None,Hepatitis C virus,CHEMBL2065365,BAO_0000218,8.0,Antiviral activity against Hepatitis C virus (isolate Con1) genotype 1b infected in human HuH7 cells assessed as inhibition of viral replication after 24 hrs in presence of 50% NHS

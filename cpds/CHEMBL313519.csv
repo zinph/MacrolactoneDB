@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3706,Homo sapiens,J. Med. Chem.,2001,1261807,IC50,None,ADAM17,CHEMBL702337,BAO_0000221,6.01,Inhibition of LPS-stimulated TNF-alpha release in human whole blood

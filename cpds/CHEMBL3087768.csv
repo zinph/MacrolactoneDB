@@ -1,0 +1,8 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,J. Nat. Prod.,2013,13835370,IC50,None,NON-PROTEIN TARGET,CHEMBL3090476,BAO_0000219,5.17,Cytotoxic activity against human SGC7901 cells
+CHEMBL1075592,Homo sapiens,J. Nat. Prod.,2013,13835376,IC50,None,SW1990,CHEMBL3090474,BAO_0000219,4.96,Cytotoxic activity against human SW1990 cells
+CHEMBL613508,Homo sapiens,J. Nat. Prod.,2013,13835382,IC50,None,DU-145,CHEMBL3090480,BAO_0000219,5.16,Cytotoxic activity against human DU145 cells
+CHEMBL399,Homo sapiens,J. Nat. Prod.,2013,13835388,IC50,None,HeLa,CHEMBL3090478,BAO_0000219,5.1,Cytotoxic activity against human HeLa cells
+CHEMBL614039,Homo sapiens,J. Nat. Prod.,2013,13835394,IC50,None,Huh-7,CHEMBL3090479,BAO_0000219,5.26,Cytotoxic activity against human HuH7 cells
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2013,13835399,IC50,None,MCF7,CHEMBL3090477,BAO_0000219,5.33,Cytotoxic activity against human MCF7 cells
+CHEMBL396,Homo sapiens,J. Nat. Prod.,2013,13835405,IC50,None,NCI-H460,CHEMBL3090475,BAO_0000219,5.34,Cytotoxic activity against human NCI-H460 cells

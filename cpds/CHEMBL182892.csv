@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4822,Homo sapiens,Bioorg. Med. Chem. Lett.,2005,1433734,Ki,None,Beta-secretase 1,CHEMBL828805,BAO_0000019,7.85,Binding affinity for human brain memapsin 2
+CHEMBL4822,Homo sapiens,Bioorg. Med. Chem. Lett.,2005,1433735,Ki,None,Beta-secretase 1,CHEMBL828805,BAO_0000019,7.51,Binding affinity for human brain memapsin 2
+CHEMBL4822,Homo sapiens,J. Med. Chem.,2009,2420923,Ki,None,Beta-secretase 1,CHEMBL981021,BAO_0000357,7.85,Inhibition of recombinant memapsin 2

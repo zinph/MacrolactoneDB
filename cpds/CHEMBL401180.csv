@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4822,Homo sapiens,Bioorg. Med. Chem. Lett.,2007,2031050,IC50,None,Beta-secretase 1,CHEMBL886441,BAO_0000357,7.57,Inhibition of BACE1
+CHEMBL4822,Homo sapiens,Bioorg. Med. Chem. Lett.,2007,2031069,IC50,None,Beta-secretase 1,CHEMBL886442,BAO_0000219,7.17,Inhibition of BACE1-mediated sAPP-NF processing in HEK293 cells
+CHEMBL2581,Homo sapiens,Bioorg. Med. Chem. Lett.,2007,2031102,IC50,None,Cathepsin D,CHEMBL886447,BAO_0000357,4.32,Inhibition of cathepsin D
+CHEMBL2525,Homo sapiens,Bioorg. Med. Chem. Lett.,2007,2031108,IC50,None,Beta secretase 2,CHEMBL886450,BAO_0000357,4.39,Inhibition of BACE2
+CHEMBL4822,Homo sapiens,J. Med. Chem.,2011,12187791,IC50,None,Beta-secretase 1,CHEMBL2208536,BAO_0000357,7.57,Inhibition of BACE1

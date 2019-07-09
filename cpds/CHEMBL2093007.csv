@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL325,Homo sapiens,J. Med. Chem.,2003,157537,IC50,None,Histone deacetylase 1,CHEMBL701997,BAO_0000357,5.2,Inhibitory concentration against human Histone deacetylase 1
+CHEMBL1937,Homo sapiens,J. Med. Chem.,2003,157538,IC50,None,Histone deacetylase 2,CHEMBL697298,BAO_0000357,5.48,Inhibitory concentration against human Histone deacetylase 2

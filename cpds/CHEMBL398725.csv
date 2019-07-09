@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Nat. Prod.,2007,2060586,IC50,LYNGBYASTATIN 5,Unchecked,CHEMBL926742,BAO_0000019,8.49,Inhibition of pig elastase
+CHEMBL612545,None,J. Nat. Prod.,2007,2060590,IC50,LYNGBYASTATIN 5,Unchecked,CHEMBL926743,BAO_0000019,5.55,Inhibition of bovine alpha chymotrypsin

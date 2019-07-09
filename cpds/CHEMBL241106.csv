@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2007,2019953,IC50,ARCHAZOLID A,Unchecked,CHEMBL903343,BAO_0000019,9.22,Inhibition of tobacco hornworm midgut vacuolar ATPase V1/V0 holoenzyme
+CHEMBL612267,Mus musculus,Bioorg. Med. Chem. Lett.,2007,2019954,IC50,ARCHAZOLID A,L929,CHEMBL903344,BAO_0000219,9.09,Growth inhibition of mouse L929 cells by MTT assay
+CHEMBL2047,Homo sapiens,Bioorg. Med. Chem.,2016,16613662,EC50,ARCHAZOLID A,Bile acid receptor FXR,CHEMBL3816458,BAO_0000357,6.7,Agonist activity at farnesoid x receptor(unknown origin)

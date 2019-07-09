@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL396,Homo sapiens,J. Nat. Prod.,2007,2063787,IC50,None,NCI-H460,CHEMBL944126,BAO_0000219,6.52,Antiproliferative activity against human NCI-H460 cells by MTT assay
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2007,2063788,IC50,None,MCF7,CHEMBL944127,BAO_0000219,6.82,Antiproliferative activity against human MCF7 cells by MTT assay
+CHEMBL613977,Homo sapiens,J. Nat. Prod.,2007,2063789,IC50,None,SF-268,CHEMBL944128,BAO_0000219,6.26,Antiproliferative activity against human SF268 cells by MTT assay

@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2009,3021842,Kd,RAMOPLANIN AGLYCON,Unchecked,CHEMBL1037920,BAO_0000019,7.4,Binding affinity to synthetic lipid 2 analogue fl-LPII

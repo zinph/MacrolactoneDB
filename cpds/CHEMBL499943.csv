@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL394,Homo sapiens,J. Nat. Prod.,2011,6190519,IC50,DIDEMNIN A,HCT-116,CHEMBL1775964,BAO_0000219,7.5,Cytotoxicity against human HCT116 cells assessed as growth inhibition after 72 hrs by MTS assay

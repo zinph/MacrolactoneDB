@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL378,Human immunodeficiency virus 1,J. Nat. Prod.,2011,5314280,IC50,MIRABAMIDE G,Human immunodeficiency virus 1,CHEMBL1692275,BAO_0000218,7.17,Inhibition of HIV1 isolate YU2 infected in human TZM-bl cells expressing CD4 and CCR5 assessed as assessed inhibition of viral entry after 24 hrs by luciferase reporter assay

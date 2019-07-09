@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,ACS Med. Chem. Lett.,2013,12659699,Ki,PYRIDOMYCIN,Unchecked,CHEMBL2328686,BAO_0000019,5.32,Inhibition of Mycobacterium tuberculosis InhA S94A mutant assessed as NADH oxidation using 2-trans-dodecenoyl-coA as substrate measured every min for 30 mins by spectrophotometric analysis
+CHEMBL1849,Mycobacterium tuberculosis,J. Med. Chem.,2013,13825812,IC50,PYRIDOMYCIN,Enoyl-[acyl-carrier-protein] reductase,CHEMBL3089494,BAO_0000357,5.22,Inhibition of wild type Mycobacterium tuberculosis inhA

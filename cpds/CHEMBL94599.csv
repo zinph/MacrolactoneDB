@@ -1,0 +1,9 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614590,Homo sapiens,Bioorg. Med. Chem. Lett.,2000,1265290,IC50,None,KB 3-1,CHEMBL702645,BAO_0000219,9.52,Concentration required to inhibit the growth of paclitaxel-sensitive human epidermoid carcinoma cells KB-31 by 50 percent (72 hr exposure)
+CHEMBL398,Homo sapiens,Bioorg. Med. Chem. Lett.,2000,1265291,IC50,None,KB,CHEMBL703994,BAO_0000219,9.52,Concentration required to inhibit the growth of paclitaxel-resistant human epidermoid carcinoma cells KB-8511 by 50 percent (72 hr exposure)
+CHEMBL614075,Homo sapiens,J. Med. Chem.,2005,1605137,IC50,None,1A9,CHEMBL884325,BAO_0000219,10.0,Inhibitory concentration against ovarian carcinoma 1A9 cell growth
+CHEMBL614509,Homo sapiens,J. Med. Chem.,2005,1605138,IC50,None,1A9/ptx-10,CHEMBL873571,BAO_0000219,9.0,Inhibitory concentration against beta-tubulin mutant 1A9PTX10 cell growth
+CHEMBL613858,Homo sapiens,J. Med. Chem.,2005,1605139,IC50,None,1A9/ptx-22,CHEMBL873570,BAO_0000219,9.82,Inhibitory concentration against beta-tubulin mutant 1A9PTX22 cell line
+CHEMBL614075,Homo sapiens,J. Med. Chem.,2005,1614841,IC50,None,1A9,CHEMBL884325,BAO_0000219,10.0,Inhibitory concentration against ovarian carcinoma 1A9 cell growth
+CHEMBL614509,Homo sapiens,J. Med. Chem.,2005,1614842,IC50,None,1A9/ptx-10,CHEMBL873507,BAO_0000219,9.0,Inhibitory concentration against beta-tubulin mutant 1A9PTX10 cell growth
+CHEMBL613858,Homo sapiens,J. Med. Chem.,2005,1614843,IC50,None,1A9/ptx-22,CHEMBL884056,BAO_0000219,9.82,Inhibitory concentration against beta-tubulin mutant 1A9PTX22 cell line

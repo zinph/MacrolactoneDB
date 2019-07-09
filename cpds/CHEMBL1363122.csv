@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,None,None,4238610,Potency,None,Unchecked,CHEMBL1614459,BAO_0000019,5.04,PUBCHEM_BIOASSAY: qHTS Assay for Lipid Storage Modulators in Drosophila S3 Cells. (Class of assay: confirmatory) 
+CHEMBL3797,Homo sapiens,None,None,4867426,Potency,None,Serine-protein kinase ATM,CHEMBL1614153,BAO_0000019,4.4,PUBCHEM_BIOASSAY: qHTS Assay for Identifying a Potential Treatment of Ataxia-Telangiectasia. (Class of assay: confirmatory) 

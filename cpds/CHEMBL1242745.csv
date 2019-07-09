@@ -1,0 +1,12 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614647,Homo sapiens,J. Med. Chem.,2008,2364367,IC50,PLADIENOLIDE B,WiDr,CHEMBL994112,BAO_0000219,9.07,Cytotoxicity against human WiDr cells after 72 hrs by XTT colorimetric assay
+CHEMBL387,Homo sapiens,J. Med. Chem.,2008,2364368,IC50,PLADIENOLIDE B,MCF7,CHEMBL994109,BAO_0000219,9.4,Cytotoxicity against human MCF7 cells after 72 hrs by XTT colorimetric assay
+CHEMBL392,Homo sapiens,J. Med. Chem.,2008,2364369,IC50,PLADIENOLIDE B,A549,CHEMBL994106,BAO_0000219,8.85,Cytotoxicity against human A549 cells after 72 hrs by XTT colorimetric assay
+CHEMBL614213,Homo sapiens,J. Med. Chem.,2008,2364370,IC50,PLADIENOLIDE B,OVCAR-3,CHEMBL994110,BAO_0000219,9.4,Cytotoxicity against human OVCAR-3 cells after 72 hrs by XTT colorimetric assay
+CHEMBL390,Homo sapiens,J. Med. Chem.,2008,2364371,IC50,PLADIENOLIDE B,PC-3,CHEMBL994111,BAO_0000219,8.64,Cytotoxicity against human PC3 cells after 72 hrs by XTT colorimetric assay
+CHEMBL399,Homo sapiens,Nat. Chem. Biol.,2007,3441219,IC50,PLADIENOLIDE B,HeLa,CHEMBL1243675,BAO_0000219,8.25,Antiproliferative activity in human HeLa cells after 3 days by MTT assay
+CHEMBL1250378,Homo sapiens,Nat. Chem. Biol.,2007,3441231,IC50,PLADIENOLIDE B,Splicing factor 3B subunit 3,CHEMBL1243914,BAO_0000219,8.89,Inhibition of SAP130 in VEGF-stimulated human U251 cells by PLAP reporter gene assay
+CHEMBL1250378,Homo sapiens,Nat. Chem. Biol.,2007,3441234,IC50,PLADIENOLIDE B,Splicing factor 3B subunit 3,CHEMBL1243677,BAO_0000219,9.0,Inhibition of SAP130 mediated cell growth in human WiDr cells
+CHEMBL614647,Homo sapiens,Nat. Chem. Biol.,2007,3441273,IC50,PLADIENOLIDE B,WiDr,CHEMBL1243915,BAO_0000219,9.07,Cytotoxicity against human WiDr cells
+CHEMBL612545,None,J. Med. Chem.,2013,13415097,IC50,PLADIENOLIDE B,Unchecked,CHEMBL2424272,BAO_0000219,7.52,"Induction of apoptosis in human CLL cells by 3,3'-dihexyloxacarbocyanine iodide staining-based flow cytometry"
+CHEMBL394,Homo sapiens,J. Med. Chem.,2013,13415110,IC50,PLADIENOLIDE B,HCT-116,CHEMBL2424273,BAO_0000219,7.61,Cytotoxicity against human HCT116 cells by MTT assay

@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL374,Oryctolagus cuniculus,Bioorg. Med. Chem. Lett.,1998,322579,IC50,[N-ME LEU5] DIDEMNIN B,Oryctolagus cuniculus,CHEMBL800468,BAO_0000218,5.05,Compound was tested for inhibitory effect on protein biosynthesis in rabbit reticulocyte lysates

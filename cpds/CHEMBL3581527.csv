@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,J. Nat. Prod.,2015,15615278,IC50,None,NON-PROTEIN TARGET,CHEMBL3582656,BAO_0000219,8.8,Growth inhibition of human Toledo cells after 72 hrs by particle counter based cell counting assay
+CHEMBL299,Homo sapiens,J. Nat. Prod.,2015,15615281,Ki,None,Protein kinase C alpha,CHEMBL3582655,BAO_0000357,7.67,"Inhibition of [20-3H]phorbol 12,13-dibutyrate binding to human PKCalpha by scintillation counting based poly(ethylene) glycol precipitation assay"

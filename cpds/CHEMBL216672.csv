@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL375,Mus musculus,Bioorg. Med. Chem. Lett.,1999,523889,IC50,None,Mus musculus,CHEMBL744373,BAO_0000218,8.46,In vitro immunosuppressive activity in murine splenic T cells

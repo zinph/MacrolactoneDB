@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL325,Homo sapiens,Bioorg. Med. Chem.,2014,15002545,IC50,None,Histone deacetylase 1,CHEMBL3366597,BAO_0000357,9.0,Inhibition of human HDAC1 using fluorescent substrate Ac-KGLGK(Ac)-MCA after 30 mins by fluorescence plate reader in presence of 0.1 mM dithiothreitol
+CHEMBL2878,Mus musculus,Bioorg. Med. Chem.,2014,15002559,IC50,None,Histone deacetylase 6,CHEMBL3366599,BAO_0000357,9.2,Inhibition of mouse HDAC6 using fluorescent substrate Ac-KGLGK(Ac)-MCA after 30 mins by fluorescence plate reader in presence of 0.1 mM dithiothreitol
+CHEMBL2093865,Homo sapiens,Bioorg. Med. Chem. Lett.,2016,16463452,IC50,None,Histone deacetylase,CHEMBL3761210,BAO_0000224,6.6,Inhibition of HDAC in human HeLa nuclear extract
+CHEMBL325,Homo sapiens,Bioorg. Med. Chem. Lett.,2016,16464086,IC50,None,Histone deacetylase 1,CHEMBL3761211,BAO_0000357,6.85,Inhibition of recombinant human HDAC1
+CHEMBL1865,Homo sapiens,Bioorg. Med. Chem. Lett.,2016,16464130,IC50,None,Histone deacetylase 6,CHEMBL3761212,BAO_0000357,7.1,Inhibition of recombinant human HDAC6
+CHEMBL1163125,Homo sapiens,Bioorg Med Chem Lett,2017,18207875,IC50,None,Bromodomain-containing protein 4,CHEMBL4045021,BAO_0000357,7.44,Inhibition of BRD4 (unknown origin)

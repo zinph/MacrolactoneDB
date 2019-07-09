@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1902,Homo sapiens,Bioorg. Med. Chem. Lett.,1995,216528,Kd,None,FK506-binding protein 1A,CHEMBL857594,BAO_0000357,6.5,Binding affinity to FK506 binding protein 12 was determined
+CHEMBL4445,Homo sapiens,Bioorg. Med. Chem. Lett.,1995,216529,Kd,None,"Serine/threonine protein phosphatase 2B catalytic subunit, alpha isoform",CHEMBL655821,BAO_0000357,6.46,"Binding affinity to protein phosphatase, calcineurin (CN) was determined"

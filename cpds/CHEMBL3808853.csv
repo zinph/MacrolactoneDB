@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2095194,Homo sapiens,J. Med. Chem.,2016,16596014,Ki,None,Coagulation factor VII/tissue factor,CHEMBL3811618,BAO_0000223,7.34,Inhibition of recombinant human Tissue factor/factor 7a using S2288 as substrate after 30 to 60 mins
+CHEMBL244,Homo sapiens,J. Med. Chem.,2016,16596019,Ki,None,Coagulation factor X,CHEMBL3811619,BAO_0000357,5.58,Inhibition of purified human factor 10a using S2765 as substrate after 30 to 60 mins
+CHEMBL2820,Homo sapiens,J. Med. Chem.,2016,16596027,Ki,None,Coagulation factor XI,CHEMBL3811620,BAO_0000357,4.97,Inhibition of purified human factor 11a after 30 to 60 mins
+CHEMBL2095204,Homo sapiens,J. Med. Chem.,2016,16596043,Ki,None,Trypsin,CHEMBL3811622,BAO_0000224,5.35,Inhibition of purified human trypsin after 30 to 60 mins
+CHEMBL2319,Homo sapiens,J. Med. Chem.,2016,16596051,Ki,None,Kallikrein 1,CHEMBL3811623,BAO_0000357,8.22,Inhibition of purified human tissue kallikrein 1 using H-D-Val-Leu-Arg-AFC as substrate

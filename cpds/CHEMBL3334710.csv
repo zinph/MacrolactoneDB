@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614697,Homo sapiens,J. Nat. Prod.,2014,15034442,IC50,None,MDA-MB-435,CHEMBL3378749,BAO_0000219,4.85,Cytotoxicity against human MDA-MB-435 cells assessed as cell viability after 72 hrs

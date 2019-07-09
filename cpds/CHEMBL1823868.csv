@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,J. Nat. Prod.,2011,6346673,IC50,GRASSYPEPTOLIDE D,NON-PROTEIN TARGET,CHEMBL1827860,BAO_0000219,6.22,Cytotoxicity against mouse Neuro2a cells after 48 hrs by MTT assay
+CHEMBL399,Homo sapiens,J. Nat. Prod.,2011,6346677,IC50,GRASSYPEPTOLIDE D,HeLa,CHEMBL1827859,BAO_0000219,6.47,Cytotoxicity against human HeLa cells after 48 hrs by MTT assay

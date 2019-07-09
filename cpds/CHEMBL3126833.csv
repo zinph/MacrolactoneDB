@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2878,Mus musculus,Eur. J. Med. Chem.,2014,13944079,IC50,None,Histone deacetylase 6,CHEMBL3129508,BAO_0000219,5.7,Inhibition of mouse HDAC6 expressed in human 293T cells using Ac-KGLGK(Ac)-MCA as substrate after 30 mins by fluorescence assay
+CHEMBL325,Homo sapiens,Eur. J. Med. Chem.,2014,13944208,IC50,None,Histone deacetylase 1,CHEMBL3129509,BAO_0000219,8.92,Inhibition of human HDAC1 expressed in human 293T cells using Ac-KGLGK(Ac)-MCA as substrate after 30 mins by fluorescence assay
+CHEMBL325,Homo sapiens,MedChemComm,2012,14550862,IC50,None,Histone deacetylase 1,CHEMBL3227883,BAO_0000357,9.7,Inhibition of human recombinant HDAC1 after 1 hr by luminescence assay
+CHEMBL3524,Homo sapiens,MedChemComm,2012,14550869,IC50,None,Histone deacetylase 4,CHEMBL3227884,BAO_0000357,4.42,Inhibition of human recombinant HDAC4 after 1 hr by luminescence assay
+CHEMBL1865,Homo sapiens,MedChemComm,2012,14550876,IC50,None,Histone deacetylase 6,CHEMBL3227885,BAO_0000357,6.11,Inhibition of human recombinant HDAC6 after 1 hr by luminescence assay

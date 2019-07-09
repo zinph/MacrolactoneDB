@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3622,Homo sapiens,None,None,4020264,Potency,None,Cytochrome P450 2C19,CHEMBL1613777,BAO_0000357,5.2,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors and Substrates of Cytochrome P450 2C19. (Class of assay: confirmatory) [Related pubchem assays: 410 ]
+CHEMBL1293248,Bacillus subtilis,None,None,4360989,Potency,None,4'-phosphopantetheinyl transferase ffp,CHEMBL1614174,BAO_0000019,4.85,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors of Bacillus subtilis Sfp phosphopantetheinyl transferase (PPTase). (Class of assay: confirmatory) 

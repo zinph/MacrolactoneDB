@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J Nat Prod,2017,18015597,IC50,None,Unchecked,CHEMBL4004933,BAO_0000219,5.91,Cytotoxicity against human WI38 cells after 72 hrs by CCK8 assay
+CHEMBL612545,None,J Nat Prod,2017,18015626,IC50,None,Unchecked,CHEMBL4004932,BAO_0000019,7.34,Antimalarial activity against chloroquine-resistant Plasmodium falciparum Dd2 assessed as parasite growth inhibition after 72 hrs by SYBR Green 1 assay

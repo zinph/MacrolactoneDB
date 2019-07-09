@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614697,Homo sapiens,Bioorg. Med. Chem. Lett.,2002,746414,IC50,None,MDA-MB-435,CHEMBL708862,BAO_0000219,6.52,"Inhibitory activity against the growth of wild type LCC6-WT cell line, human breast carcinoma after 74 hr drug exposure"
+CHEMBL614697,Homo sapiens,Bioorg. Med. Chem. Lett.,2002,746415,IC50,None,MDA-MB-435,CHEMBL711070,BAO_0000219,5.46,"Inhibitory activity against the growth of drug resistant LCC6-MDR cell line, human breast carcinoma after 74 hr drug exposure"

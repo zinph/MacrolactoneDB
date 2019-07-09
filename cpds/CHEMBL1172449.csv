@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2820,Homo sapiens,J. Nat. Prod.,2010,3351725,IC50,CYANOPEPTOLIN 1020,Coagulation factor XI,CHEMBL1173909,BAO_0000357,8.41,Inhibition of factor 11a
+CHEMBL612545,None,J. Nat. Prod.,2010,3351726,IC50,CYANOPEPTOLIN 1020,Unchecked,CHEMBL1173910,BAO_0000019,8.35,Inhibition of human kallikrein
+CHEMBL1801,Homo sapiens,J. Nat. Prod.,2010,3351727,IC50,CYANOPEPTOLIN 1020,Plasminogen,CHEMBL1173911,BAO_0000357,6.31,Inhibition of plasmin
+CHEMBL612545,None,J. Nat. Prod.,2010,3351729,IC50,CYANOPEPTOLIN 1020,Unchecked,CHEMBL1173912,BAO_0000019,5.75,Inhibition of chymotrypsin
+CHEMBL612545,None,J. Nat. Prod.,2010,3351731,IC50,CYANOPEPTOLIN 1020,Unchecked,CHEMBL1173907,BAO_0000019,9.17,Inhibition of trypsin

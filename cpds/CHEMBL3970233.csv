@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2095194,Homo sapiens,ACS Med Chem Lett,2017,16813602,Ki,None,Coagulation factor VII/tissue factor,CHEMBL3871150,BAO_0000223,6.58,Inhibition of recombinant human factor-7a/TF using S2288 as substrate measured after 60 mins at 25 degC

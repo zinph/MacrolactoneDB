@@ -1,0 +1,22 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,None,None,3636003,Potency,None,NON-PROTEIN TARGET,CHEMBL1614537,BAO_0000019,5.55,
+CHEMBL1293235,Homo sapiens,None,None,3638227,Potency,None,Prelamin-A/C,CHEMBL1614544,BAO_0000019,6.65,PUBCHEM_BIOASSAY: qHTS Assay for Modulators of Lamin A Splicing. (Class of assay: confirmatory) 
+CHEMBL3879801,None,None,None,3696163,Potency,None,NON-PROTEIN TARGET,CHEMBL1613900,BAO_0000019,5.7,
+CHEMBL1293294,Homo sapiens,None,None,3854961,Potency,None,Ras-related protein Rab-9A,CHEMBL1613838,BAO_0000019,5.04,PUBCHEM_BIOASSAY: qHTS Assay for Rab9 Promoter Activators. (Class of assay: confirmatory) 
+CHEMBL2842,Homo sapiens,None,None,3919389,Potency,None,Serine/threonine-protein kinase mTOR,CHEMBL1614293,BAO_0000219,6.13,PUBCHEM_BIOASSAY: High Content Imaging Cell-Based qHTS for Inhibitors of the mTORC1 Signaling Pathway in MEF Cells. (Class of assay: confirmatory) 
+CHEMBL612545,None,None,None,3940546,Potency,None,Unchecked,CHEMBL1614362,BAO_0000019,5.95,PUBCHEM_BIOASSAY: Validation screen for inhibitors of Lassa infection. (Class of assay: confirmatory) 
+CHEMBL3879801,None,None,None,3989019,Potency,None,NON-PROTEIN TARGET,CHEMBL1613767,BAO_0000019,5.65,
+CHEMBL3879801,None,None,None,4278703,Potency,None,NON-PROTEIN TARGET,CHEMBL1614114,BAO_0000019,5.7,PUBCHEM_BIOASSAY: qHTS for differential inhibitors of proliferation of Plasmodium falciparum line GB4. (Class of assay: confirmatory) 
+CHEMBL1293298,Homo sapiens,None,None,4358496,Potency,None,Peripheral myelin protein 22,CHEMBL1614171,BAO_0000019,5.87,PUBCHEM_BIOASSAY: qHTS Assay for Modulators of Human Peripheral Myelin Protein 22 (PMP22) Expression/Activity. (Class of assay: confirmatory) 
+CHEMBL2842,Homo sapiens,None,None,4393073,Potency,None,Serine/threonine-protein kinase mTOR,CHEMBL1614316,BAO_0000219,6.13,"PUBCHEM_BIOASSAY: High Content Imaging Cell-Based qHTS for Inhibitors of the mTORC1 Signaling Pathway in MEF (Tsc2-/-, p53-/-) Cells. (Class of assay: confirmatory) "
+CHEMBL1293235,Homo sapiens,None,None,4403310,Potency,None,Prelamin-A/C,CHEMBL1614310,BAO_0000019,6.5,PUBCHEM_BIOASSAY: Validation of Assay for Modulators of Lamin A Splicing. (Class of assay: confirmatory) 
+CHEMBL1293303,Influenza A virus,None,None,4426791,Potency,None,Nonstructural protein 1,CHEMBL1614236,BAO_0000019,4.5,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors of Influenza NS1 Protein Function. (Class of assay: confirmatory) 
+CHEMBL2842,Homo sapiens,None,None,4522720,Potency,None,Serine/threonine-protein kinase mTOR,CHEMBL1613805,BAO_0000219,5.88,PUBCHEM_BIOASSAY: Cytometry Cell-Based qHTS for Inhibitors of the mTORC1 Signaling Pathway in MEF cells. (Class of assay: confirmatory) 
+CHEMBL3879801,None,None,None,4536003,Potency,None,NON-PROTEIN TARGET,CHEMBL1614198,BAO_0000019,5.65,PUBCHEM_BIOASSAY: qHTS for differential inhibitors of proliferation of Plasmodium falciparum line 7G8. (Class of assay: confirmatory) 
+CHEMBL3879801,None,None,None,4538341,Potency,None,NON-PROTEIN TARGET,CHEMBL1614207,BAO_0000019,5.65,
+CHEMBL1293277,Homo sapiens,None,None,4744533,Potency,None,Niemann-Pick C1 protein,CHEMBL1614342,BAO_0000019,4.04,PUBCHEM_BIOASSAY: qHTS Assay for NPC1 Promoter Activators. (Class of assay: confirmatory) 
+CHEMBL1293237,Homo sapiens,None,None,4749852,Potency,None,Bloom syndrome protein,CHEMBL1614522,BAO_0000019,3.95,"PUBCHEM_BIOASSAY: qHTS Validation Assay for Inhibitors of Bloom&apos;s syndrome helicase (BLM). (Class of assay: confirmatory) [Related pubchem assays: 593 (Fluorescein region spectral profiling screen), 594 (Rhodamine region spectral profiling screen)]"
+CHEMBL2842,Homo sapiens,None,None,4787558,Potency,None,Serine/threonine-protein kinase mTOR,CHEMBL1614009,BAO_0000219,5.53,"PUBCHEM_BIOASSAY: Cytometric Cell-Based qHTS for Inhibitors of the mTORC1 Signaling Pathway in MEF (Tsc2-/-, p53-/-) Cells. (Class of assay: confirmatory) "
+CHEMBL1293237,Homo sapiens,None,None,4929922,Potency,None,Bloom syndrome protein,CHEMBL1614067,BAO_0000019,3.95,
+CHEMBL3879801,None,None,None,4970355,Potency,None,NON-PROTEIN TARGET,CHEMBL1614142,BAO_0000019,5.7,
+CHEMBL1293278,Homo sapiens,None,None,5065059,Potency,None,Geminin,CHEMBL1613941,BAO_0000019,6.05,PUBCHEM_BIOASSAY: Validation screen for small molecules that induce DNA re-replication in MCF 10A normal breast cells. (Class of assay: confirmatory) 

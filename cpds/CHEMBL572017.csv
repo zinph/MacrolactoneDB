@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1075292,Mus musculus,Bioorg. Med. Chem. Lett.,2009,3004804,IC50,None,Transcription factor HES-1,CHEMBL1044690,BAO_0000019,5.11,Inhibition of Cy3-labeled mouse recombinant Hes1 (3-281) dimer formation expressed in Escherichia coli by microplate-based assay

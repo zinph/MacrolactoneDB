@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2392,Homo sapiens,None,None,5063628,Potency,None,DNA polymerase beta,CHEMBL1614079,BAO_0000019,4.1,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors of DNA Polymerase Beta. (Class of assay: confirmatory) 

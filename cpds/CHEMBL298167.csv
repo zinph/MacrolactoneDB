@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL332,Homo sapiens,J. Med. Chem.,1998,938750,Ki,None,Matrix metalloproteinase-1,CHEMBL717833,BAO_0000357,5.08,Inhibition of Matrix metalloprotease-1
+CHEMBL333,Homo sapiens,J. Med. Chem.,1998,938751,Ki,None,Matrix metalloproteinase-2,CHEMBL714224,BAO_0000357,6.62,Inhibition of Matrix metalloprotease-2
+CHEMBL283,Homo sapiens,J. Med. Chem.,1998,938752,Ki,None,Matrix metalloproteinase 3,CHEMBL709179,BAO_0000357,5.54,Inhibition of Matrix metalloprotease-3
+CHEMBL4588,Homo sapiens,J. Med. Chem.,1998,938753,Ki,None,Matrix metalloproteinase 8,CHEMBL713853,BAO_0000357,8.0,Inhibition of Matrix metalloprotease-8
+CHEMBL321,Homo sapiens,J. Med. Chem.,1998,938754,Ki,None,Matrix metalloproteinase 9,CHEMBL718977,BAO_0000357,5.24,Inhibition of Matrix metalloprotease-9

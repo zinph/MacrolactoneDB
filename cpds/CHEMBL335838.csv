@@ -1,0 +1,8 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL383,Homo sapiens,J. Med. Chem.,2003,109372,IC50,None,HL-60,CHEMBL871984,BAO_0000219,8.0,In vitro antitumor activity against leukemia HL-60(TB) tumor cell lines
+CHEMBL614740,Homo sapiens,J. Med. Chem.,2003,109374,IC50,None,NCI-H226,CHEMBL747940,BAO_0000219,8.15,In vitro antitumor activity against NSCL NCI-H226 tumor cell lines
+CHEMBL614610,Homo sapiens,J. Med. Chem.,2003,109381,IC50,None,UACC-62,CHEMBL815363,BAO_0000219,8.05,In vitro antitumor activity against melanoma UACC-62 tumor cell lines
+CHEMBL613102,Homo sapiens,J. Med. Chem.,2003,109382,IC50,None,786-0,CHEMBL883795,BAO_0000219,7.23,In vitro antitumor activity against renal 786-0 tumor cell lines
+CHEMBL614516,Homo sapiens,J. Med. Chem.,2003,109383,IC50,None,A498,CHEMBL624425,BAO_0000219,8.05,In vitro antitumor activity against renal A498 tumor cell lines
+CHEMBL614886,Homo sapiens,J. Med. Chem.,2003,109384,IC50,None,RXF 393,CHEMBL772391,BAO_0000219,7.24,In vitro antitumor activity against renal RXF 393 tumor cell lines
+CHEMBL614697,Homo sapiens,J. Med. Chem.,2003,109386,IC50,None,MDA-MB-435,CHEMBL709620,BAO_0000219,8.4,In vitro antitumor activity against breast MDA-MB-435 tumor cell lines

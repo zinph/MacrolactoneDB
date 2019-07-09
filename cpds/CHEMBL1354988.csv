@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1293235,Homo sapiens,None,None,3626310,Potency,None,Prelamin-A/C,CHEMBL1614544,BAO_0000019,4.85,PUBCHEM_BIOASSAY: qHTS Assay for Modulators of Lamin A Splicing. (Class of assay: confirmatory) 
+CHEMBL1293226,Homo sapiens,None,None,3708057,Potency,None,Lysine-specific demethylase 4D-like,CHEMBL1613914,BAO_0000019,4.45,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors of Human Jumonji Domain Containing 2E (JMJD2E). (Class of assay: confirmatory) 
+CHEMBL612545,None,None,None,5077022,Potency,None,Unchecked,CHEMBL1614019,BAO_0000019,4.4,PUBCHEM_BIOASSAY: qHTS Assay for Lipid Storage Modulators. (Class of assay: confirmatory) 

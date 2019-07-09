@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614818,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3191737,IC50,RHIZOXIN,HEK293,CHEMBL1107823,BAO_0000219,6.46,Cytotoxicity against HEK293 cells after 72 hrs by luminescence assay
+CHEMBL614628,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3191738,IC50,RHIZOXIN,Raji,CHEMBL1107824,BAO_0000219,6.47,Cytotoxicity against human Raji cells after 72 hrs by luminescence assay
+CHEMBL612851,Trypanosoma brucei brucei,Bioorg. Med. Chem. Lett.,2010,3212821,IC50,RHIZOXIN,Trypanosoma brucei brucei,CHEMBL1106971,BAO_0000218,6.82,Antitrypanosomal activity against Trypanosoma brucei brucei after 48 hrs by luminescence assay
+CHEMBL395,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3212822,IC50,RHIZOXIN,HepG2,CHEMBL1106972,BAO_0000219,6.4,Cytotoxicity against human HepG2 cells after 72 hrs by luminescence assay
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2010,3212830,IC50,RHIZOXIN,Unchecked,CHEMBL1103304,BAO_0000019,6.82,Inhibition of Trypanosoma brucei brucei tubulin polymerization
+CHEMBL612545,None,J. Med. Chem.,2013,12699872,IC50,RHIZOXIN,Unchecked,CHEMBL2345645,BAO_0000019,5.17,Inhibition of goat brain tubulin polymerization incubated for 20 mins prior to GTP addition measured for 30 mins by 90 degree light scattering-based fluorescence spectrophotometric method

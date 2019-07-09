@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,J. Nat. Prod.,2006,2548893,IC50,WORTMANNILACTONE B,NON-PROTEIN TARGET,CHEMBL969939,BAO_0000219,4.49,Cytotoxicity against human HCT5 cells
+CHEMBL3879801,None,J. Nat. Prod.,2006,2548896,IC50,WORTMANNILACTONE B,NON-PROTEIN TARGET,CHEMBL969940,BAO_0000219,4.38,Cytotoxicity against human HCT115 cells
+CHEMBL400,Homo sapiens,J. Nat. Prod.,2006,2548902,IC50,WORTMANNILACTONE B,MDA-MB-231,CHEMBL969942,BAO_0000219,4.02,Cytotoxicity against human MDA-MB-231 cells

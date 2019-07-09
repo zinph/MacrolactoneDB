@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Eur J Med Chem,2017,17954228,IC50,None,Unchecked,CHEMBL3993269,BAO_0000019,5.64,Inhibition of Norovirus 3CLpro using Edans-DFHLQ/GP-Dabcyl as substrate preincubated for 30 mins followed by substrate addition measured after 1 hr by FRET assay
+CHEMBL612545,None,Eur J Med Chem,2017,17954238,EC50,None,Unchecked,CHEMBL3993270,BAO_0000219,5.04,Antiviral activity against Norovirus replicon infected in human HG23 cells assessed as inhibition of viral RNA replication after 48 hrs by qRT-PCR method
+CHEMBL612545,None,Eur J Med Chem,2017,17954260,EC50,None,Unchecked,CHEMBL3993271,BAO_0000219,4.81,Antiviral activity against MNV replicon infected in mouse RAW264.7 cells assessed as inhibition of viral RNA replication after 24 hrs

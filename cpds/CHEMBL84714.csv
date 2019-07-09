@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614741,None,J. Med. Chem.,2003,757202,IC50,None,3Y1 cell line,CHEMBL615556,BAO_0000219,6.1,Concentration to inhibit growth of normal rat fibroblast cells (3Y1-B cells) after 72 h exposure
+CHEMBL3879801,None,J. Med. Chem.,2003,757203,IC50,None,NON-PROTEIN TARGET,CHEMBL799317,BAO_0000019,6.62,Concentration to inhibit growth of v-src-transformed cells (SR-3Y1 cells) after 72 h exposure
+CHEMBL613518,Rattus norvegicus,J. Med. Chem.,2003,757204,IC50,None,NRK,CHEMBL752570,BAO_0000219,6.16,Concentration to inhibit growth of normal rat kidney epithelial cells (NRK cells) after 72 hr exposure
+CHEMBL3879801,None,J. Med. Chem.,2003,757205,IC50,None,NON-PROTEIN TARGET,CHEMBL700270,BAO_0000019,6.24,Concentration to inhibit growth of normal rat K-ras-transformed cells (KNRK 5.2 cells) after 72 hr exposure
+CHEMBL3014,Rattus norvegicus,J. Med. Chem.,2003,757206,IC50,None,Tyrosine-protein kinase SRC,CHEMBL843326,BAO_0000219,6.44,Inhibition of v-Src tyrosine kinase autophosphorylation in SR3Y1 cells after 15 hr exposure

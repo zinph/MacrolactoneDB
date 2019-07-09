@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,J. Med. Chem.,2014,15108528,IC50,None,NON-PROTEIN TARGET,CHEMBL3362699,BAO_0000219,5.12,Antiproliferative activity against human colon cancer cells

@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3517,Sus scrofa,J. Nat. Prod.,2010,3208264,IC50,MOLASSAMIDE,Elastase 1,CHEMBL1107881,BAO_0000357,7.5,Inhibition of pig pancreatic elastase preincubated for 15 mins by spectrophotometry
+CHEMBL3314,Bos taurus,J. Nat. Prod.,2010,3208265,IC50,MOLASSAMIDE,Alpha-chymotrypsin,CHEMBL1107882,BAO_0000357,6.63,Inhibition of bovine pancreas alpha-chymotrypsin preincubated for 10 mins by spectrophotometry

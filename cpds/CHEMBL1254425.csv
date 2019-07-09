@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL387,Homo sapiens,Bioorg. Med. Chem.,2010,3464831,IC50,None,MCF7,CHEMBL1250993,BAO_0000219,5.09,Cytotoxicity against human MCF7 cells after 72 hrs by SRB assay
+CHEMBL3879801,None,Bioorg. Med. Chem.,2010,3464838,IC50,None,NON-PROTEIN TARGET,CHEMBL1250994,BAO_0000219,4.89,Cytotoxicity against human NCI/ADR cells after 72 hrs by SRB assay
+CHEMBL3879801,None,Bioorg. Med. Chem.,2010,3464845,IC50,None,NON-PROTEIN TARGET,CHEMBL1250995,BAO_0000219,4.98,Cytotoxicity against human wild type LCC-6 cells after 72 hrs by SRB assay

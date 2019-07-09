@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,None,None,8600670,IC50,None,Unchecked,CHEMBL1964022,BAO_0000221,4.19,PUBCHEM_BIOASSAY: Dose response confirmation of uHTS hits for small molecule modulators of myocardial damage using 2-dexoy-glucose - Set 2. (Class of assay: confirmatory) 
+CHEMBL612545,None,None,None,10280626,IC50,None,Unchecked,CHEMBL1963916,BAO_0000221,4.75,PUBCHEM_BIOASSAY: Dose response confirmation of uHTS hits for small molecule modulators of myocardial damage - Set 2. (Class of assay: confirmatory) 

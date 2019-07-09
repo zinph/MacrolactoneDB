@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1795086,Plasmodium falciparum 3D7,None,None,7548914,AC50,None,HSP90,CHEMBL1794470,BAO_0000218,6.66,PUBCHEM_BIOASSAY: Anti-Malarial Hsp90 Inhibitors Measured in Microorganism System Using Plate Reader - 2121-01_Inhibitor_Dose_CherryPick_Activity. (Class of assay: confirmatory) [Related pubchem assays (depositor defined):AID504596]

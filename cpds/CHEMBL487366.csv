@@ -1,0 +1,9 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL368,Trypanosoma cruzi,None,None,15141805,IC50,None,Trypanosoma cruzi,CHEMBL3392937,BAO_0000218,4.25,"DNDI: Chagas in Vitro, 96 hour"
+CHEMBL3879801,None,None,None,15141806,IC50,None,NON-PROTEIN TARGET,CHEMBL3392940,BAO_0000219,4.65,"DNDI: Cytotoxicity in Vitro, 96 hour, in primary peritoneal mouse macrophages"
+CHEMBL367,Leishmania donovani,None,None,15141807,IC50,None,Leishmania donovani,CHEMBL3392942,BAO_0000218,6.47,"DNDI: Leish (axenic) in Vitro, 72 hour"
+CHEMBL367,Leishmania donovani,None,None,15141808,IC50,None,Leishmania donovani,CHEMBL3392943,BAO_0000218,6.51,"DNDI: Leish (macro) in Vitro, 96 hour"
+CHEMBL364,Plasmodium falciparum,None,None,15141809,IC50,None,Plasmodium falciparum,CHEMBL3392944,BAO_0000218,6.1,"DNDI: Malaria in Vitro, 72 hour"
+CHEMBL3879801,None,None,None,15141810,IC50,None,NON-PROTEIN TARGET,CHEMBL3392938,BAO_0000219,4.99,"DNDI: Cytotoxicity in Vitro, 72 hour, in rat skeletal myoblast cells"
+CHEMBL3879801,None,None,None,15141811,IC50,None,NON-PROTEIN TARGET,CHEMBL3392939,BAO_0000219,4.49,"DNDI: Cytotoxicity in Vitro, 96 hour, in mouse macrophages (infected-amastigotes)"
+CHEMBL612348,Trypanosoma brucei rhodesiense,None,None,15141812,IC50,None,Trypanosoma brucei rhodesiense,CHEMBL3392941,BAO_0000218,6.12,"DNDI: HAT in Vitro, 72 hour"

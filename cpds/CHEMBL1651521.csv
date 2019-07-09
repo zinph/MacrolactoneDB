@@ -1,0 +1,11 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4247,Homo sapiens,ACS Med. Chem. Lett.,2011,5152431,IC50,None,ALK tyrosine kinase receptor,CHEMBL1656371,BAO_0000357,6.12,Inhibition of ALK by TR-FRET based LanthaScreen assay
+CHEMBL4040,Homo sapiens,ACS Med. Chem. Lett.,2011,5152432,IC50,None,MAP kinase ERK2,CHEMBL1656372,BAO_0000357,5.19,Inhibition of ERK2 by Caliper mobility shift assay
+CHEMBL5147,Homo sapiens,ACS Med. Chem. Lett.,2011,5152433,IC50,None,Ephrin type-B receptor 4,CHEMBL1656373,BAO_0000357,5.13,Inhibition of EPHB4 by TR-FRET based LanthaScreen assay
+CHEMBL1936,Homo sapiens,ACS Med. Chem. Lett.,2011,5152434,IC50,None,Stem cell growth factor receptor,CHEMBL1656374,BAO_0000357,6.17,Inhibition of cKIT by TR-FRET based LanthaScreen assay
+CHEMBL258,Homo sapiens,ACS Med. Chem. Lett.,2011,5152435,IC50,None,Tyrosine-protein kinase LCK,CHEMBL1656375,BAO_0000357,5.33,Inhibition of LCK by TR-FRET based LanthaScreen assay
+CHEMBL4204,Homo sapiens,ACS Med. Chem. Lett.,2011,5152438,IC50,None,MAP kinase signal-integrating kinase 2,CHEMBL1656378,BAO_0000357,6.82,Inhibition of MNK2 by TR-FRET based LanthaScreen assay
+CHEMBL612545,None,ACS Med. Chem. Lett.,2011,5152439,IC50,None,Unchecked,CHEMBL1656379,BAO_0000019,8.14,Inhibition of PDGFRalpha V561D mutant by TR-FRET based LanthaScreen assay
+CHEMBL2041,Homo sapiens,ACS Med. Chem. Lett.,2011,5152440,IC50,None,Tyrosine-protein kinase receptor RET,CHEMBL1656380,BAO_0000357,5.14,Inhibition of RET by TR-FRET based LanthaScreen assay
+CHEMBL3553,Homo sapiens,ACS Med. Chem. Lett.,2011,5152441,IC50,None,Tyrosine-protein kinase TYK2,CHEMBL1656381,BAO_0000357,5.36,Inhibition of TYK2 by TR-FRET based LanthaScreen assay
+CHEMBL279,Homo sapiens,ACS Med. Chem. Lett.,2011,5152442,IC50,None,Vascular endothelial growth factor receptor 2,CHEMBL1656382,BAO_0000357,8.24,Inhibition of VEGFR2 by TR-FRET based LanthaScreen assay

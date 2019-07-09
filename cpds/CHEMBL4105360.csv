@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J Nat Prod,2017,18016296,IC50,None,Unchecked,CHEMBL4005070,BAO_0000019,5.82,Antimalarial activity against chloroquine-sensitive Plasmodium falciparum 3D7
+CHEMBL612545,None,J Nat Prod,2017,18016299,IC50,None,Unchecked,CHEMBL4005071,BAO_0000019,5.8,Antimalarial activity against chloroquine-resistant Plasmodium falciparum Dd2
+CHEMBL612545,None,J Nat Prod,2017,18016302,IC50,None,Unchecked,CHEMBL4005072,BAO_0000019,5.89,Antimalarial activity against chloroquine-resistant Plasmodium falciparum K1

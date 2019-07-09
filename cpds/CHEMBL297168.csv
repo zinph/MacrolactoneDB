@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5306,Oryctolagus cuniculus,Bioorg. Med. Chem. Lett.,1994,758112,IC50,None,Motilin receptor,CHEMBL733405,BAO_0000221,8.64,In vitro binding affinity towards motilin receptor was determined in rabbit small intestinal smooth muscle tissue homogenate
+CHEMBL5306,Oryctolagus cuniculus,Bioorg. Med. Chem. Lett.,1994,758113,IC50,None,Motilin receptor,CHEMBL733404,BAO_0000221,8.41,In vitro binding affinity towards motilin receptor was determined after treatment with hydrochloric acid in rabbit small intestinal smooth muscle tissue homogenate
+CHEMBL374,Oryctolagus cuniculus,Bioorg. Med. Chem. Lett.,1994,758114,EC50,None,Oryctolagus cuniculus,CHEMBL773451,BAO_0000218,7.98,In vitro contractile activity was measured in the rabbit duodenum preparation

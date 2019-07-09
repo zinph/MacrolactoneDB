@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614181,Homo sapiens,Bioorg. Med. Chem. Lett.,2002,898614,IC50,NYSTATIN,MRC5,CHEMBL711570,BAO_0000219,4.47,Cytotoxicity against human diploid embryotic cell line (MRC-5)
+CHEMBL612870,Candida tropicalis,Bioorg. Med. Chem. Lett.,2006,1682285,IC50,NYSTATIN,Candida tropicalis,CHEMBL866408,BAO_0000218,4.0,Inhibitory activity against Candida tropicalis
+CHEMBL612841,Pichia kudriavzevii,Bioorg. Med. Chem. Lett.,2006,1682301,IC50,NYSTATIN,Issatchenkia orientalis,CHEMBL867066,BAO_0000218,4.0,Inhibitory activity against Candida krusei
+CHEMBL613915,BK polyomavirus,Antimicrob. Agents Chemother.,2007,2307314,EC50,NYSTATIN,BK polyomavirus,CHEMBL995386,BAO_0000218,5.01,Antiviral activity against BKV Gardner ATCC VR837 infected in human WI38 cells assessed as reduction in viral DNA level preincubated for 2 hrs before viral infection measured after 7 days by real time PCR assay
+CHEMBL366,Candida albicans,Bioorg. Med. Chem. Lett.,2012,8029489,EC50,NYSTATIN,Candida albicans,CHEMBL1954329,BAO_0000218,5.62,Antifungal activity against Candida albicans ATCC 10231 assessed as increase in intracellular potassium release after 30 mins

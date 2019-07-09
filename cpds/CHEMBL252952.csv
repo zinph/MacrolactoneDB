@@ -1,0 +1,9 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Nat. Prod.,2007,1800567,IC50,LYNGBYASTATIN 4,Unchecked,CHEMBL911674,BAO_0000019,7.52,Inhibition of porcine pancreatic elastase
+CHEMBL612545,None,J. Nat. Prod.,2007,1800568,IC50,LYNGBYASTATIN 4,Unchecked,CHEMBL911675,BAO_0000019,6.52,Inhibition of bovine pancreatic alpha chymotrypsin
+CHEMBL612545,None,J. Nat. Prod.,2007,2060598,IC50,LYNGBYASTATIN 4,Unchecked,CHEMBL926742,BAO_0000019,7.86,Inhibition of pig elastase
+CHEMBL612545,None,J. Nat. Prod.,2007,2060599,IC50,LYNGBYASTATIN 4,Unchecked,CHEMBL926743,BAO_0000019,5.37,Inhibition of bovine alpha chymotrypsin
+CHEMBL612545,None,J. Nat. Prod.,2008,2151512,IC50,LYNGBYASTATIN 4,Unchecked,CHEMBL930445,BAO_0000019,6.52,Inhibition of chymotrypsin
+CHEMBL612545,None,J. Med. Chem.,2013,12674699,IC50,LYNGBYASTATIN 4,Unchecked,CHEMBL2339521,BAO_0000019,6.21,Inhibition of bovine pancreatic chymotrypsin assessed as proteolysis using N-succinyl-Gly-Gly-Phe-p-nitroanilide substrate incubated for 30 mins prior to substrate addition
+CHEMBL248,Homo sapiens,J. Med. Chem.,2013,12674708,IC50,LYNGBYASTATIN 4,Leukocyte elastase,CHEMBL2339522,BAO_0000357,7.31,Inhibition of human neutrophil elastase assessed as proteolysis using N-(methoxysuccinyl)-Ala-Ala-Pro-Val-p-nitroanilide substrate incubated for 15 mins prior to substrate addition measured every 30 seconds
+CHEMBL612545,None,J. Med. Chem.,2013,12674717,IC50,LYNGBYASTATIN 4,Unchecked,CHEMBL2339523,BAO_0000019,7.39,Inhibition of porcine pancreatic elastase assessed as proteolysis using N-succinyl-Ala-Ala-Ala-p-nitroanilide substrate incubated for 15 mins prior to substrate addition measured every 30 seconds

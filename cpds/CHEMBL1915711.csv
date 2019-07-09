@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem.,2011,7930556,IC50,PALMEROLIDE G,Unchecked,CHEMBL1921013,BAO_0000019,8.15,Inhibition of bovine brain Vo domain of V-ATPase activity assessed as ATP-mediated proton translocation by spectrophotometric analysis
+CHEMBL614610,Homo sapiens,Bioorg. Med. Chem.,2011,7930557,IC50,PALMEROLIDE G,UACC-62,CHEMBL1921014,BAO_0000219,5.92,Cytotoxicity against human UACC62 cells after 48 hrs by SRB assay

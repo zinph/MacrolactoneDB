@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612557,Mus musculus,J. Nat. Prod.,2014,15112489,IC50,None,RAW264.7,CHEMBL3387683,BAO_0000219,4.21,Antiinflammatory activity in mouse RAW264.7 cells assessed as inhibition of LPS-induced NO production incubated for 1 hr prior to LPS-challenge measured after 24 hrs by Greiss assay

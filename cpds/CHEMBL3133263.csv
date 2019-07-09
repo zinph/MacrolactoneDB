@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,MedChemComm,2013,13970180,IC50,None,Unchecked,CHEMBL3134683,BAO_0000219,10.09,Inhibition of calcineurin in human Jurkat cells assessed as inhibition of NFAT-mediated IL-2 production after 8 hrs by beta-lactamase reporter gene assay

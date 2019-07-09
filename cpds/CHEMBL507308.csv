@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL378,Human immunodeficiency virus 1,Bioorg. Med. Chem. Lett.,1992,644949,IC50,PUNICAFOLIN,Human immunodeficiency virus 1,CHEMBL683819,BAO_0000218,4.47,Anti-HIV activity in cell culture assay expressed as IC50 values.
+CHEMBL378,Human immunodeficiency virus 1,Bioorg. Med. Chem. Lett.,1992,644950,EC50,PUNICAFOLIN,Human immunodeficiency virus 1,CHEMBL688527,BAO_0000218,4.72,Anti-HIV activity in cell culture assay expressed as EC50 values.
+CHEMBL2093867,Homo sapiens,Bioorg. Med. Chem. Lett.,1992,962245,IC50,PUNICAFOLIN,Protein kinase C (PKC),CHEMBL769344,BAO_0000224,5.4,Inhibitory activity against protein kinase C (PKC)
+CHEMBL2094266,Rattus norvegicus,J. Med. Chem.,1994,977608,IC50,PUNICAFOLIN,Protein kinase C (PKC),CHEMBL767465,BAO_0000019,5.4,Inhibitory activity against protein kinase C of rat brain

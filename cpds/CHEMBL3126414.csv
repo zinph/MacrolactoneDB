@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem.,2014,13954074,IC50,None,Unchecked,CHEMBL3130045,BAO_0000219,6.47,Immunosuppressive activity in human Jurkat T cells assessed as inhibition of IL-2 transcription

@@ -1,0 +1,8 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614925,Homo sapiens,J. Nat. Prod.,2006,2537735,IC50,HYPOTHEMYCIN,SK-OV-3,CHEMBL976684,BAO_0000219,7.16,Cytotoxicity against human SKOV3 cells
+CHEMBL2366275,Homo sapiens,J. Nat. Prod.,2006,2537738,IC50,HYPOTHEMYCIN,COLO-829,CHEMBL971973,BAO_0000219,6.82,Cytotoxicity against human COLO829 cells
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2006,2537741,IC50,HYPOTHEMYCIN,HT-29,CHEMBL971974,BAO_0000219,5.23,Cytotoxicity against human HT-29 cells
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2011,6268629,IC50,HYPOTHEMYCIN,MCF7,CHEMBL1804009,BAO_0000219,4.79,Cytotoxicity against human MCF7 cells after 72 hrs by MTS assay
+CHEMBL396,Homo sapiens,J. Nat. Prod.,2011,6268630,IC50,HYPOTHEMYCIN,NCI-H460,CHEMBL1804010,BAO_0000219,5.37,Cytotoxicity against human H460 cells after 72 hrs by MTS assay
+CHEMBL613977,Homo sapiens,J. Nat. Prod.,2011,6268631,IC50,HYPOTHEMYCIN,SF-268,CHEMBL1804145,BAO_0000219,4.9,Cytotoxicity against human SF268 cells after 72 hrs by MTS assay
+CHEMBL5776,Homo sapiens,Bioorg. Med. Chem.,2015,15750314,IC50,HYPOTHEMYCIN,Mitogen-activated protein kinase kinase kinase 7,CHEMBL3632095,BAO_0000357,7.48,Inhibition of TAK1 (unknown origin)

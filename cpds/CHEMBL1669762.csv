@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3507,Rattus norvegicus,Bioorg. Med. Chem. Lett.,2011,5196705,IC50,None,Mineralocorticoid receptor,CHEMBL1670277,BAO_0000219,5.56,Antagonist activity at rat mineralocorticoid receptor-ligand binding domain expressed in AH109 yeast cells co expressing pGADT7-hSRC-1 by two hybrid assay
+CHEMBL206,Homo sapiens,Bioorg. Med. Chem. Lett.,2011,5196710,IC50,None,Estrogen receptor alpha,CHEMBL1670279,BAO_0000219,5.08,Inhibition of ERalpha ligand binding domain expressed in HEK293T cells

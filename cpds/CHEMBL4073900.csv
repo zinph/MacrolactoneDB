@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3891,Homo sapiens,J Med Chem,2017,18113651,IC50,None,Calpain 1,CHEMBL4024817,BAO_0000357,8.52,Inhibition of human calpain 1 protease using Ac-LLY-AFC as substrate after 1 hr by fluorescence assay

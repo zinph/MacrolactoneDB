@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,Bioorg. Med. Chem. Lett.,2006,1809492,IC50,None,NON-PROTEIN TARGET,CHEMBL911931,BAO_0000219,6.52,Antiproliferative activity against NCI60 cell line
+CHEMBL613979,Homo sapiens,Bioorg. Med. Chem. Lett.,2006,1809507,IC50,None,HUVEC,CHEMBL911930,BAO_0000219,6.3,Growth inhibition in HUVEC

@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4462,Homo sapiens,MedChemComm,2012,14927487,IC50,None,NAD-dependent deacetylase sirtuin 2,CHEMBL3391506,BAO_0000357,6.75,Inhibition of human SIRT-2 using fluor de Lys as substrate after 2 hrs by fluorescence assay
+CHEMBL4462,Homo sapiens,MedChemComm,2012,14927488,IC50,None,NAD-dependent deacetylase sirtuin 2,CHEMBL3391494,BAO_0000357,5.7,Inhibition of recombinant human N-terminal His6-tagged SIRT-2 using ZMAL as substrate after 4 hrs by homogeneous fluorescent deacetylase assay

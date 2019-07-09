@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL381,Mus musculus,Bioorg. Med. Chem. Lett.,1996,622679,IC50,None,B16,CHEMBL650250,BAO_0000219,9.52,Cytotoxic activity against B16F10 mouse melanoma cells
+CHEMBL614481,None,Bioorg. Med. Chem. Lett.,1996,622680,IC50,None,DA-3 cell line,CHEMBL663157,BAO_0000219,9.7,Cytotoxic activity against DA-3 mouse mammary adenocarcinoma cells
+CHEMBL398,Homo sapiens,Bioorg. Med. Chem. Lett.,1996,622681,IC50,None,KB,CHEMBL705501,BAO_0000219,9.52,Cytotoxic activity against KB human nasopharyngeal carcinoma cells
+CHEMBL398,Homo sapiens,Bioorg. Med. Chem. Lett.,1996,622682,IC50,None,KB,CHEMBL702191,BAO_0000219,9.1,Cytotoxic activity against KBV vinblastine resistant KB cells
+CHEMBL384,Homo sapiens,Bioorg. Med. Chem. Lett.,1996,622683,IC50,None,HT-29,CHEMBL694341,BAO_0000219,9.52,Cytotoxic activity against HT-29 human colon adenocarcinoma cells

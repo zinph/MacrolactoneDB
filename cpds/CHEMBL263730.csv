@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2146298,Caenorhabditis elegans,None,None,12858831,IC50,None,Protein skinhead-1,CHEMBL2114719,BAO_0000019,4.15,PubChem BioAssay. Dose ResponseConfirmation of SKN-1 Inhibitor hits in a fluorescence ratio assay - Set 2. (Class of assay: confirmatory) 
+CHEMBL2146298,Caenorhabditis elegans,None,None,12887589,IC50,None,Protein skinhead-1,CHEMBL2114714,BAO_0000019,4.09,PubChem BioAssay. Dose Response Confirmation of SKN-1 Inhibitor hits in a fluorescence ratio assay. (Class of assay: confirmatory) 

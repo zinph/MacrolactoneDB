@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL366,Candida albicans,Bioorg. Med. Chem.,2011,7955911,IC50,None,Candida albicans,CHEMBL1924263,BAO_0000218,5.44,Antimicrobial activity against Candida albicans ATCC 90028 by CLSI method
+CHEMBL365,Cryptococcus neoformans,Bioorg. Med. Chem.,2011,7955914,IC50,None,Filobasidiella neoformans,CHEMBL1924264,BAO_0000218,6.02,Antimicrobial activity against Cryptococcus neoformans ATCC 90113 by CLSI method
+CHEMBL363,Aspergillus fumigatus,Bioorg. Med. Chem.,2011,7955917,IC50,None,Aspergillus fumigatus,CHEMBL1924265,BAO_0000218,5.51,Antimicrobial activity against Aspergillus fumigatus ATCC 90906 by CLSI method

@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614177,Homo sapiens,J. Nat. Prod.,2009,2668323,IC50,HANTUPEPTIN A,MOLT-4,CHEMBL1026194,BAO_0000219,7.5,Cytotoxicity against human MOLT4 cells after 24 hrs by MTT assay
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2009,2668324,IC50,HANTUPEPTIN A,MCF7,CHEMBL1026195,BAO_0000219,5.4,Cytotoxicity against human MCF7 cells after 24 hrs by MTT assay
+CHEMBL614177,Homo sapiens,J. Nat. Prod.,2011,6232018,IC50,HANTUPEPTIN A,MOLT-4,CHEMBL1787590,BAO_0000219,7.5,Cytotoxicity against human MOLT4 cells
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2011,6232019,IC50,HANTUPEPTIN A,MCF7,CHEMBL1787591,BAO_0000219,5.4,Cytotoxicity against human MCF7 cells

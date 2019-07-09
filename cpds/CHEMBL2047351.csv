@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Nat. Prod.,2012,10940793,IC50,BAHAMAOLIDE A,Unchecked,CHEMBL2050473,BAO_0000019,4.97,Inhibition of candida albicans ICL assessed as formation of glyoxylate phenylhydrazone after 30 mins by Dixon and Kornberg's method
+CHEMBL5359,Candida albicans,Bioorg. Med. Chem. Lett.,2014,15059884,IC50,BAHAMAOLIDE A,Isocitrate lyase,CHEMBL3366401,BAO_0000357,4.93,Inhibition of Candida albicans ATCC 10231 isocitrate lyase

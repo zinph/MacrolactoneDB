@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2366516,Human immunodeficiency virus 1,Bioorg. Med. Chem. Lett.,2012,12066966,IC50,None,Reverse transcriptase,CHEMBL2162206,BAO_0000357,4.03,Inhibition of HIV-1 reverse transcriptase using Poly(rA).p(dT) (12 to 18) as substrate after 30 mins by single point PCR assay

@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,None,None,3896003,IC50,None,Unchecked,CHEMBL1614289,BAO_0000019,4.79,PUBCHEM_BIOASSAY: High Throughput Screening Assay used to Identify Novel Compounds that Inhibit Mycobacterium Tuberculosis in 7H9 Media. (Class of assay: confirmatory) 
+CHEMBL612545,None,None,None,4584933,IC50,None,Unchecked,CHEMBL1614266,BAO_0000019,4.56,PUBCHEM_BIOASSAY: A High Throughput Confirmatory Assay used to Identify Novel Compounds that Inhibit Mycobacterium Tuberculosis in the absence of Glycerol. (Class of assay: confirmatory) 

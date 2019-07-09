@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614309,None,J. Med. Chem.,1995,969048,IC50,None,T-cells,CHEMBL813831,BAO_0000219,7.96,In vitro inhibitory activity against human T-cell production of lymphokine IL-2
+CHEMBL614309,None,J. Med. Chem.,1995,969049,IC50,None,T-cells,CHEMBL879430,BAO_0000219,7.98,In vitro inhibitory activity against human T-cell proliferation.

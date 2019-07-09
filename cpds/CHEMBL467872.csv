@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4607,Homo sapiens,Bioorg. Med. Chem. Lett.,2009,2624401,IC50,NOCATHIACIN ACID,Angiotensin II type 2 (AT-2) receptor,CHEMBL996322,BAO_0000357,5.95,Inhibition of AT2 receptor

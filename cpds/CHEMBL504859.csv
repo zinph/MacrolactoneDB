@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL613977,Homo sapiens,Bioorg. Med. Chem. Lett.,2008,2559541,IC50,ZYGOSPORAMIDE,SF-268,CHEMBL986449,BAO_0000219,5.34,Cytotoxicity against human SF268 cells
+CHEMBL614908,Homo sapiens,Bioorg. Med. Chem. Lett.,2008,2559548,IC50,ZYGOSPORAMIDE,SF-295,CHEMBL986450,BAO_0000219,5.38,Cytotoxicity against human SF295 cells
+CHEMBL392,Homo sapiens,Bioorg. Med. Chem. Lett.,2008,2559555,IC50,ZYGOSPORAMIDE,A549,CHEMBL986451,BAO_0000219,5.6,Cytotoxicity against human A549 cells
+CHEMBL400,Homo sapiens,Bioorg. Med. Chem. Lett.,2008,2559562,IC50,ZYGOSPORAMIDE,MDA-MB-231,CHEMBL986452,BAO_0000219,5.24,Cytotoxicity against human MDA-MB-231 cells
+CHEMBL394,Homo sapiens,Bioorg. Med. Chem. Lett.,2008,2559569,IC50,ZYGOSPORAMIDE,HCT-116,CHEMBL986453,BAO_0000219,4.66,Cytotoxicity against human HCT116 cells

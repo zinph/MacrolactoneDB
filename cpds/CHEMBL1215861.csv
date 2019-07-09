@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Nat. Prod.,2010,3398824,EC50,None,Unchecked,CHEMBL1219308,BAO_0000219,5.03,Activation of voltage-gated sodium channel in mouse neocortical neuron assessed as intracellular sodium efflux
+CHEMBL612545,None,J. Nat. Prod.,2010,3398829,IC50,None,Unchecked,CHEMBL1219309,BAO_0000219,7.06,Inhibition of calcium channel in mouse neocortical neurons assessed as inhibition of intracellular calcium oscilations
+CHEMBL612545,None,J. Nat. Prod.,2010,3398840,IC50,None,Unchecked,CHEMBL1219312,BAO_0000219,5.47,Activation of voltage-gated sodium channel in mouse Neuro-2a cells assessed as intracellular sodium efflux

@@ -1,0 +1,8 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1293235,Homo sapiens,None,None,3650205,Potency,None,Prelamin-A/C,CHEMBL1614544,BAO_0000019,5.85,PUBCHEM_BIOASSAY: qHTS Assay for Modulators of Lamin A Splicing. (Class of assay: confirmatory) 
+CHEMBL1293299,Homo sapiens,None,None,3795426,Potency,None,Histone-lysine N-methyltransferase MLL,CHEMBL1614410,BAO_0000019,4.95,PUBCHEM_BIOASSAY: qHTS Fluorescence Polarization Assay for Inhibitors of MLL CXXC domain - DNA interaction. (Class of assay: confirmatory) [Related pubchem assays: 2698 (Summary assay.)]
+CHEMBL3563,Trypanosoma cruzi,None,None,3979615,Potency,None,Cruzipain,CHEMBL1613769,BAO_0000019,5.4,
+CHEMBL1293224,Homo sapiens,None,None,4045490,Potency,None,Microtubule-associated protein tau,CHEMBL1614421,BAO_0000357,4.9,"PUBCHEM_BIOASSAY: qHTS for Inhibitors of Tau Fibril Formation, Thioflavin T Binding. (Class of assay: confirmatory) [Related pubchem assays: 596 ]"
+CHEMBL2093861,Homo sapiens,None,None,4555557,Potency,None,Menin/Histone-lysine N-methyltransferase MLL,CHEMBL1614257,BAO_0000019,5.05,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors Targeting the Menin-MLL Interaction in MLL Related Leukemias: Competition With Texas Red Labeled MLL-derived Mutant Peptide. (Class of assay: confirmatory) 
+CHEMBL2026,Escherichia coli K-12,None,None,4648955,Potency,None,Beta-lactamase AmpC,CHEMBL1614530,BAO_0000019,5.3,
+CHEMBL1293231,Mus musculus,None,None,4760811,Potency,None,Nuclear receptor ROR-gamma,CHEMBL1614087,BAO_0000019,4.9,PUBCHEM_BIOASSAY: qHTS for inhibitors of ROR gamma transcriptional activity. (Class of assay: confirmatory) 

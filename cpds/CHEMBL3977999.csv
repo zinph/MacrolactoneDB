@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,J Nat Prod,2016,16796382,IC50,None,NON-PROTEIN TARGET,CHEMBL3867967,BAO_0000219,4.44,Cytotoxicity against mouse P388 cells after 3 days by MTT assay

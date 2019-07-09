@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2012,12169452,IC50,None,Hepatitis C virus,CHEMBL2211161,BAO_0000218,7.82,Antiviral activity against HCV1b con1 infected in human Huh-7 cells assessed as inhibition of viral replication after 24 hrs in presence of 50% normal human serum
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2012,12169480,IC50,None,Hepatitis C virus,CHEMBL2211162,BAO_0000218,8.4,Antiviral activity against HCV1b con1 infected in human Huh-7 cells assessed as inhibition of viral replication after 24 hrs in presence of 10% fetal bovine serum
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2012,12169508,Ki,None,Unchecked,CHEMBL2211163,BAO_0000019,8.72,Inhibition of HCV3a NS3/4A protease by time-resolved fluorescence assay

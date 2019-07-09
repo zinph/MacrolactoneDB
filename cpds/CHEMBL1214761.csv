@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5541,Plasmodium falciparum,J. Med. Chem.,2010,3402176,IC50,None,Histone deacetylase,CHEMBL1219552,BAO_0000357,7.4,Inhibition of Plasmodium falciparum HDAC1
+CHEMBL2093865,Homo sapiens,J. Med. Chem.,2010,3402179,IC50,None,Histone deacetylase,CHEMBL1219537,BAO_0000224,6.98,Inhibition of HDAC in human HeLa cell nuclear extracts
+CHEMBL3192,Homo sapiens,J. Med. Chem.,2010,3402185,IC50,None,Histone deacetylase 8,CHEMBL1219538,BAO_0000357,6.24,Inhibition of HDAC8
+CHEMBL612545,None,J. Med. Chem.,2010,3402191,IC50,None,Unchecked,CHEMBL1219539,BAO_0000219,7.74,Selectivity ratio IC50 for HDAC8 to IC50 for HDAC in human HeLa cells nuclear extract
+CHEMBL1865,Homo sapiens,J. Med. Chem.,2010,3402197,IC50,None,Histone deacetylase 6,CHEMBL1219540,BAO_0000357,5.77,Inhibition of HDAC6

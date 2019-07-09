@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614590,Homo sapiens,Bioorg. Med. Chem. Lett.,2000,1237453,IC50,None,KB 3-1,CHEMBL702645,BAO_0000219,9.85,Concentration required to inhibit the growth of paclitaxel-sensitive human epidermoid carcinoma cells KB-31 by 50 percent (72 hr exposure)
+CHEMBL398,Homo sapiens,Bioorg. Med. Chem. Lett.,2000,1237454,IC50,None,KB,CHEMBL703994,BAO_0000219,9.42,Concentration required to inhibit the growth of paclitaxel-resistant human epidermoid carcinoma cells KB-8511 by 50 percent (72 hr exposure)

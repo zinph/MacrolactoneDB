@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL386,Mus musculus,J. Med. Chem.,1988,1081902,IC50,None,L1210,CHEMBL702137,BAO_0000219,7.1,"Inhibition of synthesis of [methyl-14C] thymidine into DNA, in L1210 cells."
+CHEMBL386,Mus musculus,J. Med. Chem.,1988,1081903,IC50,None,L1210,CHEMBL702136,BAO_0000219,7.62,Inhibition of synthesis of [5-3H]-uridine into RNA in L1210 cells.
+CHEMBL386,Mus musculus,J. Med. Chem.,1988,1096264,IC50,None,L1210,CHEMBL702137,BAO_0000219,7.22,"Inhibition of synthesis of [methyl-14C] thymidine into DNA, in L1210 cells."
+CHEMBL386,Mus musculus,J. Med. Chem.,1988,1096265,IC50,None,L1210,CHEMBL702136,BAO_0000219,7.3,Inhibition of synthesis of [5-3H]-uridine into RNA in L1210 cells.

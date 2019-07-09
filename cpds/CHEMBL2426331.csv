@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612888,Toxoplasma gondii,J. Nat. Prod.,2013,13441844,EC50,None,Toxoplasma gondii,CHEMBL2428935,BAO_0000218,6.18,Antiparasitic activity against Toxoplasma gondii expressing beta-galactosidase infected in HFF assessed as parasite growth inhibition after 72 hrs

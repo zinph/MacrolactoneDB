@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2014,15079203,IC50,None,HT-29,CHEMBL3383852,BAO_0000219,5.7,Growth inhibition of human HT-29 cells
+CHEMBL614129,Homo sapiens,J. Nat. Prod.,2014,15079205,IC50,None,MDA-MB-361,CHEMBL3383851,BAO_0000219,5.66,Growth inhibition of human MDA-MB-361 cells
+CHEMBL614197,Homo sapiens,J. Nat. Prod.,2014,15083690,IC50,None,NCI-N87,CHEMBL3383850,BAO_0000219,5.89,Growth inhibition of human NCI-N87 cells

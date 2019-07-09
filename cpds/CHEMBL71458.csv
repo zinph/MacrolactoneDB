@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1902,Homo sapiens,J. Med. Chem.,1999,1080188,IC50,None,FK506-binding protein 1A,CHEMBL678142,BAO_0000357,9.11,The compound was tested for binding affinity against human FK506 binding protein 12
+CHEMBL372,Homo sapiens,J. Med. Chem.,1999,1080189,IC50,None,Homo sapiens,CHEMBL809692,BAO_0000218,9.82,Immunosuppressive activity examined in an in vitro model of allogenic T-lymphocyte activation (by MLR assay)
+CHEMBL614309,None,Bioorg. Med. Chem. Lett.,1997,1289771,IC50,None,T-cells,CHEMBL813828,BAO_0000219,9.19,In vitro suppression of T-cell proliferation.

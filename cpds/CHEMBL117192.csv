@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614697,Homo sapiens,Bioorg. Med. Chem. Lett.,2004,304311,IC50,None,MDA-MB-435,CHEMBL711082,BAO_0000219,4.85,In vitro cytotoxic activity against growth of human breast carcinoma cell line (LCC6-WT) after 72 hr
+CHEMBL614328,Homo sapiens,Bioorg. Med. Chem. Lett.,2004,304313,IC50,None,MCF7S,CHEMBL710341,BAO_0000219,5.09,In vitro cytotoxic activity against growth of human breast carcinoma cell line (MCF-7-S) after 72 hr
+CHEMBL614327,Homo sapiens,Bioorg. Med. Chem. Lett.,2004,304314,IC50,None,MCF7R,CHEMBL707805,BAO_0000219,4.89,In vitro cytotoxic activity against growth of MDR phenotype human breast carcinoma cell line (MCF-7-R) after 72 hr

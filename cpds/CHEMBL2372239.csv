@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4830,Mus musculus,Bioorg. Med. Chem. Lett.,2000,1004606,IC50,None,Growth factor receptor-bound protein 2,CHEMBL686439,BAO_0000219,5.7,In vitro binding assay of Shc-derived phosphopeptide to Growth factor receptor bound protein 2 SH2 in B104-1-1 cells was determined

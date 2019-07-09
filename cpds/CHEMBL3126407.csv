@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614917,Homo sapiens,Bioorg. Med. Chem.,2014,13954049,IC50,None,SK-MEL-2,CHEMBL3130042,BAO_0000219,6.02,Antiproliferative activity against human SK-MEL-2 cells after 72 hrs by MTT assay in presence of 10% FBS
+CHEMBL399,Homo sapiens,Bioorg. Med. Chem.,2014,13954056,IC50,None,HeLa,CHEMBL3130043,BAO_0000219,6.07,Antiproliferative activity against human HeLa cells after 72 hrs by MTT assay

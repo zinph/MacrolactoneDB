@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2010,3501303,IC50,None,Unchecked,CHEMBL1260784,BAO_0000019,6.96,Inhibition of HCV 1a NS3/4A protease by FRET assay
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2010,3501314,EC50,None,Hepatitis C virus,CHEMBL1260785,BAO_0000218,6.01,Antiviral activity against HCV 1a infected in human hepatoma cells by replicon assay
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2010,3501325,EC50,None,Hepatitis C virus,CHEMBL1260786,BAO_0000218,5.38,Antiviral activity against HCV 1b infected in human hepatoma cells by replicon assay

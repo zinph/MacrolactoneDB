@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL385,Homo sapiens,Bioorg. Med. Chem.,2011,5124255,IC50,11BETA-METHOXYCURVULARIN,K562,CHEMBL1648593,BAO_0000219,4.91,Cytotoxicity against human K562 cells after 24 hrs by MTT assay
+CHEMBL397,Homo sapiens,Bioorg. Med. Chem.,2011,5124265,IC50,11BETA-METHOXYCURVULARIN,Jurkat,CHEMBL1648594,BAO_0000219,5.41,Cytotoxicity against human Jurkat cells after 24 hrs by MTT assay
+CHEMBL612794,Homo sapiens,Bioorg. Med. Chem.,2011,5124275,IC50,11BETA-METHOXYCURVULARIN,U-937,CHEMBL1648595,BAO_0000219,5.75,Cytotoxicity against human U937 cells after 24 hrs by MTT assay
+CHEMBL612545,None,Bioorg. Med. Chem.,2011,5124285,IC50,11BETA-METHOXYCURVULARIN,Unchecked,CHEMBL1648596,BAO_0000219,5.33,Inhibition of NF-kappaB activity in TNFalpha-stimulated human K562 cells after 24 hrs by luciferase reporter gene assay

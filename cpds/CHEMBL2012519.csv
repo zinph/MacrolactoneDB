@@ -1,0 +1,24 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL258,Homo sapiens,Bioorg. Med. Chem. Lett.,2009,2641251,IC50,None,Tyrosine-protein kinase LCK,CHEMBL1015858,BAO_0000357,6.12,Inhibition of LCK
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2009,2641252,IC50,None,Unchecked,CHEMBL1015857,BAO_0000019,8.4,Inhibition of MAPK
+CHEMBL4247,Homo sapiens,ACS Med. Chem. Lett.,2011,5152419,IC50,None,ALK tyrosine kinase receptor,CHEMBL1656371,BAO_0000357,6.12,Inhibition of ALK by TR-FRET based LanthaScreen assay
+CHEMBL4040,Homo sapiens,ACS Med. Chem. Lett.,2011,5152420,IC50,None,MAP kinase ERK2,CHEMBL1656372,BAO_0000357,6.02,Inhibition of ERK2 by Caliper mobility shift assay
+CHEMBL1936,Homo sapiens,ACS Med. Chem. Lett.,2011,5152422,IC50,None,Stem cell growth factor receptor,CHEMBL1656374,BAO_0000357,6.52,Inhibition of cKIT by TR-FRET based LanthaScreen assay
+CHEMBL258,Homo sapiens,ACS Med. Chem. Lett.,2011,5152423,IC50,None,Tyrosine-protein kinase LCK,CHEMBL1656375,BAO_0000357,5.21,Inhibition of LCK by TR-FRET based LanthaScreen assay
+CHEMBL2964,Homo sapiens,ACS Med. Chem. Lett.,2011,5152424,IC50,None,Dual specificity mitogen-activated protein kinase kinase 2,CHEMBL1656376,BAO_0000357,7.82,Inhibition of MEK2 by TR-FRET based LanthaScreen assay
+CHEMBL3094,Homo sapiens,ACS Med. Chem. Lett.,2011,5152425,IC50,None,MAP kinase-activated protein kinase 5,CHEMBL1656377,BAO_0000357,6.19,Inhibition of MK5 by TR-FRET based LanthaScreen assay
+CHEMBL612545,None,ACS Med. Chem. Lett.,2011,5152427,IC50,None,Unchecked,CHEMBL1656379,BAO_0000019,8.62,Inhibition of PDGFRalpha V561D mutant by TR-FRET based LanthaScreen assay
+CHEMBL3553,Homo sapiens,ACS Med. Chem. Lett.,2011,5152429,IC50,None,Tyrosine-protein kinase TYK2,CHEMBL1656381,BAO_0000357,5.39,Inhibition of TYK2 by TR-FRET based LanthaScreen assay
+CHEMBL279,Homo sapiens,ACS Med. Chem. Lett.,2011,5152430,IC50,None,Vascular endothelial growth factor receptor 2,CHEMBL1656382,BAO_0000357,8.7,Inhibition of VEGFR2 by TR-FRET based LanthaScreen assay
+CHEMBL279,Homo sapiens,ACS Med. Chem. Lett.,2011,5152467,IC50,None,Vascular endothelial growth factor receptor 2,CHEMBL1656542,BAO_0000219,7.24,Inhibition of VEGFR2 autophosphorylation by cell based assay
+CHEMBL1974,Homo sapiens,Bioorg. Med. Chem.,2014,14984885,IC50,None,Tyrosine-protein kinase receptor FLT3,CHEMBL3385422,BAO_0000357,7.21,Inhibition of recombinant FLT3 (unknown origin) by TR-FRET assay
+CHEMBL1974,Homo sapiens,Bioorg. Med. Chem.,2014,14984903,IC50,None,Tyrosine-protein kinase receptor FLT3,CHEMBL3385423,BAO_0000357,7.96,Inhibition of recombinant FLT3 D835Y mutant (unknown origin) by TR-FRET assay
+CHEMBL1974,Homo sapiens,Bioorg. Med. Chem.,2014,14984921,IC50,None,Tyrosine-protein kinase receptor FLT3,CHEMBL3385424,BAO_0000357,7.44,Inhibition of recombinant FLT3 ITD mutant (unknown origin) by RBC kinase assay
+CHEMBL613835,Homo sapiens,Bioorg. Med. Chem.,2014,14984946,IC50,None,MV4-11,CHEMBL3385421,BAO_0000219,8.0,Antiproliferative activity against human MV4-11 cells after 72 hrs by luminescent cell viability assay
+CHEMBL3879801,None,Bioorg. Med. Chem.,2014,14984965,IC50,None,NON-PROTEIN TARGET,CHEMBL3384827,BAO_0000219,5.93,Antiproliferative activity against human THP1 cells after 72 hrs by luminescent cell viability assay
+CHEMBL5311,Homo sapiens,J Med Chem,2017,17982165,IC50,None,Serine/threonine-protein kinase receptor R3,CHEMBL3998827,BAO_0000357,6.9,Inhibition of human ALK1 using casein as substrate in presence of [gamma-33P]-ATP by scintillation counting method
+CHEMBL1974,Homo sapiens,J Med Chem,2017,17982167,IC50,None,Tyrosine-protein kinase receptor FLT3,CHEMBL3998826,BAO_0000357,8.8,Inhibition of human FLT3 using EAIYAAPFAKKK peptide as substrate in presence of [gamma-33P]-ATP by scintillation counting method
+CHEMBL1955,Homo sapiens,J Med Chem,2017,17982169,IC50,None,Vascular endothelial growth factor receptor 3,CHEMBL3998812,BAO_0000357,8.95,Inhibition of human FLT4 using poly[Glu:Tyr] (4:1) as substrate in presence of [gamma-33P]-ATP by scintillation counting method
+CHEMBL279,Homo sapiens,J Med Chem,2017,17982171,IC50,None,Vascular endothelial growth factor receptor 2,CHEMBL3998813,BAO_0000357,8.2,Inhibition of human KDR using poly[Glu:Tyr] (4:1) as substrate in presence of [gamma-33P]-ATP by scintillation counting method
+CHEMBL2964,Homo sapiens,J Med Chem,2017,17982173,IC50,None,Dual specificity mitogen-activated protein kinase kinase 2,CHEMBL3998825,BAO_0000357,8.09,Inhibition of human MEK2 using ERK2 as substrate in presence of [gamma-33P]-ATP by scintillation counting method
+CHEMBL2171,Homo sapiens,J Med Chem,2017,17982175,IC50,None,Dual specificity mitogen-activated protein kinase kinase 6,CHEMBL3998824,BAO_0000357,6.41,Inhibition of human MKK6 using p38a as substrate in presence of [gamma-33P]-ATP by scintillation counting method

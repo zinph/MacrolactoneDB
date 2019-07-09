@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5311,Homo sapiens,J Med Chem,2017,17982162,IC50,None,Serine/threonine-protein kinase receptor R3,CHEMBL3998827,BAO_0000357,5.75,Inhibition of human ALK1 using casein as substrate in presence of [gamma-33P]-ATP by scintillation counting method

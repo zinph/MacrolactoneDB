@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5306,Oryctolagus cuniculus,J. Med. Chem.,2009,2935249,EC50,3 9-DIHYDRO-N-DESMETHYL-N-ISOPROPYLERYTHROMYCIN A,Motilin receptor,CHEMBL1054530,BAO_0000019,6.58,Agonist activity at motilin receptor in rabbit smooth muscle assessed as maximal possible tissue contraction
+CHEMBL240,Homo sapiens,J. Med. Chem.,2009,2935363,IC50,3 9-DIHYDRO-N-DESMETHYL-N-ISOPROPYLERYTHROMYCIN A,HERG,CHEMBL1054535,BAO_0000219,8.0,Inhibition of human ERG expressed in HEK cells
+CHEMBL3879801,None,Bioorg. Med. Chem.,2010,3525057,EC50,3 9-DIHYDRO-N-DESMETHYL-N-ISOPROPYLERYTHROMYCIN A,NON-PROTEIN TARGET,CHEMBL1273913,BAO_0000221,6.58,Induction of contraction in rabbit smooth muscle
+CHEMBL5306,Oryctolagus cuniculus,Bioorg. Med. Chem. Lett.,2011,6203723,EC50,3 9-DIHYDRO-N-DESMETHYL-N-ISOPROPYLERYTHROMYCIN A,Motilin receptor,CHEMBL1781399,BAO_0000019,6.58,Agonist activity at motilin receptor in rabbit smooth muscle assessed as maximal possible tissue contraction

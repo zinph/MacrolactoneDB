@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL6020,Homo sapiens,None,2015,16298672,IC50,None,Bile salt export pump,CHEMBL3707554,BAO_0000019,4.91,
+CHEMBL1697668,Homo sapiens,None,2015,16300291,IC50,None,Solute carrier organic anion transporter family member 1B1,CHEMBL3705839,BAO_0000219,5.37,
+CHEMBL1743121,Homo sapiens,None,2015,16300907,IC50,None,Solute carrier organic anion transporter family member 1B3,CHEMBL3707500,BAO_0000219,5.75,
+CHEMBL1949,Homo sapiens,None,2015,17697787,IC50,None,Cyclophilin A,CHEMBL3705840,BAO_0000357,9.51,

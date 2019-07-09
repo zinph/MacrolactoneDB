@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4145,Homo sapiens,ACS Med. Chem. Lett.,2013,12659614,IC50,None,Histone deacetylase 9,CHEMBL2328536,BAO_0000019,4.2,
+CHEMBL1829,Homo sapiens,ACS Med. Chem. Lett.,2013,12659622,IC50,None,Histone deacetylase 3,CHEMBL2328537,BAO_0000019,4.85,
+CHEMBL1937,Homo sapiens,ACS Med. Chem. Lett.,2013,12659630,IC50,None,Histone deacetylase 2,CHEMBL2328538,BAO_0000019,4.49,
+CHEMBL325,Homo sapiens,ACS Med. Chem. Lett.,2013,12659637,IC50,None,Histone deacetylase 1,CHEMBL2328659,BAO_0000019,4.75,

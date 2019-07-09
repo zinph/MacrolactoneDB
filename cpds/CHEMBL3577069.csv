@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL363,Aspergillus fumigatus,J. Nat. Prod.,2015,15608905,IC50,None,Aspergillus fumigatus,CHEMBL3580280,BAO_0000218,8.21,Potentiation of caspofungin-induced antifungal activity against Aspergillus fumigatus ATCC 46645 assessed as caspofungin IC50 at 2 ug/ml after 24 hrs by checkerboard method (Rvb = 33 nM)

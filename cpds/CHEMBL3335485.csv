@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,ACS Med. Chem. Lett.,2014,15105519,Kd,None,Unchecked,CHEMBL3387838,BAO_0000019,8.19,Binding affinity to Escherichia coli ribosomes after 2 hrs by fluorescence polarization assay in presence of BODIPY-labeled erythromycin A

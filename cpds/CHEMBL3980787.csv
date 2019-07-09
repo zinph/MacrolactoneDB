@@ -1,0 +1,8 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2319,Homo sapiens,J Med Chem,2016,16667683,Ki,None,Kallikrein 1,CHEMBL3854659,BAO_0000357,6.41,Inhibition of human HK1 using H-D-Val-Leu-Arg-AFC as substrate assessed as release of AFC after 10 to 120 mins by spectrofluorimetric method
+CHEMBL612545,None,J Med Chem,2016,16667694,Ki,None,Unchecked,CHEMBL3854658,BAO_0000019,5.5,"Inhibition of trypsin (unknown origin) using N-benzoyl-Ile-Glu-(OH,OMe)-Gly-Arg-pNA as substrate assessed as release of pNA after 10 to 120 mins by spectrophotometric method"
+CHEMBL2820,Homo sapiens,J Med Chem,2016,16667716,Ki,None,Coagulation factor XI,CHEMBL3854656,BAO_0000357,5.54,Inhibition of human factor 11a using pyroGlu-Pro-Arg-pNA as substrate assessed as release of pNA after 10 to 120 mins by spectrophotometric method
+CHEMBL244,Homo sapiens,J Med Chem,2016,16667727,Ki,None,Coagulation factor X,CHEMBL3854655,BAO_0000357,5.41,"Inhibition of human factor 10a using N-benzoyl-Ile-Glu-(OH,OMe)-Gly-Arg-pNA as substrate assessed as release of pNA after 10 to 120 mins by spectrophotometric method"
+CHEMBL2095194,Homo sapiens,J Med Chem,2016,16667740,Ki,None,Coagulation factor VII/tissue factor,CHEMBL3854654,BAO_0000223,9.21,Inhibition of full-length human TF/recombinant human factor 7a assessed as decrease in conversion of factor 10 to factor 10a by measuring S2765 hydrolysis after 15 mins
+CHEMBL3991,Homo sapiens,None,2015,17717079,Ki,None,Coagulation factor VII,CHEMBL3887451,BAO_0000366,9.21,
+CHEMBL3991,Homo sapiens,None,2015,17717121,Ki,None,Coagulation factor VII,CHEMBL3887452,BAO_0000357,6.41,

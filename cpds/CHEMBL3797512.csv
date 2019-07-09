@@ -1,0 +1,9 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL400,Homo sapiens,Bioorg. Med. Chem. Lett.,2016,16581938,IC50,None,MDA-MB-231,CHEMBL3802920,BAO_0000219,7.37,Antiproliferative activity against human MDA-MB-231 cells assessed as cell viability by Alamar Blue assay
+CHEMBL3879801,None,Bioorg. Med. Chem. Lett.,2016,16581940,IC50,None,NON-PROTEIN TARGET,CHEMBL3802921,BAO_0000219,7.18,Antiproliferative activity against human SF295 cells assessed as cell viability by Alamar Blue assay
+CHEMBL3879801,None,Bioorg. Med. Chem. Lett.,2016,16581942,IC50,None,NON-PROTEIN TARGET,CHEMBL3802922,BAO_0000219,7.44,Antiproliferative activity against human MCF cells assessed as cell viability by Alamar Blue assay
+CHEMBL614879,Homo sapiens,Bioorg. Med. Chem. Lett.,2016,16581944,IC50,None,RKO,CHEMBL3802923,BAO_0000219,6.81,Antiproliferative activity against human RKO cells assessed as cell viability by Alamar Blue assay
+CHEMBL400,Homo sapiens,Bioorg. Med. Chem. Lett.,2016,16639814,IC50,None,MDA-MB-231,CHEMBL3825127,BAO_0000219,7.2,Antiproliferative activity against human MDA-MB-231 cells after 48 to 72 hrs by Alamar blue assay
+CHEMBL3879801,None,Bioorg. Med. Chem. Lett.,2016,16639817,IC50,None,NON-PROTEIN TARGET,CHEMBL3825128,BAO_0000219,7.2,Antiproliferative activity against human SF295 cells after 48 to 72 hrs by Alamar blue assay
+CHEMBL387,Homo sapiens,Bioorg. Med. Chem. Lett.,2016,16639820,IC50,None,MCF7,CHEMBL3825129,BAO_0000219,7.44,Antiproliferative activity against human MCF7 cells after 48 to 72 hrs by Alamar blue assay
+CHEMBL614879,Homo sapiens,Bioorg. Med. Chem. Lett.,2016,16639823,IC50,None,RKO,CHEMBL3825130,BAO_0000219,6.67,Antiproliferative activity against human RKO cells after 48 to 72 hrs by Alamar blue assay

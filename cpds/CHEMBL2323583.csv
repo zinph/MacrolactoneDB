@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,ACS Med. Chem. Lett.,2013,12659698,Ki,None,Unchecked,CHEMBL2328686,BAO_0000019,4.15,Inhibition of Mycobacterium tuberculosis InhA S94A mutant assessed as NADH oxidation using 2-trans-dodecenoyl-coA as substrate measured every min for 30 mins by spectrophotometric analysis

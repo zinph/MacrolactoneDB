@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Med. Chem.,1999,643126,IC50,None,Unchecked,CHEMBL653181,BAO_0000019,7.1,Inhibition of calcineurin phosphatase activity by the compound
+CHEMBL612545,None,J. Med. Chem.,1999,643128,IC50,None,Unchecked,CHEMBL677255,BAO_0000019,8.51,Relative binding affinity of compound for FK-506 binding protein (FKBP)

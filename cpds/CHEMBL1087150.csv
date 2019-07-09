@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5602,Homo sapiens,Bioorg. Med. Chem. Lett.,2009,3225404,Kd,None,Sonic hedgehog protein,CHEMBL1101550,BAO_0000357,5.05,Binding affinity to recombinant Shh N-terminal peptide by surface plasma resonance
+CHEMBL5387,Mus musculus,Bioorg. Med. Chem. Lett.,2009,3225430,EC50,None,Sonic hedgehog protein,CHEMBL1101545,BAO_0000219,5.4,Inhibition of SHH in mouse Shh Light2 cells after 30 hrs by GLI-responsive bright glo luciferase reporter gene assay

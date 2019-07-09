@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3341578,Escherichia coli (strain K12),J. Nat. Prod.,2014,15110484,Kd,None,ATP-dependent Clp protease proteolytic subunit,CHEMBL3390207,BAO_0000357,6.16,Activation of Escherichia coli ClpP by ITC method

@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5776,Homo sapiens,Bioorg. Med. Chem.,2015,15750308,IC50,None,Mitogen-activated protein kinase kinase kinase 7,CHEMBL3632095,BAO_0000357,5.58,Inhibition of TAK1 (unknown origin)

@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J Nat Prod,2017,18150584,IC50,None,Unchecked,CHEMBL4033892,BAO_0000219,5.43,Cytotoxicity against human Aspc-1 cells incubated for 72 hrs by MTT assay

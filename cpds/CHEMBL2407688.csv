@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,J. Nat. Prod.,2013,13392824,IC50,ROSEOCARDIN,NON-PROTEIN TARGET,CHEMBL2412727,BAO_0000219,4.82,Antiinflammatory activity in human neutrophils assessed as inhibition of FMLP-induced elastase release treated 5 mins before FMLP addition

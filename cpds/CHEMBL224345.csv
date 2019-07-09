@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL364,Plasmodium falciparum,J. Nat. Prod.,2007,1848893,IC50,PAECILODEPSIPEPTIDE A,Plasmodium falciparum,CHEMBL914589,BAO_0000218,5.31,Antimalarial activity against Plasmodium falciparum K1
+CHEMBL398,Homo sapiens,J. Nat. Prod.,2007,1848894,IC50,PAECILODEPSIPEPTIDE A,KB,CHEMBL914590,BAO_0000219,5.23,Cytotoxicity against human KB cells
+CHEMBL612558,None,J. Nat. Prod.,2007,1848895,IC50,PAECILODEPSIPEPTIDE A,ADMET,CHEMBL914591,BAO_0000219,5.18,Cytotoxicity against human BC cells
+CHEMBL612856,Plasmodium falciparum K1,J. Nat. Prod.,2011,6198796,IC50,PAECILODEPSIPEPTIDE A,Plasmodium falciparum (isolate K1 / Thailand),CHEMBL1775427,BAO_0000218,5.31,Antimalarial activity against multi-drug-resistant Plasmodium falciparum K1 by microculture radioisotope technique

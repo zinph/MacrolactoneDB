@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem.,2014,13954075,IC50,None,Unchecked,CHEMBL3130045,BAO_0000219,7.82,Immunosuppressive activity in human Jurkat T cells assessed as inhibition of IL-2 transcription
+CHEMBL612558,None,Bioorg. Med. Chem.,2014,13954084,IC50,None,ADMET,CHEMBL3130046,BAO_0000019,7.89,Antiproliferative activity against BAEC assessed as DNA synthesis level after 24 hrs by thymidine incorporation assay
+CHEMBL3879801,None,Bioorg. Med. Chem.,2014,13954093,IC50,None,NON-PROTEIN TARGET,CHEMBL3130047,BAO_0000219,7.94,Antiproliferative activity against human Jurkat T cells assessed as DNA synthesis level after 24 hrs by thymidine incorporation assay
+CHEMBL614392,Homo sapiens,Bioorg. Med. Chem.,2014,13954102,IC50,None,HaCaT,CHEMBL3130048,BAO_0000219,8.47,Antiproliferative activity against human HaCaT cells assessed as DNA synthesis level after 24 hrs by thymidine incorporation assay
+CHEMBL614879,Homo sapiens,Bioorg. Med. Chem.,2014,13954111,IC50,None,RKO,CHEMBL3130049,BAO_0000219,8.38,Antiproliferative activity against human RKO cells assessed as DNA synthesis level after 24 hrs by thymidine incorporation assay
+CHEMBL399,Homo sapiens,Bioorg. Med. Chem.,2014,13954120,IC50,None,HeLa,CHEMBL3130050,BAO_0000219,7.79,Antiproliferative activity against human HeLa cells assessed as DNA synthesis level after 24 hrs by thymidine incorporation assay

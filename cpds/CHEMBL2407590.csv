@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2013,13390567,EC50,None,Hepatitis C virus,CHEMBL2412654,BAO_0000218,7.43,Antiviral activity against Hepatitis C virus genotype 2b infected in human Huh-9-13 cells after overnight incubation by MTT assay

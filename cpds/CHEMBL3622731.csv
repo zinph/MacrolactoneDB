@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1829,Homo sapiens,J. Med. Chem.,2015,15735141,IC50,None,Histone deacetylase 3,CHEMBL3627130,BAO_0000357,7.14,Inhibition of recombinant human HDAC3 after 60 mins by fluorescence assay
+CHEMBL325,Homo sapiens,J. Med. Chem.,2015,15735150,IC50,None,Histone deacetylase 1,CHEMBL3627128,BAO_0000357,7.67,Inhibition of recombinant human HDAC1 after 60 mins by fluorescence assay
+CHEMBL1937,Homo sapiens,J. Med. Chem.,2015,15735159,IC50,None,Histone deacetylase 2,CHEMBL3627129,BAO_0000357,6.48,Inhibition of recombinant human HDAC2 after 60 mins by fluorescence assay
+CHEMBL1865,Homo sapiens,J. Med. Chem.,2015,15735217,IC50,None,Histone deacetylase 6,CHEMBL3627136,BAO_0000357,5.33,Inhibition of recombinant human HDAC6 after 60 mins by fluorescence assay
+CHEMBL5103,Homo sapiens,J. Med. Chem.,2015,15735226,IC50,None,Histone deacetylase 10,CHEMBL3627137,BAO_0000357,6.12,Inhibition of recombinant human HDAC10 after 60 mins by fluorescence assay

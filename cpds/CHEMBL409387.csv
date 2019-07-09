@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem.,2007,2056504,Ki,MARINOSTATIN,Unchecked,CHEMBL925139,BAO_0000019,8.82,Inhibition of subtilisin BPN
+CHEMBL612545,None,Bioorg. Med. Chem.,2007,2056505,Ki,MARINOSTATIN,Unchecked,CHEMBL925140,BAO_0000019,6.52,Inhibition of chymotrypsin

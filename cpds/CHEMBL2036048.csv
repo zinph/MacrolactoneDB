@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612557,Mus musculus,J. Nat. Prod.,2012,10896967,IC50,None,RAW264.7,CHEMBL2039285,BAO_0000219,6.66,Antiinflammatory activity in mouse RAW264.7 cells assessed as inhibition of LPS-stimulated nitric oxide production pretreated for 2 hrs before LPS challenge measured after 18 hrs by Griess method

@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL613984,Homo sapiens,Bioorg. Med. Chem.,2015,15750334,IC50,None,IGROV-1,CHEMBL3632096,BAO_0000219,6.22,Antiproliferative activity against human IGROV1 cells assessed as cell viability incubated for 72 hrs by coulter counter method
+CHEMBL3879801,None,Bioorg. Med. Chem.,2015,15750353,IC50,None,NON-PROTEIN TARGET,CHEMBL3632097,BAO_0000219,6.7,Antiproliferative activity against human IGROV1/Pt1 cells assessed as cell viability incubated for 72 hrs by coulter counter method
+CHEMBL394,Homo sapiens,Bioorg. Med. Chem.,2015,15750957,IC50,None,HCT-116,CHEMBL3632098,BAO_0000219,6.85,Antiproliferative activity against human HCT116 cells assessed as cell viability incubated for 72 hrs by coulter counter method

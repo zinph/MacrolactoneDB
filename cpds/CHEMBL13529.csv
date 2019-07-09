@@ -1,0 +1,9 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL381,Mus musculus,Bioorg. Med. Chem. Lett.,1996,623975,IC50,CRYPTOPHYCIN 3,B16,CHEMBL650250,BAO_0000219,8.7,Cytotoxic activity against B16F10 mouse melanoma cells
+CHEMBL614481,None,Bioorg. Med. Chem. Lett.,1996,623976,IC50,CRYPTOPHYCIN 3,DA-3 cell line,CHEMBL663157,BAO_0000219,9.0,Cytotoxic activity against DA-3 mouse mammary adenocarcinoma cells
+CHEMBL398,Homo sapiens,Bioorg. Med. Chem. Lett.,1996,623977,IC50,CRYPTOPHYCIN 3,KB,CHEMBL705501,BAO_0000219,8.7,Cytotoxic activity against KB human nasopharyngeal carcinoma cells
+CHEMBL398,Homo sapiens,Bioorg. Med. Chem. Lett.,1996,623978,IC50,CRYPTOPHYCIN 3,KB,CHEMBL702191,BAO_0000219,8.3,Cytotoxic activity against KBV vinblastine resistant KB cells
+CHEMBL384,Homo sapiens,Bioorg. Med. Chem. Lett.,1996,623979,IC50,CRYPTOPHYCIN 3,HT-29,CHEMBL694341,BAO_0000219,9.0,Cytotoxic activity against HT-29 human colon adenocarcinoma cells
+CHEMBL398,Homo sapiens,J. Nat. Prod.,1997,2320123,IC50,CRYPTOPHYCIN 3,KB,CHEMBL1003534,BAO_0000219,8.72,Cytotoxicity against human KB cells
+CHEMBL614721,Homo sapiens,J. Nat. Prod.,1997,2320137,IC50,CRYPTOPHYCIN 3,LoVo,CHEMBL1003533,BAO_0000219,8.72,Cytotoxicity against human LoVo cells
+CHEMBL614925,Homo sapiens,J. Nat. Prod.,1997,2320138,IC50,CRYPTOPHYCIN 3,SK-OV-3,CHEMBL1003532,BAO_0000219,8.72,Cytotoxicity against human SKOV3 cells

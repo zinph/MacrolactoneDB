@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614697,Homo sapiens,J. Med. Chem.,2007,1913769,IC50,FIJIANOLIDE G,MDA-MB-435,CHEMBL894962,BAO_0000219,5.04,Cytotoxicity against human MDA-MB-435 cells after 72 hrs by SRB assay
+CHEMBL394,Homo sapiens,J. Med. Chem.,2007,1913776,IC50,FIJIANOLIDE G,HCT-116,CHEMBL894965,BAO_0000219,4.85,Cytotoxicity against human HCT116 cells after 72 hrs by SRB assay

@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,MedChemComm,2010,14535233,IC50,None,NON-PROTEIN TARGET,CHEMBL3224416,BAO_0000219,4.58,Cytotoxicity against human SGC7901 cells assessed as growth inhibition after 48 hrs by MTT assay
+CHEMBL398,Homo sapiens,MedChemComm,2010,14535266,IC50,None,KB,CHEMBL3224781,BAO_0000219,5.12,Cytotoxicity against human KB cells assessed as growth inhibition after 48 hrs by MTT assay
+CHEMBL3879801,None,MedChemComm,2010,14535299,IC50,None,NON-PROTEIN TARGET,CHEMBL3224782,BAO_0000219,5.02,Cytotoxicity against human HT1080 cells assessed as growth inhibition after 48 hrs by MTT assay

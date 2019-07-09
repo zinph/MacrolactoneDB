@@ -1,0 +1,11 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2095182,Homo sapiens,Bioorg. Med. Chem. Lett.,2003,677319,IC50,ARENASTATIN A,Tubulin,CHEMBL818130,BAO_0000223,4.82,Concentration required to reduce the amount of pelleted tubulin
+CHEMBL614328,Homo sapiens,Bioorg. Med. Chem. Lett.,2003,677320,IC50,ARENASTATIN A,MCF7S,CHEMBL707636,BAO_0000219,9.89,Inhibitory activity against MCF-7 cells after 72 hr cell growth
+CHEMBL613829,Homo sapiens,Bioorg. Med. Chem. Lett.,2003,677321,IC50,ARENASTATIN A,NCI/ADR-RES,CHEMBL707791,BAO_0000219,9.79,Inhibitory activity against MCF7-ADR cells after 72 hr cell growth
+CHEMBL394,Homo sapiens,Bioorg. Med. Chem. Lett.,2003,677322,IC50,ARENASTATIN A,HCT-116,CHEMBL688354,BAO_0000219,9.54,Inhibitory activity against HCT116 cells after 24 hr cell growth
+CHEMBL612545,None,J. Med. Chem.,2004,1203173,IC50,ARENASTATIN A,Unchecked,CHEMBL844735,BAO_0000019,4.8,In vitro inhibitory activity of compound against microtubule polymerization in a tubulin assembly assay
+CHEMBL387,Homo sapiens,J. Med. Chem.,2004,1203174,IC50,ARENASTATIN A,MCF7,CHEMBL710004,BAO_0000219,6.89,In vitro inhibitory activity of compound against induced cytotoxicity in MCF-7 cell line
+CHEMBL613829,Homo sapiens,J. Med. Chem.,2004,1203175,IC50,ARENASTATIN A,NCI/ADR-RES,CHEMBL873856,BAO_0000219,6.6,In vitro inhibitory activity of compound against induced cytotoxicity in multidrug-resistant MCF-7/ADR breast cancer cell line
+CHEMBL612545,None,J. Med. Chem.,2004,1205869,IC50,ARENASTATIN A,Unchecked,CHEMBL844735,BAO_0000019,4.86,In vitro inhibitory activity of compound against microtubule polymerization in a tubulin assembly assay
+CHEMBL387,Homo sapiens,J. Med. Chem.,2004,1205870,IC50,ARENASTATIN A,MCF7,CHEMBL710004,BAO_0000219,7.06,In vitro inhibitory activity of compound against induced cytotoxicity in MCF-7 cell line
+CHEMBL613829,Homo sapiens,J. Med. Chem.,2004,1205871,IC50,ARENASTATIN A,NCI/ADR-RES,CHEMBL873856,BAO_0000219,5.62,In vitro inhibitory activity of compound against induced cytotoxicity in multidrug-resistant MCF-7/ADR breast cancer cell line

@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3991,Homo sapiens,Bioorg Med Chem Lett,2017,18098641,Ki,None,Coagulation factor VII,CHEMBL4021598,BAO_0000219,8.02,Inhibition of tissue factor activated recombinant human coagulation factor 7a expressed in hamster BHK cells using S2288 as substrate pretreated for 15 mins with substrate followed by enzyme and tissue factor addition measured for 60 mins

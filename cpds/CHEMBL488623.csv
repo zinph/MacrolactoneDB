@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612589,Mus musculus,Bioorg. Med. Chem. Lett.,2008,2583516,IC50,None,4T1,CHEMBL962989,BAO_0000219,4.36,Cytotoxicity against human mouse 4T1 cells

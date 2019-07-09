@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL399,Homo sapiens,J. Nat. Prod.,2015,15651747,IC50,None,HeLa,CHEMBL3595532,BAO_0000219,6.06,Cytotoxicity against human HeLa cells after 48 hrs by MTT assay
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2015,15651751,IC50,None,HT-29,CHEMBL3595531,BAO_0000219,6.06,Cytotoxicity against human HT-29 cells after 48 hrs by MTT assay
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2015,15651765,IC50,None,HT-29,CHEMBL3595546,BAO_0000219,6.06,Cytotoxicity against human HT-29 cells after 1 to 48 hrs by MTT assay
+CHEMBL399,Homo sapiens,J. Nat. Prod.,2015,15651766,IC50,None,HeLa,CHEMBL3595547,BAO_0000219,6.06,Cytotoxicity against human HeLa cells after 1 to 48 hrs by MTT assay

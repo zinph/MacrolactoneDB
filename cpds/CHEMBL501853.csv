@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2006,2549067,IC50,DISORAZOLE A1,MCF7,CHEMBL968248,BAO_0000219,9.6,Antiproliferative activity against human MCF7 cells after 72 hrs by celltitre assay
+CHEMBL3879801,None,J. Nat. Prod.,2006,2549068,IC50,DISORAZOLE A1,NON-PROTEIN TARGET,CHEMBL968249,BAO_0000219,9.28,Antiproliferative activity against human multidrug-resistant P-glycoprotein expressing NCI/ADR cells after 72 hrs by celltitre assay
+CHEMBL392,Homo sapiens,J. Nat. Prod.,2006,2549069,IC50,DISORAZOLE A1,A549,CHEMBL968250,BAO_0000219,9.51,Antiproliferative activity against human A549 cells after 72 hrs by celltitre assay
+CHEMBL382,Homo sapiens,J. Nat. Prod.,2006,2549070,IC50,DISORAZOLE A1,CCRF-CEM,CHEMBL968252,BAO_0000219,10.15,Antiproliferative activity against human CCRF-CEM cells after 72 hrs by celltitre assay
+CHEMBL382,Homo sapiens,J. Nat. Prod.,2006,2549071,IC50,DISORAZOLE A1,CCRF-CEM,CHEMBL968251,BAO_0000219,10.18,Antiproliferative activity against human multidrug-resistant P-glycoprotein expressing CCRF-CEM/PTX cells after 72 hrs by celltitre assay

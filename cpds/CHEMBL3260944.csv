@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL392,Homo sapiens,Bioorg. Med. Chem. Lett.,2014,14660604,IC50,None,A549,CHEMBL3268014,BAO_0000219,8.6,Antiproliferative activity against human A549 cells after 120 hrs by WST-8 assay
+CHEMBL3879801,None,Bioorg. Med. Chem. Lett.,2014,14660613,IC50,None,NON-PROTEIN TARGET,CHEMBL3268015,BAO_0000219,8.59,Antiproliferative activity against human PANC1 cells after 96 hrs by WST-8 assay

@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL366,Candida albicans,J. Med. Chem.,2007,1920827,IC50,None,Candida albicans,CHEMBL895829,BAO_0000218,4.91,Antimicrobial activity against Candida albicans ATCC 90028
+CHEMBL365,Cryptococcus neoformans,J. Med. Chem.,2007,1920882,IC50,None,Filobasidiella neoformans,CHEMBL895824,BAO_0000218,5.36,Antimicrobial activity against Cryptococcus neoformans ATCC 90113

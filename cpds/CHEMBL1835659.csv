@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2878,Mus musculus,Eur. J. Med. Chem.,2013,12635222,IC50,SPIRUCHOSTATIN C,Histone deacetylase 6,CHEMBL2318095,BAO_0000357,6.5,Inhibition of mouse HDAC6 using Ac-KGLGK(Ac)-MCA as substrate after 30 mins by fluorescence assay
+CHEMBL325,Homo sapiens,Eur. J. Med. Chem.,2013,12635225,IC50,SPIRUCHOSTATIN C,Histone deacetylase 1,CHEMBL2318096,BAO_0000357,9.03,Inhibition of human HDAC1 using Ac-KGLGK(Ac)-MCA as substrate after 30 mins by fluorescence assay

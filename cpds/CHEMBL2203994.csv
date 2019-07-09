@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2189157,Manduca sexta,Bioorg. Med. Chem. Lett.,2012,12203489,IC50,DIAZIRINYL ARCHAZOLID A,V-type proton ATPase subunit C,CHEMBL2214190,BAO_0000357,6.22,Inhibition of tobacco hornworm V-ATPase c subunit

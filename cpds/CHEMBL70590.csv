@@ -1,0 +1,11 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5213,Saccharomyces cerevisiae S288c,Bioorg. Med. Chem. Lett.,2003,876647,IC50,BORRELIDIN,Cell division control protein 28,CHEMBL659779,BAO_0000357,4.62,Inhibition of cyclin-dependent kinase activity of Cdc28p/CDK2p in Saccharomyces cerevisiae
+CHEMBL361,Saccharomyces cerevisiae,Bioorg. Med. Chem. Lett.,2003,876648,IC50,BORRELIDIN,Saccharomyces cerevisiae,CHEMBL809773,BAO_0000218,4.64,Ability to inhibit cell proliferation of Saccharomyces cerevisiae strain BY4741
+CHEMBL3879801,None,Bioorg. Med. Chem. Lett.,2006,1809478,IC50,BORRELIDIN,NON-PROTEIN TARGET,CHEMBL911931,BAO_0000219,7.7,Antiproliferative activity against NCI60 cell line
+CHEMBL613979,Homo sapiens,Bioorg. Med. Chem. Lett.,2006,1809505,IC50,BORRELIDIN,HUVEC,CHEMBL911930,BAO_0000219,9.3,Growth inhibition in HUVEC
+CHEMBL2366435,Phytophthora sojae,J Agric Food Chem,2012,12341204,Ki,BORRELIDIN,Threonyl-tRNA synthase,CHEMBL3049465,BAO_0000019,5.0,
+CHEMBL2366435,Phytophthora sojae,J Agric Food Chem,2012,12341205,IC50,BORRELIDIN,Threonyl-tRNA synthase,CHEMBL3049465,BAO_0000019,5.1,
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2014,15079204,IC50,BORRELIDIN,HT-29,CHEMBL3383852,BAO_0000219,6.04,Growth inhibition of human HT-29 cells
+CHEMBL614129,Homo sapiens,J. Nat. Prod.,2014,15083689,IC50,BORRELIDIN,MDA-MB-361,CHEMBL3383851,BAO_0000219,6.38,Growth inhibition of human MDA-MB-361 cells
+CHEMBL614197,Homo sapiens,J. Nat. Prod.,2014,15083691,IC50,BORRELIDIN,NCI-N87,CHEMBL3383850,BAO_0000219,7.3,Growth inhibition of human NCI-N87 cells
+CHEMBL3879801,None,MedChemComm,2016,16761085,IC50,BORRELIDIN,NON-PROTEIN TARGET,CHEMBL3862247,BAO_0000019,8.72,Antimalarial activity against drug-resistant asynchronous culture of Plasmodium falciparum K1 after 72 hrs by p-LDH assay

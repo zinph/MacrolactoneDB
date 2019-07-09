@@ -1,0 +1,10 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL396,Homo sapiens,J. Nat. Prod.,2007,1817802,IC50,BEAUVERICIN,NCI-H460,CHEMBL855209,BAO_0000219,5.85,Cytotoxicity against human NCI-H460 cells after 72 hrs by MTT assay
+CHEMBL614725,Homo sapiens,J. Nat. Prod.,2007,1817804,IC50,BEAUVERICIN,MIA PaCa-2,CHEMBL856838,BAO_0000219,5.78,Cytotoxicity against human MIAPaCa2 cells after 72 hrs by MTT assay
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2007,1817806,IC50,BEAUVERICIN,MCF7,CHEMBL856839,BAO_0000219,5.74,Cytotoxicity against human MCF7 cells after 72 hrs by MTT assay
+CHEMBL613977,Homo sapiens,J. Nat. Prod.,2007,1817808,IC50,BEAUVERICIN,SF-268,CHEMBL856840,BAO_0000219,5.64,Cytotoxicity against human SF268 cells after 72 hrs by MTT assay
+CHEMBL3879801,None,J. Nat. Prod.,2007,1817809,IC50,BEAUVERICIN,NON-PROTEIN TARGET,CHEMBL856841,BAO_0000219,5.42,Inhibition of cell proliferation in PC3M cells after 20 hrs by MTT assay
+CHEMBL400,Homo sapiens,J. Nat. Prod.,2007,1817811,IC50,BEAUVERICIN,MDA-MB-231,CHEMBL856842,BAO_0000219,5.12,Inhibition of cell proliferation in MDA-MB-231 cells after 40 hrs by MTT assay
+CHEMBL3879801,None,J. Nat. Prod.,2007,1817822,IC50,BEAUVERICIN,NON-PROTEIN TARGET,CHEMBL856844,BAO_0000219,5.12,Antiangiogenic activity in HUVEC-2 cells assessed as inhibition of endothelial cell network formation after 16 hrs
+CHEMBL3879801,None,J. Nat. Prod.,2007,2058460,IC50,BEAUVERICIN,NON-PROTEIN TARGET,CHEMBL925432,BAO_0000219,5.1,Cytotoxicity against human PC-3M cells by MTT assay
+CHEMBL3879801,None,J. Nat. Prod.,2007,2058461,IC50,BEAUVERICIN,NON-PROTEIN TARGET,CHEMBL925431,BAO_0000219,5.46,Antihaptotactic activity in human PC-3M cells assessed as inhibition of cell migration by wound healing assay

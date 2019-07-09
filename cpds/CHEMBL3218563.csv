@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL325,Homo sapiens,MedChemComm,2012,14550864,IC50,None,Histone deacetylase 1,CHEMBL3227883,BAO_0000357,9.03,Inhibition of human recombinant HDAC1 after 1 hr by luminescence assay
+CHEMBL3524,Homo sapiens,MedChemComm,2012,14550871,IC50,None,Histone deacetylase 4,CHEMBL3227884,BAO_0000357,4.23,Inhibition of human recombinant HDAC4 after 1 hr by luminescence assay
+CHEMBL1865,Homo sapiens,MedChemComm,2012,14550878,IC50,None,Histone deacetylase 6,CHEMBL3227885,BAO_0000357,5.78,Inhibition of human recombinant HDAC6 after 1 hr by luminescence assay

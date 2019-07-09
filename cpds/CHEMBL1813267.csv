@@ -1,0 +1,9 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL378,Human immunodeficiency virus 1,J. Nat. Prod.,2011,6303586,EC50,SHIZUKAOL B,Human immunodeficiency virus 1,CHEMBL1817354,BAO_0000218,6.66,
+CHEMBL378,Human immunodeficiency virus 1,J. Nat. Prod.,2011,6303591,EC50,SHIZUKAOL B,Human immunodeficiency virus 1,CHEMBL1817355,BAO_0000218,6.33,
+CHEMBL378,Human immunodeficiency virus 1,J. Nat. Prod.,2011,6303596,EC50,SHIZUKAOL B,Human immunodeficiency virus 1,CHEMBL1817356,BAO_0000218,6.3,
+CHEMBL378,Human immunodeficiency virus 1,J. Nat. Prod.,2011,6303611,EC50,SHIZUKAOL B,Human immunodeficiency virus 1,CHEMBL1817442,BAO_0000218,8.85,Antiviral activity against Human immunodeficiency virus 1 assessed as inhibition of virus-induced cytopathic effects by cell based assay
+CHEMBL612557,Mus musculus,J. Nat. Prod.,2012,10896973,IC50,SHIZUKAOL B,RAW264.7,CHEMBL2039285,BAO_0000219,6.82,Antiinflammatory activity in mouse RAW264.7 cells assessed as inhibition of LPS-stimulated nitric oxide production pretreated for 2 hrs before LPS challenge measured after 18 hrs by Griess method
+CHEMBL612557,Mus musculus,Bioorg. Med. Chem. Lett.,2016,16597324,IC50,SHIZUKAOL B,RAW264.7,CHEMBL3813287,BAO_0000219,4.83,Inhibition of LPS-induced NO production in mouse RAW264.7 cells after 24 hrs by Griess assay
+CHEMBL612545,None,J Nat Prod,2017,18015577,IC50,SHIZUKAOL B,Unchecked,CHEMBL4004932,BAO_0000019,7.57,Antimalarial activity against chloroquine-resistant Plasmodium falciparum Dd2 assessed as parasite growth inhibition after 72 hrs by SYBR Green 1 assay
+CHEMBL612545,None,J Nat Prod,2017,18015607,IC50,SHIZUKAOL B,Unchecked,CHEMBL4004933,BAO_0000219,4.78,Cytotoxicity against human WI38 cells after 72 hrs by CCK8 assay

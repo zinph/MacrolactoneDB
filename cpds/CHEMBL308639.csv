@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614309,None,Bioorg. Med. Chem. Lett.,1997,1278544,IC50,None,T-cells,CHEMBL813828,BAO_0000219,8.64,In vitro suppression of T-cell proliferation.

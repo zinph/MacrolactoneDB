@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL392,Homo sapiens,J. Nat. Prod.,2007,1824184,IC50,NEOPELTOLIDE,A549,CHEMBL917994,BAO_0000219,8.92,Cytotoxicity against human A549 cells ATCC CCL-185 by MTT assay
+CHEMBL612558,None,J. Nat. Prod.,2007,1824224,IC50,NEOPELTOLIDE,ADMET,CHEMBL917995,BAO_0000219,8.29,Cytotoxicity against human NCI-ADR-RES cells by MTT assay
+CHEMBL612558,None,J. Nat. Prod.,2007,1824249,IC50,NEOPELTOLIDE,ADMET,CHEMBL917996,BAO_0000219,9.25,Cytotoxicity against mouse NCI-P388 cells by MTT assay
+CHEMBL612545,None,Nat. Chem. Biol.,2008,3420358,IC50,NEOPELTOLIDE,Unchecked,CHEMBL1225287,BAO_0000219,8.89,Inhibition of bc1 complex in human A549 cells assessed as reduction in ATP production in presence of 10 mM of 2-DG
+CHEMBL612545,None,Nat. Chem. Biol.,2008,3420426,IC50,NEOPELTOLIDE,Unchecked,CHEMBL1224999,BAO_0000019,9.22,Inhibition of Saccharomyces cerevisiae Cytochrome b-c1 complex
+CHEMBL612545,None,Nat. Chem. Biol.,2008,3420427,IC50,NEOPELTOLIDE,Unchecked,CHEMBL1225001,BAO_0000019,8.7,Inhibition of bovine Cytochrome b-c1 complex

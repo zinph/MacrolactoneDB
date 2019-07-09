@@ -30,6 +30,10 @@ def is_int(input):
 
 
 def cleanup(input_string):
+    '''
+    When it's a range (-), it will be sorted into a tuple as min and max.
+    If only one value is provided, both min and max are that value.
+    '''
     stripped = re.sub(r'\s+', '', input_string)
     if stripped == None or stripped =='':
         low,high = 'dc','dc'
@@ -90,6 +94,8 @@ def getvalue():
     Lipinski = request.form['Lipinski']
     command['Lipinski'] = Lipinski
 
+    activity_reported = request.form['activity_reported']
+    command['activity_reported'] = activity_reported
 
     sample = MacrolactoneDB_Miner(command)
     library_df = sample.compile_filters()
@@ -135,21 +141,6 @@ def return_files_sdf():
         return result
     except Exception as e:
         return str(e)
-
-# @app.route('/download', methods=['GET'])
-# def download():
-#     filename = request.form['filename']
-#     try:
-#         return send_file('temp.smiles', attachment_filename=filename)
-#     except Exception as e:
-#         return str(e)
-    # if request.form['download'] == 'download':
-    #     url = request.args['url']
-    #     filename = request.args.get('filename', 'temp.smiles')
-    #     r = requests.get(url)
-    #     strIO = StringIO.StringIO(r.content)
-    #     return send_file(strIO, as_attachment=True, attachment_filename=filename)
-
 
 
 if __name__ == '__main__':

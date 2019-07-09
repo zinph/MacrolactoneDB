@@ -1,0 +1,404 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1902,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,64601,IC50,SIROLIMUS,FK506-binding protein 1A,CHEMBL678159,BAO_0000357,9.22,Compound was tested in vitro for its ability to compete with immobilized FK506 for binding to biotinylated FK506 binding protein 12 in a competitive binding assay
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,1999,64602,IC50,SIROLIMUS,Unchecked,CHEMBL699874,BAO_0000019,9.0,Compound was tested in vitro for its ability to inhibit the proliferation of the IL-6-dependent hybridoma clone B13-29-15
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,1999,64603,IC50,SIROLIMUS,Unchecked,CHEMBL708367,BAO_0000019,9.0,Compound was tested in vitro for inhibitory activity in the mixed lymphocyte reaction (MLR) assay
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,1999,402677,IC50,SIROLIMUS,Unchecked,CHEMBL677253,BAO_0000019,7.82,Ability to bind to FK506 binding protein via its inhibition of peptidyl prolyl cis-trans isomerase activity (PPIase) inherent to FKBP
+CHEMBL375,Mus musculus,Bioorg. Med. Chem. Lett.,1999,402678,IC50,SIROLIMUS,Mus musculus,CHEMBL740139,BAO_0000218,8.52,In vitro ability to inhibit lymphoproliferation (LAF) in vitro using cells from the thymus of normal BALB/c mice
+CHEMBL614309,None,Bioorg. Med. Chem. Lett.,1995,447616,IC50,SIROLIMUS,T-cells,CHEMBL810607,BAO_0000219,8.01,Tested for inhibition of T cell proliferation in the co-mitogen stimulated proliferation assay
+CHEMBL372,Homo sapiens,Bioorg. Med. Chem. Lett.,1998,483670,IC50,SIROLIMUS,Homo sapiens,CHEMBL811523,BAO_0000218,9.3,Immunosuppressive activity was evaluated by the inhibition of human T-lymphocyte proliferation
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,1994,644962,Ki,SIROLIMUS,Unchecked,CHEMBL762182,BAO_0000019,6.0,Inhibition constant against peptidyl prolyl isomerase
+CHEMBL1902,Homo sapiens,J. Med. Chem.,1998,719989,IC50,SIROLIMUS,FK506-binding protein 1A,CHEMBL678141,BAO_0000357,8.96,Inhibitory binding activity against human Immunophilin-FK-506 binding protein 12
+CHEMBL372,Homo sapiens,J. Med. Chem.,1998,719990,IC50,SIROLIMUS,Homo sapiens,CHEMBL701818,BAO_0000218,8.9,Inhibition of human mixed lymphocyte response (MLR)
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,1993,727468,Ki,SIROLIMUS,Unchecked,CHEMBL857515,BAO_0000019,9.3,Binding affinity for FK506 binding protein
+CHEMBL375,Mus musculus,Bioorg. Med. Chem. Lett.,1993,727469,IC50,SIROLIMUS,Mus musculus,CHEMBL740141,BAO_0000218,9.0,In vitro immunosuppressive activity by splenocyte mitogenesis assay in spleen cells from BDF1 female mice at 1 pM to 10 uM concentration
+CHEMBL2842,Homo sapiens,Bioorg. Med. Chem. Lett.,2000,881846,IC50,SIROLIMUS,Serine/threonine-protein kinase mTOR,CHEMBL677281,BAO_0000357,8.46,The inhibitory activity by using FK506 binding protein 12 SPA binding assay
+CHEMBL372,Homo sapiens,Bioorg. Med. Chem. Lett.,2000,937963,IC50,SIROLIMUS,Homo sapiens,CHEMBL695826,BAO_0000218,9.0,Inhibitory activity against human concanavalin-A proliferation assay
+CHEMBL1902,Homo sapiens,Bioorg. Med. Chem. Lett.,2000,937964,IC50,SIROLIMUS,FK506-binding protein 1A,CHEMBL677106,BAO_0000357,8.8,The compound was tested for binding affinity to FK506 binding protein 12 with an ascomycin conjugate of alkaline phosphatase in a competition binding assay
+CHEMBL1902,Homo sapiens,J. Med. Chem.,1998,992867,Ki,SIROLIMUS,FK506-binding protein 1A,CHEMBL678143,BAO_0000357,9.7,Compound was tested for its ability to inhibit FK506 binding protein 12 rotamase activity
+CHEMBL1902,Homo sapiens,J. Med. Chem.,2005,1605332,IC50,SIROLIMUS,FK506-binding protein 1A,CHEMBL881779,BAO_0000357,9.35,Inhibitory concentration against binding to FKBP12
+CHEMBL2842,Homo sapiens,J. Med. Chem.,2005,1615020,IC50,SIROLIMUS,Serine/threonine-protein kinase mTOR,CHEMBL881403,BAO_0000357,9.35,Inhibitory concentration against FKBP12 receptor
+CHEMBL2842,Homo sapiens,Bioorg. Med. Chem. Lett.,2005,1659907,IC50,SIROLIMUS,Serine/threonine-protein kinase mTOR,CHEMBL871328,BAO_0000357,8.8,Inhibitory activity against FKBP12
+CHEMBL614167,None,Bioorg. Med. Chem. Lett.,2005,1660096,IC50,SIROLIMUS,T-lymphocytes,CHEMBL862732,BAO_0000219,8.8,T-cell antiproliferative activity in human mixed lymphocyte reaction
+CHEMBL614167,None,Bioorg. Med. Chem. Lett.,2005,1660105,IC50,SIROLIMUS,T-lymphocytes,CHEMBL871329,BAO_0000219,5.58,Antiproliferative activity in Lewis rat lymph node cells in rat mixed lymphocyte reaction
+CHEMBL2842,Homo sapiens,J. Biol. Chem.,2007,2200407,IC50,SIROLIMUS,Serine/threonine-protein kinase mTOR,CHEMBL997061,BAO_0000219,10.0,Inhibition of mTOR kinase expressed in human HEK293 cells by Western blot analysis
+CHEMBL378,Human immunodeficiency virus 1,Antimicrob. Agents Chemother.,2007,2351388,EC50,SIROLIMUS,Human immunodeficiency virus 1,CHEMBL953874,BAO_0000218,10.0,Antiviral activity against HIV1 R5 assessed as inhibition of cell-cell fusion between R5-envelope expressing HEK293T cells and CD8 depleted human PBMCs pretreated for 6 days
+CHEMBL378,Human immunodeficiency virus 1,Antimicrob. Agents Chemother.,2007,2351389,EC50,SIROLIMUS,Human immunodeficiency virus 1,CHEMBL953875,BAO_0000218,8.89,Antiviral activity against HIV1 X4 assessed as inhibition of cell-cell fusion between X4-envelope expressing HEK293T cells and CD8 depleted human PBMCs pretreated for 6 days
+CHEMBL378,Human immunodeficiency virus 1,Antimicrob. Agents Chemother.,2007,2351393,EC50,SIROLIMUS,Human immunodeficiency virus 1,CHEMBL953878,BAO_0000218,9.82,Antiviral activity against HIV1 ADA in human PBMC assessed as reduction of p24 antigen levels
+CHEMBL378,Human immunodeficiency virus 1,Antimicrob. Agents Chemother.,2007,2351396,EC50,SIROLIMUS,Human immunodeficiency virus 1,CHEMBL953880,BAO_0000218,8.6,Antiviral activity against HIV1 X4 in human PBMC assessed as reduction of p24 antigen levels
+CHEMBL378,Human immunodeficiency virus 1,Antimicrob. Agents Chemother.,2007,2351407,EC50,SIROLIMUS,Human immunodeficiency virus 1,CHEMBL953891,BAO_0000218,9.74,Antiviral activity against HIV1 R5 in human PBMC assessed as fractional inhibition of viral replication
+CHEMBL1293231,Mus musculus,None,None,4117072,Potency,SIROLIMUS,Nuclear receptor ROR-gamma,CHEMBL1614441,BAO_0000019,4.5,PUBCHEM_BIOASSAY: VP16 counterscreen qHTS for inhibitors of ROR gamma transcriptional activity. (Class of assay: confirmatory) 
+CHEMBL1293231,Mus musculus,None,None,4983864,Potency,SIROLIMUS,Nuclear receptor ROR-gamma,CHEMBL1614087,BAO_0000019,4.45,PUBCHEM_BIOASSAY: qHTS for inhibitors of ROR gamma transcriptional activity. (Class of assay: confirmatory) 
+CHEMBL4848,Homo sapiens,Bioorg. Med. Chem.,2010,5113953,Kd,SIROLIMUS,Eukaryotic translation initation factor,CHEMBL1639015,BAO_0000357,9.3,Binding affinity to purified elF4E
+CHEMBL1781868,Homo sapiens,J. Nat. Prod.,2011,6216841,EC50,SIROLIMUS,Programmed cell death protein 4,CHEMBL1787264,BAO_0000219,7.3,Inhibition of TPA-induced degradation of Pdcd4 (amino acid 39-91) expressed in human HEK293 cells assessed as minimum compound concentration required for 50% recovery of Pdcd4-luciferase signal incubated for 8 hrs by luciferase reporter gene assay
+CHEMBL612545,None,None,None,7796085,IC50,SIROLIMUS,Unchecked,CHEMBL1909084,BAO_0000249,5.96,DRUGMATRIX: Sodium/nucleoside co-transporter radioligand binding (ligand: nitrobenzylthioinosine)
+CHEMBL612545,None,None,None,7796086,Ki,SIROLIMUS,Unchecked,CHEMBL1909084,BAO_0000249,6.43,DRUGMATRIX: Sodium/nucleoside co-transporter radioligand binding (ligand: nitrobenzylthioinosine)
+CHEMBL3622,Homo sapiens,None,None,7796151,IC50,SIROLIMUS,Cytochrome P450 2C19,CHEMBL1909134,BAO_0000219,5.4,"DRUGMATRIX: CYP450, 2C19 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)"
+CHEMBL3397,Homo sapiens,None,None,7796153,IC50,SIROLIMUS,Cytochrome P450 2C9,CHEMBL1909135,BAO_0000219,5.7,"DRUGMATRIX: CYP450, 2C9 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)"
+CHEMBL340,Homo sapiens,None,None,7796159,IC50,SIROLIMUS,Cytochrome P450 3A4,CHEMBL1909138,BAO_0000219,5.7,"DRUGMATRIX: CYP450, 3A4 enzyme inhibition (substrate: 7-Benzyloxy-4-(trifluoromethyl)-coumarin)"
+CHEMBL1697668,Homo sapiens,Naunyn Schmiedebergs Arch. Pharmacol.,2003,11000900,IC50,SIROLIMUS,Solute carrier organic anion transporter family member 1B1,CHEMBL2077073,BAO_0000219,5.96,TP_TRANSPORTER: inhibition of Phalloidin uptake (Phalloidin: 1 uM) in OATP-C-expressing HEK293 cells
+CHEMBL4302,Homo sapiens,J. Pharmacol. Exp. Ther.,2002,11000903,IC50,SIROLIMUS,P-glycoprotein 1,CHEMBL2076148,BAO_0000219,5.9,TP_TRANSPORTER: inhibition of Rhodamine 123 transport (basal to apical) (R123: 15 uM) in HCT-8 cells
+CHEMBL2052031,Homo sapiens,J. Med. Chem.,2013,12726904,Ki,SIROLIMUS,Peptidyl-prolyl cis-trans isomerase FKBP5,CHEMBL2351899,BAO_0000357,8.52,Binding affinity to human FKBP51 by competitive fluorescence polarization assay
+CHEMBL2366079,Homo sapiens,None,None,13201924,IC50,SIROLIMUS,DSH1,CHEMBL2363187,BAO_0000219,6.34,SANGER: Inhibition of human DSH1 cell growth in a cell viability assay.
+CHEMBL614281,Homo sapiens,None,None,13202233,IC50,SIROLIMUS,Daudi,CHEMBL2363192,BAO_0000219,9.36,SANGER: Inhibition of human Daudi cell growth in a cell viability assay.
+CHEMBL2366246,Homo sapiens,None,None,13202399,IC50,SIROLIMUS,DU-4475,CHEMBL2363189,BAO_0000219,6.73,SANGER: Inhibition of human DU-4475 cell growth in a cell viability assay.
+CHEMBL2366258,Homo sapiens,None,None,13202488,IC50,SIROLIMUS,EHEB,CHEMBL2363206,BAO_0000219,6.47,SANGER: Inhibition of human EHEB cell growth in a cell viability assay.
+CHEMBL614487,Homo sapiens,None,None,13202557,IC50,SIROLIMUS,EKVX,CHEMBL2363207,BAO_0000219,6.17,SANGER: Inhibition of human EKVX cell growth in a cell viability assay.
+CHEMBL2366281,Homo sapiens,None,None,13202695,IC50,SIROLIMUS,EM-2,CHEMBL2363208,BAO_0000219,7.41,SANGER: Inhibition of human EM-2 cell growth in a cell viability assay.
+CHEMBL2366146,Homo sapiens,None,None,13202886,IC50,SIROLIMUS,ES1,CHEMBL2363210,BAO_0000219,5.54,SANGER: Inhibition of human ES1 cell growth in a cell viability assay.
+CHEMBL2366312,Homo sapiens,None,None,13203066,IC50,SIROLIMUS,ES5,CHEMBL2363213,BAO_0000219,4.82,SANGER: Inhibition of human ES5 cell growth in a cell viability assay.
+CHEMBL2366135,Homo sapiens,None,None,13203262,IC50,SIROLIMUS,ES3,CHEMBL2363211,BAO_0000219,4.82,SANGER: Inhibition of human ES3 cell growth in a cell viability assay.
+CHEMBL2366118,Homo sapiens,None,None,13203401,IC50,SIROLIMUS,ES4,CHEMBL2363212,BAO_0000219,10.67,SANGER: Inhibition of human ES4 cell growth in a cell viability assay.
+CHEMBL2366369,Homo sapiens,None,None,13203649,IC50,SIROLIMUS,EB-3,CHEMBL2363195,BAO_0000219,7.28,SANGER: Inhibition of human EB-3 cell growth in a cell viability assay.
+CHEMBL2366240,Homo sapiens,None,None,13203805,IC50,SIROLIMUS,EC-GI-10,CHEMBL2363197,BAO_0000219,4.67,SANGER: Inhibition of human EC-GI-10 cell growth in a cell viability assay.
+CHEMBL2366367,Homo sapiens,None,None,13203992,IC50,SIROLIMUS,ECC4,CHEMBL2363200,BAO_0000219,7.35,SANGER: Inhibition of human ECC4 cell growth in a cell viability assay.
+CHEMBL2366283,Homo sapiens,None,None,13204955,IC50,SIROLIMUS,C2BBe1,CHEMBL2363771,BAO_0000219,6.78,SANGER: Inhibition of human C2BBe1 cell growth in a cell viability assay.
+CHEMBL2366224,Homo sapiens,None,None,13205146,IC50,SIROLIMUS,COLO-800,CHEMBL2363140,BAO_0000219,6.63,SANGER: Inhibition of human COLO-800 cell growth in a cell viability assay.
+CHEMBL2366199,Homo sapiens,None,None,13205260,IC50,SIROLIMUS,DG-75,CHEMBL2363177,BAO_0000219,5.93,SANGER: Inhibition of human DG-75 cell growth in a cell viability assay.
+CHEMBL2366264,Homo sapiens,None,None,13205338,IC50,SIROLIMUS,DJM-1,CHEMBL2363178,BAO_0000219,5.58,SANGER: Inhibition of human DJM-1 cell growth in a cell viability assay.
+CHEMBL614567,Homo sapiens,None,None,13205500,IC50,SIROLIMUS,A704,CHEMBL2363734,BAO_0000219,6.05,SANGER: Inhibition of human A704 cell growth in a cell viability assay.
+CHEMBL1075430,Homo sapiens,None,None,13206004,IC50,SIROLIMUS,COLO-824,CHEMBL2363141,BAO_0000219,5.54,SANGER: Inhibition of human COLO-824 cell growth in a cell viability assay.
+CHEMBL2366275,Homo sapiens,None,None,13206143,IC50,SIROLIMUS,COLO-829,CHEMBL2363142,BAO_0000219,5.07,SANGER: Inhibition of human COLO-829 cell growth in a cell viability assay.
+CHEMBL614642,Homo sapiens,None,None,13206296,IC50,SIROLIMUS,DMS-114,CHEMBL2363180,BAO_0000219,6.82,SANGER: Inhibition of human DMS-114 cell growth in a cell viability assay.
+CHEMBL2366195,Homo sapiens,None,None,13206530,IC50,SIROLIMUS,ACN,CHEMBL2363737,BAO_0000219,6.83,SANGER: Inhibition of human ACN cell growth in a cell viability assay.
+CHEMBL614533,Homo sapiens,None,None,13206725,IC50,SIROLIMUS,C8166,CHEMBL2363774,BAO_0000219,5.18,SANGER: Inhibition of human C8166 cell growth in a cell viability assay.
+CHEMBL612566,Homo sapiens,None,None,13206855,IC50,SIROLIMUS,CA46,CHEMBL2363775,BAO_0000219,5.05,SANGER: Inhibition of human CA46 cell growth in a cell viability assay.
+CHEMBL614286,Homo sapiens,None,None,13207142,IC50,SIROLIMUS,DMS-79,CHEMBL2363184,BAO_0000219,5.86,SANGER: Inhibition of human DMS-79 cell growth in a cell viability assay.
+CHEMBL2366181,Homo sapiens,None,None,13207247,IC50,SIROLIMUS,DOHH-2,CHEMBL2363185,BAO_0000219,8.47,SANGER: Inhibition of human DOHH-2 cell growth in a cell viability assay.
+CHEMBL2366294,Homo sapiens,None,None,13207481,IC50,SIROLIMUS,ALL-PO,CHEMBL2363739,BAO_0000219,5.32,SANGER: Inhibition of human ALL-PO cell growth in a cell viability assay.
+CHEMBL2366352,Homo sapiens,None,None,13207916,IC50,SIROLIMUS,COR-L279,CHEMBL2363145,BAO_0000219,7.06,SANGER: Inhibition of human COR-L279 cell growth in a cell viability assay.
+CHEMBL2366329,Homo sapiens,None,None,13207994,IC50,SIROLIMUS,COR-L88,CHEMBL2363146,BAO_0000219,4.79,SANGER: Inhibition of human COR-L88 cell growth in a cell viability assay.
+CHEMBL2366167,Homo sapiens,None,None,13208111,IC50,SIROLIMUS,DMS-153,CHEMBL2363181,BAO_0000219,5.51,SANGER: Inhibition of human DMS-153 cell growth in a cell viability assay.
+CHEMBL2366192,Homo sapiens,None,None,13208326,IC50,SIROLIMUS,AM-38,CHEMBL2363740,BAO_0000219,5.88,SANGER: Inhibition of human AM-38 cell growth in a cell viability assay.
+CHEMBL2366241,Homo sapiens,None,None,13208563,IC50,SIROLIMUS,ARH-77,CHEMBL2363742,BAO_0000219,7.28,SANGER: Inhibition of human ARH-77 cell growth in a cell viability assay.
+CHEMBL1075407,Homo sapiens,None,None,13208659,IC50,SIROLIMUS,CAL-148,CHEMBL2363779,BAO_0000219,5.63,SANGER: Inhibition of human CAL-148 cell growth in a cell viability assay.
+CHEMBL2366363,Homo sapiens,None,None,13208934,IC50,SIROLIMUS,CP66-MEL,CHEMBL2363148,BAO_0000219,5.42,SANGER: Inhibition of human CP66-MEL cell growth in a cell viability assay.
+CHEMBL2366277,Homo sapiens,None,None,13209168,IC50,SIROLIMUS,ATN-1,CHEMBL2363743,BAO_0000219,5.9,SANGER: Inhibition of human ATN-1 cell growth in a cell viability assay.
+CHEMBL2366095,Homo sapiens,None,None,13209582,IC50,SIROLIMUS,CP67-MEL,CHEMBL2363149,BAO_0000219,6.7,SANGER: Inhibition of human CP67-MEL cell growth in a cell viability assay.
+CHEMBL2366061,Homo sapiens,None,None,13209608,IC50,SIROLIMUS,CPC-N,CHEMBL2363150,BAO_0000219,5.96,SANGER: Inhibition of human CPC-N cell growth in a cell viability assay.
+CHEMBL2366344,Homo sapiens,None,None,13209694,IC50,SIROLIMUS,CTB-1,CHEMBL2363152,BAO_0000219,5.33,SANGER: Inhibition of human CTB-1 cell growth in a cell viability assay.
+CHEMBL2366271,Homo sapiens,None,None,13210271,IC50,SIROLIMUS,BB30-HNC,CHEMBL2363747,BAO_0000219,6.41,SANGER: Inhibition of human BB30-HNC cell growth in a cell viability assay.
+CHEMBL2366360,Homo sapiens,None,None,13210552,IC50,SIROLIMUS,CTV-1,CHEMBL2363153,BAO_0000219,6.13,SANGER: Inhibition of human CTV-1 cell growth in a cell viability assay.
+CHEMBL2366174,Homo sapiens,None,None,13210678,IC50,SIROLIMUS,CW-2,CHEMBL2363154,BAO_0000219,5.23,SANGER: Inhibition of human CW-2 cell growth in a cell viability assay.
+CHEMBL2366253,Homo sapiens,None,None,13210958,IC50,SIROLIMUS,697,CHEMBL2363713,BAO_0000219,8.2,SANGER: Inhibition of human 697 cell growth in a cell viability assay.
+CHEMBL2366295,Homo sapiens,None,None,13211133,IC50,SIROLIMUS,BB49-HNC,CHEMBL2363748,BAO_0000219,5.76,SANGER: Inhibition of human BB49-HNC cell growth in a cell viability assay.
+CHEMBL2366247,Homo sapiens,None,None,13211997,IC50,SIROLIMUS,BB65-RCC,CHEMBL2363749,BAO_0000219,6.92,SANGER: Inhibition of human BB65-RCC cell growth in a cell viability assay.
+CHEMBL614277,None,None,None,13212136,IC50,SIROLIMUS,BC1 cell line,CHEMBL2363750,BAO_0000219,7.5,SANGER: Inhibition of human BC-1 cell growth in a cell viability assay.
+CHEMBL2366371,Homo sapiens,None,None,13212214,IC50,SIROLIMUS,BC-3,CHEMBL2363751,BAO_0000219,7.0,SANGER: Inhibition of human BC-3 cell growth in a cell viability assay.
+CHEMBL2366100,Homo sapiens,None,None,13212422,IC50,SIROLIMUS,CAS-1,CHEMBL2363834,BAO_0000219,5.5,SANGER: Inhibition of human CAS-1 cell growth in a cell viability assay.
+CHEMBL614535,Homo sapiens,None,None,13212696,IC50,SIROLIMUS,Calu-6,CHEMBL2363160,BAO_0000219,5.21,SANGER: Inhibition of human Calu-6 cell growth in a cell viability assay.
+CHEMBL2366115,Homo sapiens,None,None,13212726,IC50,SIROLIMUS,8-MG-BA,CHEMBL2363716,BAO_0000219,6.24,SANGER: Inhibition of human 8-MG-BA cell growth in a cell viability assay.
+CHEMBL2366303,Homo sapiens,None,None,13213114,IC50,SIROLIMUS,BE-13,CHEMBL2363753,BAO_0000219,8.53,SANGER: Inhibition of human BE-13 cell growth in a cell viability assay.
+CHEMBL382,Homo sapiens,None,None,13213321,IC50,SIROLIMUS,CCRF-CEM,CHEMBL2363836,BAO_0000219,8.31,SANGER: Inhibition of human CCRF-CEM cell growth in a cell viability assay.
+CHEMBL2366306,Homo sapiens,None,None,13213780,IC50,SIROLIMUS,A101D,CHEMBL2363719,BAO_0000219,7.49,SANGER: Inhibition of human A101D cell growth in a cell viability assay.
+CHEMBL2366361,Homo sapiens,None,None,13214170,IC50,SIROLIMUS,CESS,CHEMBL2363837,BAO_0000219,7.88,SANGER: Inhibition of human CESS cell growth in a cell viability assay.
+CHEMBL2366300,Homo sapiens,None,None,13214309,IC50,SIROLIMUS,CGTH-W-1,CHEMBL2363839,BAO_0000219,6.02,SANGER: Inhibition of human CGTH-W-1 cell growth in a cell viability assay.
+CHEMBL2366237,Homo sapiens,None,None,13214531,IC50,SIROLIMUS,D-247MG,CHEMBL2363165,BAO_0000219,5.15,SANGER: Inhibition of human D-247MG cell growth in a cell viability assay.
+CHEMBL2366137,Homo sapiens,None,None,13215266,IC50,SIROLIMUS,CHP-126,CHEMBL2363841,BAO_0000219,5.42,SANGER: Inhibition of human CHP-126 cell growth in a cell viability assay.
+CHEMBL2366183,Homo sapiens,None,None,13215368,IC50,SIROLIMUS,D-263MG,CHEMBL2363166,BAO_0000219,5.37,SANGER: Inhibition of human D-263MG cell growth in a cell viability assay.
+CHEMBL614476,None,None,None,13215507,IC50,SIROLIMUS,D283 Med,CHEMBL2363167,BAO_0000219,5.38,SANGER: Inhibition of human D-283MED cell growth in a cell viability assay.
+CHEMBL614255,None,None,None,13215641,IC50,SIROLIMUS,A253 cell line,CHEMBL2363723,BAO_0000219,5.4,SANGER: Inhibition of human A253 cell growth in a cell viability assay.
+CHEMBL2366173,Homo sapiens,None,None,13215895,IC50,SIROLIMUS,BL-41,CHEMBL2363759,BAO_0000219,7.36,SANGER: Inhibition of human BL-41 cell growth in a cell viability assay.
+CHEMBL2366317,Homo sapiens,None,None,13215973,IC50,SIROLIMUS,BL-70,CHEMBL2363760,BAO_0000219,7.55,SANGER: Inhibition of human BL-70 cell growth in a cell viability assay.
+CHEMBL2366109,Homo sapiens,None,None,13216050,IC50,SIROLIMUS,BOKU,CHEMBL2363761,BAO_0000219,5.19,SANGER: Inhibition of human BOKU cell growth in a cell viability assay.
+CHEMBL2366177,Homo sapiens,None,None,13216186,IC50,SIROLIMUS,CMK,CHEMBL2363844,BAO_0000219,7.08,SANGER: Inhibition of human CMK cell growth in a cell viability assay.
+CHEMBL2366265,Homo sapiens,None,None,13216302,IC50,SIROLIMUS,COLO-320-HSR,CHEMBL2363846,BAO_0000219,5.35,SANGER: Inhibition of human COLO-320-HSR cell growth in a cell viability assay.
+CHEMBL2366113,Homo sapiens,None,None,13216367,IC50,SIROLIMUS,D-336MG,CHEMBL2363168,BAO_0000219,5.08,SANGER: Inhibition of human D-336MG cell growth in a cell viability assay.
+CHEMBL2366273,Homo sapiens,None,None,13216569,IC50,SIROLIMUS,A3-KAW,CHEMBL2363725,BAO_0000219,8.52,SANGER: Inhibition of human A3-KAW cell growth in a cell viability assay.
+CHEMBL2366215,Homo sapiens,None,None,13217151,IC50,SIROLIMUS,COLO-668,CHEMBL2363847,BAO_0000219,5.55,SANGER: Inhibition of human COLO-668 cell growth in a cell viability assay.
+CHEMBL2366343,Homo sapiens,None,None,13217371,IC50,SIROLIMUS,D-502MG,CHEMBL2363171,BAO_0000219,5.5,SANGER: Inhibition of human D-502MG cell growth in a cell viability assay.
+CHEMBL2366355,Homo sapiens,None,None,13217515,IC50,SIROLIMUS,A388,CHEMBL2363727,BAO_0000219,7.35,SANGER: Inhibition of human A388 cell growth in a cell viability assay.
+CHEMBL2366356,Homo sapiens,None,None,13217654,IC50,SIROLIMUS,A4-Fuk,CHEMBL2363728,BAO_0000219,7.88,SANGER: Inhibition of human A4-Fuk cell growth in a cell viability assay.
+CHEMBL614529,Homo sapiens,None,None,13217749,IC50,SIROLIMUS,BT-474,CHEMBL2363764,BAO_0000219,6.19,SANGER: Inhibition of human BT-474 cell growth in a cell viability assay.
+CHEMBL2366145,Homo sapiens,None,None,13217945,IC50,SIROLIMUS,BV-173,CHEMBL2363766,BAO_0000219,7.08,SANGER: Inhibition of human BV-173 cell growth in a cell viability assay.
+CHEMBL2366331,Homo sapiens,None,None,13218387,IC50,SIROLIMUS,DB,CHEMBL2363174,BAO_0000219,5.89,SANGER: Inhibition of human DB cell growth in a cell viability assay.
+CHEMBL614516,Homo sapiens,None,None,13218701,IC50,SIROLIMUS,A498,CHEMBL2363731,BAO_0000219,5.03,SANGER: Inhibition of human A498 cell growth in a cell viability assay.
+CHEMBL2366230,Homo sapiens,None,None,13218791,IC50,SIROLIMUS,Becker,CHEMBL2363767,BAO_0000219,7.39,SANGER: Inhibition of human Becker cell growth in a cell viability assay.
+CHEMBL2366176,Homo sapiens,None,None,13219025,IC50,SIROLIMUS,COLO-684,CHEMBL2363851,BAO_0000219,7.4,SANGER: Inhibition of human COLO-684 cell growth in a cell viability assay.
+CHEMBL2366186,Homo sapiens,None,None,13219336,IC50,SIROLIMUS,DEL,CHEMBL2363176,BAO_0000219,7.75,SANGER: Inhibition of human DEL cell growth in a cell viability assay.
+CHEMBL2366346,Homo sapiens,None,None,13219494,IC50,SIROLIMUS,NCI-H1838,CHEMBL2363492,BAO_0000219,5.05,SANGER: Inhibition of human NCI-H1838 cell growth in a cell viability assay.
+CHEMBL2366276,Homo sapiens,None,None,13219630,IC50,SIROLIMUS,NCI-H187,CHEMBL2363493,BAO_0000219,6.33,SANGER: Inhibition of human NCI-H187 cell growth in a cell viability assay.
+CHEMBL2366102,Homo sapiens,None,None,13219681,IC50,SIROLIMUS,NCI-H526,CHEMBL2363535,BAO_0000219,7.03,SANGER: Inhibition of human NCI-H526 cell growth in a cell viability assay.
+CHEMBL2366339,Homo sapiens,None,None,13220078,IC50,SIROLIMUS,OMC-1,CHEMBL2363572,BAO_0000219,5.71,SANGER: Inhibition of human OMC-1 cell growth in a cell viability assay.
+CHEMBL614882,Homo sapiens,None,None,13220279,IC50,SIROLIMUS,RPMI-8226,CHEMBL2363609,BAO_0000219,8.92,SANGER: Inhibition of human RPMI-8226 cell growth in a cell viability assay.
+CHEMBL614916,Homo sapiens,None,None,13220466,IC50,SIROLIMUS,SK-MEL-1,CHEMBL2363644,BAO_0000219,5.28,SANGER: Inhibition of human SK-MEL-1 cell growth in a cell viability assay.
+CHEMBL614917,Homo sapiens,None,None,13220596,IC50,SIROLIMUS,SK-MEL-2,CHEMBL2363645,BAO_0000219,5.31,SANGER: Inhibition of human SK-MEL-2 cell growth in a cell viability assay.
+CHEMBL1075600,Homo sapiens,None,None,13220919,IC50,SIROLIMUS,TGW,CHEMBL2363800,BAO_0000219,5.79,SANGER: Inhibition of human TGW cell growth in a cell viability assay.
+CHEMBL614245,Homo sapiens,None,None,13221021,IC50,SIROLIMUS,THP-1,CHEMBL2363801,BAO_0000219,5.0,SANGER: Inhibition of human THP-1 cell growth in a cell viability assay.
+CHEMBL2366272,Homo sapiens,None,None,13221103,IC50,SIROLIMUS,GI-1,CHEMBL2363242,BAO_0000219,7.15,SANGER: Inhibition of human GI-1 cell growth in a cell viability assay.
+CHEMBL2366074,Homo sapiens,None,None,13221242,IC50,SIROLIMUS,GI-ME-N,CHEMBL2363243,BAO_0000219,5.52,SANGER: Inhibition of human GI-ME-N cell growth in a cell viability assay.
+CHEMBL383,Homo sapiens,None,None,13221419,IC50,SIROLIMUS,HL-60,CHEMBL2363278,BAO_0000219,5.9,SANGER: Inhibition of human HL-60 cell growth in a cell viability assay.
+CHEMBL2366104,Homo sapiens,None,None,13221601,IC50,SIROLIMUS,IST-SL1,CHEMBL2363315,BAO_0000219,5.05,SANGER: Inhibition of human IST-SL1 cell growth in a cell viability assay.
+CHEMBL2366101,Homo sapiens,None,None,13221740,IC50,SIROLIMUS,IST-SL2,CHEMBL2363316,BAO_0000219,6.68,SANGER: Inhibition of human IST-SL2 cell growth in a cell viability assay.
+CHEMBL2366228,Homo sapiens,None,None,13221830,IC50,SIROLIMUS,KS-1,CHEMBL2363349,BAO_0000219,8.61,SANGER: Inhibition of human KS-1 cell growth in a cell viability assay.
+CHEMBL2366172,Homo sapiens,None,None,13222085,IC50,SIROLIMUS,LNCaP-Clone-FGC,CHEMBL2363383,BAO_0000219,4.66,SANGER: Inhibition of human LNCaP-Clone-FGC cell growth in a cell viability assay.
+CHEMBL2366252,Homo sapiens,None,None,13222224,IC50,SIROLIMUS,LOUCY,CHEMBL2363384,BAO_0000219,5.81,SANGER: Inhibition of human LOUCY cell growth in a cell viability assay.
+CHEMBL1075504,Homo sapiens,None,None,13222366,IC50,SIROLIMUS,MFM-223,CHEMBL2363421,BAO_0000219,4.74,SANGER: Inhibition of human MFM-223 cell growth in a cell viability assay.
+CHEMBL2366225,Homo sapiens,None,None,13222562,IC50,SIROLIMUS,NB13,CHEMBL2363454,BAO_0000219,8.36,SANGER: Inhibition of human NB13 cell growth in a cell viability assay.
+CHEMBL2366212,Homo sapiens,None,None,13222701,IC50,SIROLIMUS,NB14,CHEMBL2363455,BAO_0000219,5.39,SANGER: Inhibition of human NB14 cell growth in a cell viability assay.
+CHEMBL2366210,Homo sapiens,None,None,13222790,IC50,SIROLIMUS,NCI-H1882,CHEMBL2363494,BAO_0000219,5.3,SANGER: Inhibition of human NCI-H1882 cell growth in a cell viability assay.
+CHEMBL2366075,Homo sapiens,None,None,13222868,IC50,SIROLIMUS,NCI-H1963,CHEMBL2363495,BAO_0000219,5.99,SANGER: Inhibition of human NCI-H1963 cell growth in a cell viability assay.
+CHEMBL2366319,Homo sapiens,None,None,13223067,IC50,SIROLIMUS,NCI-H64,CHEMBL2363538,BAO_0000219,5.63,SANGER: Inhibition of human NCI-H64 cell growth in a cell viability assay.
+CHEMBL2366068,Homo sapiens,None,None,13223295,IC50,SIROLIMUS,ONS-76,CHEMBL2363573,BAO_0000219,5.81,SANGER: Inhibition of human ONS-76 cell growth in a cell viability assay.
+CHEMBL2366353,Homo sapiens,None,None,13223434,IC50,SIROLIMUS,OPM-2,CHEMBL2363574,BAO_0000219,8.38,SANGER: Inhibition of human OPM-2 cell growth in a cell viability assay.
+CHEMBL612517,Homo sapiens,None,None,13223491,IC50,SIROLIMUS,RPMI 8402,CHEMBL2363610,BAO_0000219,7.66,SANGER: Inhibition of human RPMI-8402 cell growth in a cell viability assay.
+CHEMBL2366341,Homo sapiens,None,None,13223569,IC50,SIROLIMUS,RPMI-8866,CHEMBL2363611,BAO_0000219,4.57,SANGER: Inhibition of human RPMI-8866 cell growth in a cell viability assay.
+CHEMBL2366143,Homo sapiens,None,None,13224099,IC50,SIROLIMUS,SW684,CHEMBL2363688,BAO_0000219,5.71,SANGER: Inhibition of human SW684 cell growth in a cell viability assay.
+CHEMBL614056,Homo sapiens,None,None,13224233,IC50,SIROLIMUS,TK-10,CHEMBL2363803,BAO_0000219,6.04,SANGER: Inhibition of human TK10 cell growth in a cell viability assay.
+CHEMBL2366179,Homo sapiens,None,None,13224563,IC50,SIROLIMUS,GOTO,CHEMBL2363245,BAO_0000219,4.78,SANGER: Inhibition of human GOTO cell growth in a cell viability assay.
+CHEMBL2366219,Homo sapiens,None,None,13224902,IC50,SIROLIMUS,J-RT3-T3-5,CHEMBL2363317,BAO_0000219,8.19,SANGER: Inhibition of human J-RT3-T3-5 cell growth in a cell viability assay.
+CHEMBL613997,None,None,None,13225152,IC50,SIROLIMUS,KU812 cell line,CHEMBL2363351,BAO_0000219,8.7,SANGER: Inhibition of human KU812 cell growth in a cell viability assay.
+CHEMBL2366119,Homo sapiens,None,None,13225274,IC50,SIROLIMUS,KURAMOCHI,CHEMBL2363352,BAO_0000219,6.18,SANGER: Inhibition of human KURAMOCHI cell growth in a cell viability assay.
+CHEMBL614096,Homo sapiens,None,None,13225386,IC50,SIROLIMUS,LOX IMVI,CHEMBL2363385,BAO_0000219,4.56,SANGER: Inhibition of human LOXIMVI cell growth in a cell viability assay.
+CHEMBL2366066,Homo sapiens,None,None,13225524,IC50,SIROLIMUS,LP-1,CHEMBL2363386,BAO_0000219,5.27,SANGER: Inhibition of human LP-1 cell growth in a cell viability assay.
+CHEMBL2366286,Homo sapiens,None,None,13225688,IC50,SIROLIMUS,MHH-CALL-2,CHEMBL2363423,BAO_0000219,5.3,SANGER: Inhibition of human MHH-CALL-2 cell growth in a cell viability assay.
+CHEMBL2366064,Homo sapiens,None,None,13225885,IC50,SIROLIMUS,NB17,CHEMBL2363456,BAO_0000219,4.87,SANGER: Inhibition of human NB17 cell growth in a cell viability assay.
+CHEMBL614805,Homo sapiens,None,None,13226427,IC50,SIROLIMUS,NCI-H69,CHEMBL2363541,BAO_0000219,5.4,SANGER: Inhibition of human NCI-H69 cell growth in a cell viability assay.
+CHEMBL2366188,Homo sapiens,None,None,13226597,IC50,SIROLIMUS,OS-RC-2,CHEMBL2363575,BAO_0000219,9.19,SANGER: Inhibition of human OS-RC-2 cell growth in a cell viability assay.
+CHEMBL2366159,Homo sapiens,None,None,13226783,IC50,SIROLIMUS,RS4-11,CHEMBL2363612,BAO_0000219,5.2,SANGER: Inhibition of human RS4-11 cell growth in a cell viability assay.
+CHEMBL2366218,Homo sapiens,None,None,13227493,IC50,SIROLIMUS,TUR,CHEMBL2363805,BAO_0000219,6.44,SANGER: Inhibition of human TUR cell growth in a cell viability assay.
+CHEMBL2366111,Homo sapiens,None,None,13227883,IC50,SIROLIMUS,GR-ST,CHEMBL2363247,BAO_0000219,9.07,SANGER: Inhibition of human GR-ST cell growth in a cell viability assay.
+CHEMBL614643,Homo sapiens,None,None,13228103,IC50,SIROLIMUS,HOP-62,CHEMBL2363283,BAO_0000219,6.9,SANGER: Inhibition of human HOP-62 cell growth in a cell viability assay.
+CHEMBL614587,Homo sapiens,None,None,13228208,IC50,SIROLIMUS,JAR,CHEMBL2363319,BAO_0000219,6.36,SANGER: Inhibition of human JAR cell growth in a cell viability assay.
+CHEMBL2366190,Homo sapiens,None,None,13228494,IC50,SIROLIMUS,KY821,CHEMBL2363353,BAO_0000219,4.97,SANGER: Inhibition of human KY821 cell growth in a cell viability assay.
+CHEMBL2366072,Homo sapiens,None,None,13228684,IC50,SIROLIMUS,LS-1034,CHEMBL2363387,BAO_0000219,6.08,SANGER: Inhibition of human LS-1034 cell growth in a cell viability assay.
+CHEMBL2366334,Homo sapiens,None,None,13228823,IC50,SIROLIMUS,LS-123,CHEMBL2363388,BAO_0000219,6.1,SANGER: Inhibition of human LS-123 cell growth in a cell viability assay.
+CHEMBL2366185,Homo sapiens,None,None,13228948,IC50,SIROLIMUS,MHH-NB-11,CHEMBL2363425,BAO_0000219,4.75,SANGER: Inhibition of human MHH-NB-11 cell growth in a cell viability assay.
+CHEMBL2366127,Homo sapiens,None,None,13229082,IC50,SIROLIMUS,MHH-PREB-1,CHEMBL2363426,BAO_0000219,7.49,SANGER: Inhibition of human MHH-PREB-1 cell growth in a cell viability assay.
+CHEMBL2366318,Homo sapiens,None,None,13229208,IC50,SIROLIMUS,NB6,CHEMBL2363458,BAO_0000219,5.5,SANGER: Inhibition of human NB6 cell growth in a cell viability assay.
+CHEMBL1075510,Homo sapiens,None,None,13229347,IC50,SIROLIMUS,NB69,CHEMBL2363459,BAO_0000219,5.48,SANGER: Inhibition of human NB69 cell growth in a cell viability assay.
+CHEMBL2366082,Homo sapiens,None,None,13229575,IC50,SIROLIMUS,NCI-H2081,CHEMBL2363502,BAO_0000219,5.9,SANGER: Inhibition of human NCI-H2081 cell growth in a cell viability assay.
+CHEMBL2366106,Homo sapiens,None,None,13229631,IC50,SIROLIMUS,NCI-H716,CHEMBL2363542,BAO_0000219,5.86,SANGER: Inhibition of human NCI-H716 cell growth in a cell viability assay.
+CHEMBL2366184,Homo sapiens,None,None,13229709,IC50,SIROLIMUS,NCI-H719,CHEMBL2363543,BAO_0000219,5.03,SANGER: Inhibition of human NCI-H719 cell growth in a cell viability assay.
+CHEMBL2366105,Homo sapiens,None,None,13229787,IC50,SIROLIMUS,NCI-H720,CHEMBL2363544,BAO_0000219,7.59,SANGER: Inhibition of human NCI-H720 cell growth in a cell viability assay.
+CHEMBL614051,Homo sapiens,None,None,13229918,IC50,SIROLIMUS,OVCAR-4,CHEMBL2363577,BAO_0000219,6.62,SANGER: Inhibition of human OVCAR-4 cell growth in a cell viability assay.
+CHEMBL614886,Homo sapiens,None,None,13230243,IC50,SIROLIMUS,RXF 393,CHEMBL2363616,BAO_0000219,6.38,SANGER: Inhibition of human RXF393 cell growth in a cell viability assay.
+CHEMBL2366232,Homo sapiens,None,None,13230486,IC50,SIROLIMUS,SK-MM-2,CHEMBL2363653,BAO_0000219,5.08,SANGER: Inhibition of human SK-MM-2 cell growth in a cell viability assay.
+CHEMBL2366302,Homo sapiens,None,None,13230695,IC50,SIROLIMUS,SW872,CHEMBL2363692,BAO_0000219,9.07,SANGER: Inhibition of human SW872 cell growth in a cell viability assay.
+CHEMBL2366315,Homo sapiens,None,None,13230951,IC50,SIROLIMUS,U-266,CHEMBL2363809,BAO_0000219,5.22,SANGER: Inhibition of human U-266 cell growth in a cell viability assay.
+CHEMBL2366373,Homo sapiens,None,None,13231059,IC50,SIROLIMUS,ES6,CHEMBL2363214,BAO_0000219,8.46,SANGER: Inhibition of human ES6 cell growth in a cell viability assay.
+CHEMBL2366297,Homo sapiens,None,None,13231198,IC50,SIROLIMUS,ES7,CHEMBL2363215,BAO_0000219,4.73,SANGER: Inhibition of human ES7 cell growth in a cell viability assay.
+CHEMBL2366148,Homo sapiens,None,None,13231334,IC50,SIROLIMUS,GT3TKB,CHEMBL2363248,BAO_0000219,5.54,SANGER: Inhibition of human GT3TKB cell growth in a cell viability assay.
+CHEMBL2366359,Homo sapiens,None,None,13231768,IC50,SIROLIMUS,JVM-2,CHEMBL2363321,BAO_0000219,5.47,SANGER: Inhibition of human JVM-2 cell growth in a cell viability assay.
+CHEMBL2366372,Homo sapiens,None,None,13231894,IC50,SIROLIMUS,JVM-3,CHEMBL2363322,BAO_0000219,4.73,SANGER: Inhibition of human JVM-3 cell growth in a cell viability assay.
+CHEMBL2366189,Homo sapiens,None,None,13232284,IC50,SIROLIMUS,LS-411N,CHEMBL2363389,BAO_0000219,7.11,SANGER: Inhibition of human LS-411N cell growth in a cell viability assay.
+CHEMBL2366311,Homo sapiens,None,None,13232423,IC50,SIROLIMUS,LS-513,CHEMBL2363390,BAO_0000219,5.07,SANGER: Inhibition of human LS-513 cell growth in a cell viability assay.
+CHEMBL2366345,Homo sapiens,None,None,13232806,IC50,SIROLIMUS,NB7,CHEMBL2363460,BAO_0000219,6.09,SANGER: Inhibition of human NB7 cell growth in a cell viability assay.
+CHEMBL2366365,Homo sapiens,None,None,13233072,IC50,SIROLIMUS,NCI-H209,CHEMBL2363504,BAO_0000219,7.06,SANGER: Inhibition of human NCI-H209 cell growth in a cell viability assay.
+CHEMBL2366087,Homo sapiens,None,None,13233328,IC50,SIROLIMUS,NCI-H747,CHEMBL2363546,BAO_0000219,5.76,SANGER: Inhibition of human NCI-H747 cell growth in a cell viability assay.
+CHEMBL614628,Homo sapiens,None,None,13233701,IC50,SIROLIMUS,Raji,CHEMBL2363617,BAO_0000219,7.05,SANGER: Inhibition of human Raji cell growth in a cell viability assay.
+CHEMBL2366170,Homo sapiens,None,None,13233779,IC50,SIROLIMUS,Ramos-2G6-4C10,CHEMBL2363618,BAO_0000219,8.84,SANGER: Inhibition of human Ramos-2G6-4C10 cell growth in a cell viability assay.
+CHEMBL1075579,Homo sapiens,None,None,13233982,IC50,SIROLIMUS,SK-N-DZ,CHEMBL2363655,BAO_0000219,5.67,SANGER: Inhibition of human SK-N-DZ cell growth in a cell viability assay.
+CHEMBL2366120,Homo sapiens,None,None,13234120,IC50,SIROLIMUS,SK-N-FI,CHEMBL2363656,BAO_0000219,4.56,SANGER: Inhibition of human SK-N-FI cell growth in a cell viability assay.
+CHEMBL614943,Homo sapiens,None,None,13234310,IC50,SIROLIMUS,SW 954,CHEMBL2363695,BAO_0000219,5.61,SANGER: Inhibition of human SW954 cell growth in a cell viability assay.
+CHEMBL2366098,Homo sapiens,None,None,13234400,IC50,SIROLIMUS,U-698-M,CHEMBL2363810,BAO_0000219,5.11,SANGER: Inhibition of human U-698-M cell growth in a cell viability assay.
+CHEMBL614247,Homo sapiens,None,None,13234478,IC50,SIROLIMUS,U-87 MG,CHEMBL2363811,BAO_0000219,5.29,SANGER: Inhibition of human U-87-MG cell growth in a cell viability assay.
+CHEMBL2366069,Homo sapiens,None,None,13234657,IC50,SIROLIMUS,ES8,CHEMBL2363216,BAO_0000219,6.65,SANGER: Inhibition of human ES8 cell growth in a cell viability assay.
+CHEMBL2366142,Homo sapiens,None,None,13234992,IC50,SIROLIMUS,HAL-01,CHEMBL2363252,BAO_0000219,6.41,SANGER: Inhibition of human HAL-01 cell growth in a cell viability assay.
+CHEMBL614588,Homo sapiens,None,None,13235342,IC50,SIROLIMUS,JIYOYE,CHEMBL2363323,BAO_0000219,7.96,SANGER: Inhibition of human JiyoyeP-2003 cell growth in a cell viability assay.
+CHEMBL385,Homo sapiens,None,None,13235420,IC50,SIROLIMUS,K562,CHEMBL2363324,BAO_0000219,6.17,SANGER: Inhibition of human K-562 cell growth in a cell viability assay.
+CHEMBL2366236,Homo sapiens,None,None,13235880,IC50,SIROLIMUS,LU-134-A,CHEMBL2363391,BAO_0000219,5.51,SANGER: Inhibition of human LU-134-A cell growth in a cell viability assay.
+CHEMBL1075511,Homo sapiens,None,None,13236277,IC50,SIROLIMUS,NCCIT,CHEMBL2363462,BAO_0000219,5.49,SANGER: Inhibition of human NCCIT cell growth in a cell viability assay.
+CHEMBL2366351,Homo sapiens,None,None,13236416,IC50,SIROLIMUS,NCI-H1092,CHEMBL2363464,BAO_0000219,5.28,SANGER: Inhibition of human NCI-H1092 cell growth in a cell viability assay.
+CHEMBL2366160,Homo sapiens,None,None,13236646,IC50,SIROLIMUS,NCI-H2126,CHEMBL2363507,BAO_0000219,6.14,SANGER: Inhibition of human NCI-H2126 cell growth in a cell viability assay.
+CHEMBL2366163,Homo sapiens,None,None,13236784,IC50,SIROLIMUS,NCI-H748,CHEMBL2363547,BAO_0000219,6.12,SANGER: Inhibition of human NCI-H748 cell growth in a cell viability assay.
+CHEMBL2366077,Homo sapiens,None,None,13236961,IC50,SIROLIMUS,NCI-H82,CHEMBL2363549,BAO_0000219,5.21,SANGER: Inhibition of human NCI-H82 cell growth in a cell viability assay.
+CHEMBL2366165,Homo sapiens,None,None,13236981,IC50,SIROLIMUS,P30-OHK,CHEMBL2363581,BAO_0000219,5.33,SANGER: Inhibition of human P30-OHK cell growth in a cell viability assay.
+CHEMBL2366370,Homo sapiens,None,None,13237111,IC50,SIROLIMUS,P31-FUJ,CHEMBL2363582,BAO_0000219,4.5,SANGER: Inhibition of human P31-FUJ cell growth in a cell viability assay.
+CHEMBL2366327,Homo sapiens,None,None,13237425,IC50,SIROLIMUS,SBC-1,CHEMBL2363621,BAO_0000219,6.97,SANGER: Inhibition of human SBC-1 cell growth in a cell viability assay.
+CHEMBL1075580,Homo sapiens,None,None,13237579,IC50,SIROLIMUS,SK-NEP-1,CHEMBL2363657,BAO_0000219,8.06,SANGER: Inhibition of human SK-NEP-1 cell growth in a cell viability assay.
+CHEMBL613530,Homo sapiens,None,None,13237768,IC50,SIROLIMUS,SW 962,CHEMBL2363696,BAO_0000219,6.13,SANGER: Inhibition of human SW962 cell growth in a cell viability assay.
+CHEMBL2366238,Homo sapiens,None,None,13237906,IC50,SIROLIMUS,SW982,CHEMBL2363697,BAO_0000219,6.5,SANGER: Inhibition of human SW982 cell growth in a cell viability assay.
+CHEMBL612796,Homo sapiens,None,None,13238130,IC50,SIROLIMUS,UACC-257,CHEMBL2363814,BAO_0000219,5.36,SANGER: Inhibition of human UACC-257 cell growth in a cell viability assay.
+CHEMBL2366116,Homo sapiens,None,None,13238214,IC50,SIROLIMUS,ETK-1,CHEMBL2363218,BAO_0000219,8.55,SANGER: Inhibition of human ETK-1 cell growth in a cell viability assay.
+CHEMBL614295,Homo sapiens,None,None,13238353,IC50,SIROLIMUS,EVSA-T,CHEMBL2363219,BAO_0000219,5.66,SANGER: Inhibition of human EVSA-T cell growth in a cell viability assay.
+CHEMBL2366299,Homo sapiens,None,None,13238442,IC50,SIROLIMUS,HC-1,CHEMBL2363253,BAO_0000219,6.47,SANGER: Inhibition of human HC-1 cell growth in a cell viability assay.
+CHEMBL2366202,Homo sapiens,None,None,13238585,IC50,SIROLIMUS,HCC1187,CHEMBL2363255,BAO_0000219,6.51,SANGER: Inhibition of human HCC1187 cell growth in a cell viability assay.
+CHEMBL2366130,Homo sapiens,None,None,13238751,IC50,SIROLIMUS,HT,CHEMBL2363290,BAO_0000219,7.75,SANGER: Inhibition of human HT cell growth in a cell viability assay.
+CHEMBL2366354,Homo sapiens,None,None,13238869,IC50,SIROLIMUS,K052,CHEMBL2363325,BAO_0000219,5.47,SANGER: Inhibition of human K052 cell growth in a cell viability assay.
+CHEMBL2366152,Homo sapiens,None,None,13238942,IC50,SIROLIMUS,K5,CHEMBL2363326,BAO_0000219,6.39,SANGER: Inhibition of human K5 cell growth in a cell viability assay.
+CHEMBL2366155,Homo sapiens,None,None,13239072,IC50,SIROLIMUS,KALS-1,CHEMBL2363327,BAO_0000219,8.18,SANGER: Inhibition of human KALS-1 cell growth in a cell viability assay.
+CHEMBL2366248,Homo sapiens,None,None,13239382,IC50,SIROLIMUS,LU-139,CHEMBL2363393,BAO_0000219,6.42,SANGER: Inhibition of human LU-139 cell growth in a cell viability assay.
+CHEMBL2366132,Homo sapiens,None,None,13239508,IC50,SIROLIMUS,LU-165,CHEMBL2363394,BAO_0000219,5.73,SANGER: Inhibition of human LU-165 cell growth in a cell viability assay.
+CHEMBL614356,Homo sapiens,None,None,13239650,IC50,SIROLIMUS,ML-2,CHEMBL2363432,BAO_0000219,5.85,SANGER: Inhibition of human ML-2 cell growth in a cell viability assay.
+CHEMBL2366211,Homo sapiens,None,None,13239776,IC50,SIROLIMUS,MLMA,CHEMBL2363433,BAO_0000219,6.8,SANGER: Inhibition of human MLMA cell growth in a cell viability assay.
+CHEMBL2366073,Homo sapiens,None,None,13239864,IC50,SIROLIMUS,NCI-H1155,CHEMBL2363465,BAO_0000219,5.51,SANGER: Inhibition of human NCI-H1155 cell growth in a cell viability assay.
+CHEMBL614771,Homo sapiens,None,None,13239994,IC50,SIROLIMUS,NCI-H128,CHEMBL2363466,BAO_0000219,4.63,SANGER: Inhibition of human NCI-H128 cell growth in a cell viability assay.
+CHEMBL612255,Homo sapiens,None,None,13240033,IC50,SIROLIMUS,NCI-H1299,CHEMBL2363467,BAO_0000219,4.77,SANGER: Inhibition of human NCI-H1299 cell growth in a cell viability assay.
+CHEMBL2366323,Homo sapiens,None,None,13240102,IC50,SIROLIMUS,NCI-H2141,CHEMBL2363508,BAO_0000219,5.5,SANGER: Inhibition of human NCI-H2141 cell growth in a cell viability assay.
+CHEMBL2366213,Homo sapiens,None,None,13240279,IC50,SIROLIMUS,NCI-H2171,CHEMBL2363510,BAO_0000219,4.62,SANGER: Inhibition of human NCI-H2171 cell growth in a cell viability assay.
+CHEMBL2366169,Homo sapiens,None,None,13240448,IC50,SIROLIMUS,NCI-H889,CHEMBL2363551,BAO_0000219,4.94,SANGER: Inhibition of human NCI-H889 cell growth in a cell viability assay.
+CHEMBL614197,Homo sapiens,None,None,13240525,IC50,SIROLIMUS,NCI-N87,CHEMBL2363552,BAO_0000219,6.91,SANGER: Inhibition of human NCI-N87 cell growth in a cell viability assay.
+CHEMBL614899,Homo sapiens,None,None,13240969,IC50,SIROLIMUS,SCC-15,CHEMBL2363623,BAO_0000219,4.79,SANGER: Inhibition of human SCC-15 cell growth in a cell viability assay.
+CHEMBL2366108,Homo sapiens,None,None,13241124,IC50,SIROLIMUS,SK-PN-DW,CHEMBL2363659,BAO_0000219,7.69,SANGER: Inhibition of human SK-PN-DW cell growth in a cell viability assay.
+CHEMBL1075604,Homo sapiens,None,None,13241687,IC50,SIROLIMUS,UACC-812,CHEMBL2363816,BAO_0000219,5.33,SANGER: Inhibition of human UACC-812 cell growth in a cell viability assay.
+CHEMBL2366364,Homo sapiens,None,None,13241759,IC50,SIROLIMUS,EW-1,CHEMBL2363220,BAO_0000219,8.66,SANGER: Inhibition of human EW-1 cell growth in a cell viability assay.
+CHEMBL2366223,Homo sapiens,None,None,13241898,IC50,SIROLIMUS,EW-11,CHEMBL2363221,BAO_0000219,5.96,SANGER: Inhibition of human EW-11 cell growth in a cell viability assay.
+CHEMBL2366156,Homo sapiens,None,None,13242528,IC50,SIROLIMUS,KARPAS-299,CHEMBL2363328,BAO_0000219,7.21,SANGER: Inhibition of human KARPAS-299 cell growth in a cell viability assay.
+CHEMBL2366368,Homo sapiens,None,None,13242658,IC50,SIROLIMUS,KARPAS-422,CHEMBL2363329,BAO_0000219,6.99,SANGER: Inhibition of human KARPAS-422 cell growth in a cell viability assay.
+CHEMBL2366267,Homo sapiens,None,None,13242785,IC50,SIROLIMUS,L-363,CHEMBL2363363,BAO_0000219,7.35,SANGER: Inhibition of human L-363 cell growth in a cell viability assay.
+CHEMBL614694,Homo sapiens,None,None,13242906,IC50,SIROLIMUS,Lu-65,CHEMBL2363395,BAO_0000219,5.24,SANGER: Inhibition of human LU-65 cell growth in a cell viability assay.
+CHEMBL614107,None,None,None,13243131,IC50,SIROLIMUS,LXF-289 cell line,CHEMBL2363397,BAO_0000219,5.76,SANGER: Inhibition of human LXF-289 cell growth in a cell viability assay.
+CHEMBL2366196,Homo sapiens,None,None,13243236,IC50,SIROLIMUS,MMAC-SF,CHEMBL2363434,BAO_0000219,5.21,SANGER: Inhibition of human MMAC-SF cell growth in a cell viability assay.
+CHEMBL2366070,Homo sapiens,None,None,13243366,IC50,SIROLIMUS,MN-60,CHEMBL2363435,BAO_0000219,6.51,SANGER: Inhibition of human MN-60 cell growth in a cell viability assay.
+CHEMBL2366266,Homo sapiens,None,None,13243467,IC50,SIROLIMUS,NCI-H1304,CHEMBL2363468,BAO_0000219,7.24,SANGER: Inhibition of human NCI-H1304 cell growth in a cell viability assay.
+CHEMBL2366227,Homo sapiens,None,None,13243597,IC50,SIROLIMUS,NCI-H1355,CHEMBL2363469,BAO_0000219,9.0,SANGER: Inhibition of human NCI-H1355 cell growth in a cell viability assay.
+CHEMBL1075535,Homo sapiens,None,None,13243676,IC50,SIROLIMUS,NCI-H2196,CHEMBL2363511,BAO_0000219,5.38,SANGER: Inhibition of human NCI-H2196 cell growth in a cell viability assay.
+CHEMBL614931,Homo sapiens,None,None,13243950,IC50,SIROLIMUS,SNU1,CHEMBL2363553,BAO_0000219,4.96,SANGER: Inhibition of human NCI-SNU-1 cell growth in a cell viability assay.
+CHEMBL613529,Homo sapiens,None,None,13244080,IC50,SIROLIMUS,SNU-16,CHEMBL2363554,BAO_0000219,5.25,SANGER: Inhibition of human NCI-SNU-16 cell growth in a cell viability assay.
+CHEMBL2366081,Homo sapiens,None,None,13244522,IC50,SIROLIMUS,SCC-3,CHEMBL2363625,BAO_0000219,5.99,SANGER: Inhibition of human SCC-3 cell growth in a cell viability assay.
+CHEMBL2366316,Homo sapiens,None,None,13244573,IC50,SIROLIMUS,SK-UT-1,CHEMBL2363660,BAO_0000219,7.77,SANGER: Inhibition of human SK-UT-1 cell growth in a cell viability assay.
+CHEMBL2366255,Homo sapiens,None,None,13245357,IC50,SIROLIMUS,EW-12,CHEMBL2363222,BAO_0000219,6.61,SANGER: Inhibition of human EW-12 cell growth in a cell viability assay.
+CHEMBL2366063,Homo sapiens,None,None,13245656,IC50,SIROLIMUS,HCC1599,CHEMBL2363259,BAO_0000219,6.58,SANGER: Inhibition of human HCC1599 cell growth in a cell viability assay.
+CHEMBL2366291,Homo sapiens,None,None,13245818,IC50,SIROLIMUS,HT-144,CHEMBL2363294,BAO_0000219,6.78,SANGER: Inhibition of human HT-144 cell growth in a cell viability assay.
+CHEMBL2366305,Homo sapiens,None,None,13246055,IC50,SIROLIMUS,KARPAS-45,CHEMBL2363330,BAO_0000219,6.19,SANGER: Inhibition of human KARPAS-45 cell growth in a cell viability assay.
+CHEMBL613988,None,None,None,13246181,IC50,SIROLIMUS,Kasumi 1,CHEMBL2363331,BAO_0000219,5.66,SANGER: Inhibition of human KASUMI-1 cell growth in a cell viability assay.
+CHEMBL2366233,Homo sapiens,None,None,13246234,IC50,SIROLIMUS,L-428,CHEMBL2363364,BAO_0000219,6.75,SANGER: Inhibition of human L-428 cell growth in a cell viability assay.
+CHEMBL2366153,Homo sapiens,None,None,13246364,IC50,SIROLIMUS,L-540,CHEMBL2363365,BAO_0000219,7.98,SANGER: Inhibition of human L-540 cell growth in a cell viability assay.
+CHEMBL2366090,Homo sapiens,None,None,13246442,IC50,SIROLIMUS,LAMA-84,CHEMBL2363366,BAO_0000219,5.37,SANGER: Inhibition of human LAMA-84 cell growth in a cell viability assay.
+CHEMBL2366362,Homo sapiens,None,None,13246875,IC50,SIROLIMUS,MOLT-16,CHEMBL2363437,BAO_0000219,6.19,SANGER: Inhibition of human MOLT-16 cell growth in a cell viability assay.
+CHEMBL2366201,Homo sapiens,None,None,13247055,IC50,SIROLIMUS,NCI-H1395,CHEMBL2363470,BAO_0000219,5.6,SANGER: Inhibition of human NCI-H1395 cell growth in a cell viability assay.
+CHEMBL614740,Homo sapiens,None,None,13247226,IC50,SIROLIMUS,NCI-H226,CHEMBL2363514,BAO_0000219,4.8,SANGER: Inhibition of human NCI-H226 cell growth in a cell viability assay.
+CHEMBL614934,Homo sapiens,None,None,13247479,IC50,SIROLIMUS,SNU-5,CHEMBL2363555,BAO_0000219,6.16,SANGER: Inhibition of human NCI-SNU-5 cell growth in a cell viability assay.
+CHEMBL2366340,Homo sapiens,None,None,13247605,IC50,SIROLIMUS,NEC8,CHEMBL2363556,BAO_0000219,5.08,SANGER: Inhibition of human NEC8 cell growth in a cell viability assay.
+CHEMBL2366235,Homo sapiens,None,None,13247741,IC50,SIROLIMUS,PF-382,CHEMBL2363589,BAO_0000219,7.01,SANGER: Inhibition of human PF-382 cell growth in a cell viability assay.
+CHEMBL2366085,Homo sapiens,None,None,13248121,IC50,SIROLIMUS,SKM-1,CHEMBL2363662,BAO_0000219,5.01,SANGER: Inhibition of human SKM-1 cell growth in a cell viability assay.
+CHEMBL614451,Homo sapiens,None,None,13248260,IC50,SIROLIMUS,SNB-75,CHEMBL2363664,BAO_0000219,6.92,SANGER: Inhibition of human SNB75 cell growth in a cell viability assay.
+CHEMBL2366254,Homo sapiens,None,None,13248579,IC50,SIROLIMUS,TALL-1,CHEMBL2363704,BAO_0000219,5.21,SANGER: Inhibition of human TALL-1 cell growth in a cell viability assay.
+CHEMBL2366259,Homo sapiens,None,None,13248675,IC50,SIROLIMUS,VA-ES-BJ,CHEMBL2363820,BAO_0000219,9.14,SANGER: Inhibition of human VA-ES-BJ cell growth in a cell viability assay.
+CHEMBL2366358,Homo sapiens,None,None,13248846,IC50,SIROLIMUS,EW-16,CHEMBL2363224,BAO_0000219,7.57,SANGER: Inhibition of human EW-16 cell growth in a cell viability assay.
+CHEMBL2366097,Homo sapiens,None,None,13248985,IC50,SIROLIMUS,EW-18,CHEMBL2363225,BAO_0000219,5.15,SANGER: Inhibition of human EW-18 cell growth in a cell viability assay.
+CHEMBL2366287,Homo sapiens,None,None,13249577,IC50,SIROLIMUS,KE-37,CHEMBL2363332,BAO_0000219,7.79,SANGER: Inhibition of human KE-37 cell growth in a cell viability assay.
+CHEMBL612264,None,None,None,13249707,IC50,SIROLIMUS,KG-1,CHEMBL2363333,BAO_0000219,5.12,SANGER: Inhibition of human KG-1 cell growth in a cell viability assay.
+CHEMBL2366123,Homo sapiens,None,None,13249892,IC50,SIROLIMUS,LAN-6,CHEMBL2363367,BAO_0000219,5.08,SANGER: Inhibition of human LAN-6 cell growth in a cell viability assay.
+CHEMBL2366274,Homo sapiens,None,None,13250205,IC50,SIROLIMUS,MC-CAR,CHEMBL2363401,BAO_0000219,5.35,SANGER: Inhibition of human MC-CAR cell growth in a cell viability assay.
+CHEMBL614177,Homo sapiens,None,None,13250325,IC50,SIROLIMUS,MOLT-4,CHEMBL2363438,BAO_0000219,7.01,SANGER: Inhibition of human MOLT-4 cell growth in a cell viability assay.
+CHEMBL2366062,Homo sapiens,None,None,13250455,IC50,SIROLIMUS,MONO-MAC-6,CHEMBL2363439,BAO_0000219,6.12,SANGER: Inhibition of human MONO-MAC-6 cell growth in a cell viability assay.
+CHEMBL2366149,Homo sapiens,None,None,13250514,IC50,SIROLIMUS,NCI-H1417,CHEMBL2363471,BAO_0000219,5.95,SANGER: Inhibition of human NCI-H1417 cell growth in a cell viability assay.
+CHEMBL2366205,Homo sapiens,None,None,13250591,IC50,SIROLIMUS,NCI-H1436,CHEMBL2363472,BAO_0000219,5.54,SANGER: Inhibition of human NCI-H1436 cell growth in a cell viability assay.
+CHEMBL614997,Homo sapiens,None,None,13250745,IC50,SIROLIMUS,NCI-H23,CHEMBL2363516,BAO_0000219,4.88,SANGER: Inhibition of human NCI-H23 cell growth in a cell viability assay.
+CHEMBL2366263,Homo sapiens,None,None,13251061,IC50,SIROLIMUS,NH-12,CHEMBL2363557,BAO_0000219,5.87,SANGER: Inhibition of human NH-12 cell growth in a cell viability assay.
+CHEMBL614241,Homo sapiens,None,None,13251275,IC50,SIROLIMUS,PSN1,CHEMBL2363592,BAO_0000219,6.62,SANGER: Inhibition of human PSN1 cell growth in a cell viability assay.
+CHEMBL2366337,Homo sapiens,None,None,13251414,IC50,SIROLIMUS,QIMR-WIL,CHEMBL2363593,BAO_0000219,7.93,SANGER: Inhibition of human QIMR-WIL cell growth in a cell viability assay.
+CHEMBL1075574,Homo sapiens,None,None,13251569,IC50,SIROLIMUS,SCLC-21H,CHEMBL2363629,BAO_0000219,5.8,SANGER: Inhibition of human SCLC-21H cell growth in a cell viability assay.
+CHEMBL614905,Homo sapiens,None,None,13251647,IC50,SIROLIMUS,SF-126,CHEMBL2363630,BAO_0000219,7.52,SANGER: Inhibition of human SF126 cell growth in a cell viability assay.
+CHEMBL2366324,Homo sapiens,None,None,13251974,IC50,SIROLIMUS,TC-YIK,CHEMBL2363705,BAO_0000219,5.3,SANGER: Inhibition of human TC-YIK cell growth in a cell viability assay.
+CHEMBL2366092,Homo sapiens,None,None,13252081,IC50,SIROLIMUS,TE-1,CHEMBL2363707,BAO_0000219,6.19,SANGER: Inhibition of human TE-1 cell growth in a cell viability assay.
+CHEMBL2366162,Homo sapiens,None,None,13252429,IC50,SIROLIMUS,EW-22,CHEMBL2363226,BAO_0000219,5.28,SANGER: Inhibition of human EW-22 cell growth in a cell viability assay.
+CHEMBL2366206,Homo sapiens,None,None,13252506,IC50,SIROLIMUS,EW-24,CHEMBL2363227,BAO_0000219,5.06,SANGER: Inhibition of human EW-24 cell growth in a cell viability assay.
+CHEMBL2366307,Homo sapiens,None,None,13252611,IC50,SIROLIMUS,EW-3,CHEMBL2363228,BAO_0000219,4.97,SANGER: Inhibition of human EW-3 cell growth in a cell viability assay.
+CHEMBL2366126,Homo sapiens,None,None,13252668,IC50,SIROLIMUS,HCC2157,CHEMBL2363263,BAO_0000219,5.45,SANGER: Inhibition of human HCC2157 cell growth in a cell viability assay.
+CHEMBL2366221,Homo sapiens,None,None,13252771,IC50,SIROLIMUS,HCC2218,CHEMBL2363264,BAO_0000219,4.94,SANGER: Inhibition of human HCC2218 cell growth in a cell viability assay.
+CHEMBL614582,Homo sapiens,None,None,13252986,IC50,SIROLIMUS,HuTu80,CHEMBL2363299,BAO_0000219,8.35,SANGER: Inhibition of human HUTU-80 cell growth in a cell viability assay.
+CHEMBL2366154,Homo sapiens,None,None,13253157,IC50,SIROLIMUS,KGN,CHEMBL2363334,BAO_0000219,7.02,SANGER: Inhibition of human KGN cell growth in a cell viability assay.
+CHEMBL2366229,Homo sapiens,None,None,13253296,IC50,SIROLIMUS,KINGS-1,CHEMBL2363335,BAO_0000219,7.29,SANGER: Inhibition of human KINGS-1 cell growth in a cell viability assay.
+CHEMBL2366136,Homo sapiens,None,None,13253351,IC50,SIROLIMUS,LB1047-RCC,CHEMBL2363368,BAO_0000219,7.46,SANGER: Inhibition of human LB1047-RCC cell growth in a cell viability assay.
+CHEMBL2366330,Homo sapiens,None,None,13253489,IC50,SIROLIMUS,LB2241-RCC,CHEMBL2363369,BAO_0000219,5.54,SANGER: Inhibition of human LB2241-RCC cell growth in a cell viability assay.
+CHEMBL2366256,Homo sapiens,None,None,13253702,IC50,SIROLIMUS,MC116,CHEMBL2363403,BAO_0000219,9.01,SANGER: Inhibition of human MC116 cell growth in a cell viability assay.
+CHEMBL2366357,Homo sapiens,None,None,13253853,IC50,SIROLIMUS,MPP-89,CHEMBL2363440,BAO_0000219,5.37,SANGER: Inhibition of human MPP-89 cell growth in a cell viability assay.
+CHEMBL2366178,Homo sapiens,None,None,13254086,IC50,SIROLIMUS,NCI-H1522,CHEMBL2363474,BAO_0000219,5.89,SANGER: Inhibition of human NCI-H1522 cell growth in a cell viability assay.
+CHEMBL2366133,Homo sapiens,None,None,13254521,IC50,SIROLIMUS,NKM-1,CHEMBL2363558,BAO_0000219,5.65,SANGER: Inhibition of human NKM-1 cell growth in a cell viability assay.
+CHEMBL2366349,Homo sapiens,None,None,13254651,IC50,SIROLIMUS,NMC-G1,CHEMBL2363559,BAO_0000219,7.47,SANGER: Inhibition of human NMC-G1 cell growth in a cell viability assay.
+CHEMBL2366191,Homo sapiens,None,None,13254864,IC50,SIROLIMUS,RCC10RGB,CHEMBL2363594,BAO_0000219,5.71,SANGER: Inhibition of human RCC10RGB cell growth in a cell viability assay.
+CHEMBL613977,Homo sapiens,None,None,13255106,IC50,SIROLIMUS,SF-268,CHEMBL2363631,BAO_0000219,5.43,SANGER: Inhibition of human SF268 cell growth in a cell viability assay.
+CHEMBL2366304,Homo sapiens,None,None,13255400,IC50,SIROLIMUS,SNU-C1,CHEMBL2363670,BAO_0000219,5.1,SANGER: Inhibition of human SNU-C1 cell growth in a cell viability assay.
+CHEMBL2366308,Homo sapiens,None,None,13255541,IC50,SIROLIMUS,TE-10,CHEMBL2363788,BAO_0000219,8.48,SANGER: Inhibition of human TE-10 cell growth in a cell viability assay.
+CHEMBL2366166,Homo sapiens,None,None,13255679,IC50,SIROLIMUS,TE-11,CHEMBL2363789,BAO_0000219,7.11,SANGER: Inhibition of human TE-11 cell growth in a cell viability assay.
+CHEMBL2366193,Homo sapiens,None,None,13255741,IC50,SIROLIMUS,WSU-NHL,CHEMBL2363824,BAO_0000219,5.22,SANGER: Inhibition of human WSU-NHL cell growth in a cell viability assay.
+CHEMBL614489,Homo sapiens,None,None,13256099,IC50,SIROLIMUS,EOL1,CHEMBL2363230,BAO_0000219,6.36,SANGER: Inhibition of human EoL-1-cell cell growth in a cell viability assay.
+CHEMBL2366239,Homo sapiens,None,None,13256753,IC50,SIROLIMUS,KLE,CHEMBL2363336,BAO_0000219,6.23,SANGER: Inhibition of human KLE cell growth in a cell viability assay.
+CHEMBL2366250,Homo sapiens,None,None,13256878,IC50,SIROLIMUS,KM-H2,CHEMBL2363337,BAO_0000219,5.9,SANGER: Inhibition of human KM-H2 cell growth in a cell viability assay.
+CHEMBL2366335,Homo sapiens,None,None,13256948,IC50,SIROLIMUS,LB2518-MEL,CHEMBL2363370,BAO_0000219,4.9,SANGER: Inhibition of human LB2518-MEL cell growth in a cell viability assay.
+CHEMBL2366296,Homo sapiens,None,None,13257087,IC50,SIROLIMUS,LB373-MEL-D,CHEMBL2363371,BAO_0000219,5.36,SANGER: Inhibition of human LB373-MEL-D cell growth in a cell viability assay.
+CHEMBL2366242,Homo sapiens,None,None,13257250,IC50,SIROLIMUS,MDA-MB-134-VI,CHEMBL2363405,BAO_0000219,7.36,SANGER: Inhibition of human MDA-MB-134-VI cell growth in a cell viability assay.
+CHEMBL2366125,Homo sapiens,None,None,13257391,IC50,SIROLIMUS,MS-1,CHEMBL2363442,BAO_0000219,5.1,SANGER: Inhibition of human MS-1 cell growth in a cell viability assay.
+CHEMBL1075509,Homo sapiens,None,None,13257520,IC50,SIROLIMUS,MSTO-211H,CHEMBL2363443,BAO_0000219,6.21,SANGER: Inhibition of human MSTO-211H cell growth in a cell viability assay.
+CHEMBL1075516,Homo sapiens,None,None,13257668,IC50,SIROLIMUS,NCI-H1581,CHEMBL2363477,BAO_0000219,4.76,SANGER: Inhibition of human NCI-H1581 cell growth in a cell viability assay.
+CHEMBL2366198,Homo sapiens,None,None,13258110,IC50,SIROLIMUS,NOMO-1,CHEMBL2363560,BAO_0000219,6.52,SANGER: Inhibition of human NOMO-1 cell growth in a cell viability assay.
+CHEMBL2366141,Homo sapiens,None,None,13258240,IC50,SIROLIMUS,NOS-1,CHEMBL2363561,BAO_0000219,9.06,SANGER: Inhibition of human NOS-1 cell growth in a cell viability assay.
+CHEMBL2366320,Homo sapiens,None,None,13258521,IC50,SIROLIMUS,REH,CHEMBL2363597,BAO_0000219,5.12,SANGER: Inhibition of human REH cell growth in a cell viability assay.
+CHEMBL614860,Homo sapiens,None,None,13258664,IC50,SIROLIMUS,SF-539,CHEMBL2363633,BAO_0000219,10.94,SANGER: Inhibition of human SF539 cell growth in a cell viability assay.
+CHEMBL2366279,Homo sapiens,None,None,13258797,IC50,SIROLIMUS,SNU-C2B,CHEMBL2363671,BAO_0000219,5.19,SANGER: Inhibition of human SNU-C2B cell growth in a cell viability assay.
+CHEMBL614300,Homo sapiens,None,None,13258922,IC50,SIROLIMUS,SR,CHEMBL2363672,BAO_0000219,7.94,SANGER: Inhibition of human SR cell growth in a cell viability assay.
+CHEMBL2366293,Homo sapiens,None,None,13259000,IC50,SIROLIMUS,ST486,CHEMBL2363673,BAO_0000219,6.53,SANGER: Inhibition of human ST486 cell growth in a cell viability assay.
+CHEMBL2366278,Homo sapiens,None,None,13259124,IC50,SIROLIMUS,TE-12,CHEMBL2363790,BAO_0000219,6.36,SANGER: Inhibition of human TE-12 cell growth in a cell viability assay.
+CHEMBL2366086,Homo sapiens,None,None,13259254,IC50,SIROLIMUS,TE-15,CHEMBL2363791,BAO_0000219,8.87,SANGER: Inhibition of human TE-15 cell growth in a cell viability assay.
+CHEMBL2366114,Homo sapiens,None,None,13259397,IC50,SIROLIMUS,YT,CHEMBL2363828,BAO_0000219,5.06,SANGER: Inhibition of human YT cell growth in a cell viability assay.
+CHEMBL2366207,Homo sapiens,None,None,13259843,IC50,SIROLIMUS,HCE-4,CHEMBL2363268,BAO_0000219,6.32,SANGER: Inhibition of human HCE-4 cell growth in a cell viability assay.
+CHEMBL2366139,Homo sapiens,None,None,13259968,IC50,SIROLIMUS,HCE-T,CHEMBL2363269,BAO_0000219,5.03,SANGER: Inhibition of human HCE-T cell growth in a cell viability assay.
+CHEMBL614709,Homo sapiens,None,None,13260328,IC50,SIROLIMUS,KM12,CHEMBL2363338,BAO_0000219,5.62,SANGER: Inhibition of human KM12 cell growth in a cell viability assay.
+CHEMBL2366140,Homo sapiens,None,None,13260526,IC50,SIROLIMUS,LB647-SCLC,CHEMBL2363372,BAO_0000219,6.48,SANGER: Inhibition of human LB647-SCLC cell growth in a cell viability assay.
+CHEMBL2366099,Homo sapiens,None,None,13260604,IC50,SIROLIMUS,LB771-HNC,CHEMBL2363373,BAO_0000219,5.54,SANGER: Inhibition of human LB771-HNC cell growth in a cell viability assay.
+CHEMBL613835,Homo sapiens,None,None,13260979,IC50,SIROLIMUS,MV4-11,CHEMBL2363444,BAO_0000219,7.08,SANGER: Inhibition of human MV-4-11 cell growth in a cell viability assay.
+CHEMBL2366204,Homo sapiens,None,None,13261109,IC50,SIROLIMUS,MZ1-PC,CHEMBL2363445,BAO_0000219,5.51,SANGER: Inhibition of human MZ1-PC cell growth in a cell viability assay.
+CHEMBL2366214,Homo sapiens,None,None,13261264,IC50,SIROLIMUS,NCI-H1648,CHEMBL2363480,BAO_0000219,6.38,SANGER: Inhibition of human NCI-H1648 cell growth in a cell viability assay.
+CHEMBL614803,Homo sapiens,None,None,13261434,IC50,SIROLIMUS,NCI-H322M,CHEMBL2363524,BAO_0000219,4.84,SANGER: Inhibition of human NCI-H322M cell growth in a cell viability assay.
+CHEMBL614195,Homo sapiens,None,None,13261512,IC50,SIROLIMUS,NCI-H345,CHEMBL2363525,BAO_0000219,6.03,SANGER: Inhibition of human NCI-H345 cell growth in a cell viability assay.
+CHEMBL614206,Homo sapiens,None,None,13261699,IC50,SIROLIMUS,NTERA-2-cl-D1,CHEMBL2363562,BAO_0000219,9.35,SANGER: Inhibition of human NTERA-S-cl-D1 cell growth in a cell viability assay.
+CHEMBL2366078,Homo sapiens,None,None,13262017,IC50,SIROLIMUS,RH-1,CHEMBL2363599,BAO_0000219,4.62,SANGER: Inhibition of human RH-1 cell growth in a cell viability assay.
+CHEMBL2366309,Homo sapiens,None,None,13262121,IC50,SIROLIMUS,SH-4,CHEMBL2363634,BAO_0000219,8.36,SANGER: Inhibition of human SH-4 cell growth in a cell viability assay.
+CHEMBL612569,Homo sapiens,None,None,13262260,IC50,SIROLIMUS,SHP77,CHEMBL2363635,BAO_0000219,4.98,SANGER: Inhibition of human SHP-77 cell growth in a cell viability assay.
+CHEMBL2366200,Homo sapiens,None,None,13262396,IC50,SIROLIMUS,SU-DHL-1,CHEMBL2363674,BAO_0000219,5.88,SANGER: Inhibition of human SU-DHL-1 cell growth in a cell viability assay.
+CHEMBL614940,Homo sapiens,None,None,13262474,IC50,SIROLIMUS,SUP-T1,CHEMBL2363675,BAO_0000219,4.84,SANGER: Inhibition of human SUP-T1 cell growth in a cell viability assay.
+CHEMBL2366268,Homo sapiens,None,None,13262649,IC50,SIROLIMUS,TE-441-T,CHEMBL2363792,BAO_0000219,5.28,SANGER: Inhibition of human TE-441-T cell growth in a cell viability assay.
+CHEMBL2366245,Homo sapiens,None,None,13262727,IC50,SIROLIMUS,TE-5,CHEMBL2363793,BAO_0000219,6.05,SANGER: Inhibition of human TE-5 cell growth in a cell viability assay.
+CHEMBL2366071,Homo sapiens,None,None,13262851,IC50,SIROLIMUS,no-10,CHEMBL2363830,BAO_0000219,8.14,SANGER: Inhibition of human no-10 cell growth in a cell viability assay.
+CHEMBL2366326,Homo sapiens,None,None,13262990,IC50,SIROLIMUS,no-11,CHEMBL2363831,BAO_0000219,7.08,SANGER: Inhibition of human no-11 cell growth in a cell viability assay.
+CHEMBL2366366,Homo sapiens,None,None,13263725,IC50,SIROLIMUS,IA-LM,CHEMBL2363307,BAO_0000219,7.17,SANGER: Inhibition of human IA-LM cell growth in a cell viability assay.
+CHEMBL2366347,Homo sapiens,None,None,13263782,IC50,SIROLIMUS,KMOE-2,CHEMBL2363339,BAO_0000219,5.45,SANGER: Inhibition of human KMOE-2 cell growth in a cell viability assay.
+CHEMBL2366257,Homo sapiens,None,None,13263887,IC50,SIROLIMUS,KMS-12-PE,CHEMBL2363340,BAO_0000219,4.3,SANGER: Inhibition of human KMS-12-PE cell growth in a cell viability assay.
+CHEMBL2366261,Homo sapiens,None,None,13263965,IC50,SIROLIMUS,KNS-42,CHEMBL2363341,BAO_0000219,6.23,SANGER: Inhibition of human KNS-42 cell growth in a cell viability assay.
+CHEMBL2366222,Homo sapiens,None,None,13264058,IC50,SIROLIMUS,LB831-BLC,CHEMBL2363374,BAO_0000219,5.01,SANGER: Inhibition of human LB831-BLC cell growth in a cell viability assay.
+CHEMBL2366110,Homo sapiens,None,None,13264197,IC50,SIROLIMUS,LB996-RCC,CHEMBL2363375,BAO_0000219,7.03,SANGER: Inhibition of human LB996-RCC cell growth in a cell viability assay.
+CHEMBL2366226,Homo sapiens,None,None,13264565,IC50,SIROLIMUS,MZ2-MEL,CHEMBL2363446,BAO_0000219,6.38,SANGER: Inhibition of human MZ2-MEL cell growth in a cell viability assay.
+CHEMBL2366138,Homo sapiens,None,None,13264704,IC50,SIROLIMUS,MZ7-mel,CHEMBL2363447,BAO_0000219,5.27,SANGER: Inhibition of human MZ7-mel cell growth in a cell viability assay.
+CHEMBL1075518,Homo sapiens,None,None,13264716,IC50,SIROLIMUS,NCI-H1650,CHEMBL2363481,BAO_0000219,4.81,SANGER: Inhibition of human NCI-H1650 cell growth in a cell viability assay.
+CHEMBL612440,Homo sapiens,None,None,13265103,IC50,SIROLIMUS,NCI-H446,CHEMBL2363529,BAO_0000219,5.88,SANGER: Inhibition of human NCI-H446 cell growth in a cell viability assay.
+CHEMBL614879,Homo sapiens,None,None,13265538,IC50,SIROLIMUS,RKO,CHEMBL2363601,BAO_0000219,7.3,SANGER: Inhibition of human RKO cell growth in a cell viability assay.
+CHEMBL2366251,Homo sapiens,None,None,13265721,IC50,SIROLIMUS,SIG-M5,CHEMBL2363636,BAO_0000219,7.76,SANGER: Inhibition of human SIG-M5 cell growth in a cell viability assay.
+CHEMBL2366067,Homo sapiens,None,None,13265799,IC50,SIROLIMUS,SIMA,CHEMBL2363637,BAO_0000219,4.78,SANGER: Inhibition of human SIMA cell growth in a cell viability assay.
+CHEMBL2366144,Homo sapiens,None,None,13266191,IC50,SIROLIMUS,TE-6,CHEMBL2363794,BAO_0000219,8.56,SANGER: Inhibition of human TE-6 cell growth in a cell viability assay.
+CHEMBL2366182,Homo sapiens,None,None,13266330,IC50,SIROLIMUS,TE-8,CHEMBL2363795,BAO_0000219,5.69,SANGER: Inhibition of human TE-8 cell growth in a cell viability assay.
+CHEMBL2366301,Homo sapiens,None,None,13266494,IC50,SIROLIMUS,GAK,CHEMBL2363236,BAO_0000219,6.17,SANGER: Inhibition of human GAK cell growth in a cell viability assay.
+CHEMBL2366322,Homo sapiens,None,None,13266764,IC50,SIROLIMUS,HD-MY-Z,CHEMBL2363272,BAO_0000219,5.93,SANGER: Inhibition of human HD-MY-Z cell growth in a cell viability assay.
+CHEMBL2366231,Homo sapiens,None,None,13266902,IC50,SIROLIMUS,HDLM-2,CHEMBL2363273,BAO_0000219,4.91,SANGER: Inhibition of human HDLM-2 cell growth in a cell viability assay.
+CHEMBL2366203,Homo sapiens,None,None,13267328,IC50,SIROLIMUS,KNS-81-FD,CHEMBL2363343,BAO_0000219,5.63,SANGER: Inhibition of human KNS-81-FD cell growth in a cell viability assay.
+CHEMBL2366216,Homo sapiens,None,None,13267473,IC50,SIROLIMUS,LC-1F,CHEMBL2363376,BAO_0000219,6.97,SANGER: Inhibition of human LC-1F cell growth in a cell viability assay.
+CHEMBL2366260,Homo sapiens,None,None,13267551,IC50,SIROLIMUS,LC-2-ad,CHEMBL2363377,BAO_0000219,9.37,SANGER: Inhibition of human LC-2-ad cell growth in a cell viability assay.
+CHEMBL2366084,Homo sapiens,None,None,13267839,IC50,SIROLIMUS,MEG-01,CHEMBL2363414,BAO_0000219,6.7,SANGER: Inhibition of human MEG-01 cell growth in a cell viability assay.
+CHEMBL2366333,Homo sapiens,None,None,13268269,IC50,SIROLIMUS,NCI-H1694,CHEMBL2363485,BAO_0000219,5.38,SANGER: Inhibition of human NCI-H1694 cell growth in a cell viability assay.
+CHEMBL2366332,Homo sapiens,None,None,13268489,IC50,SIROLIMUS,NCI-H510A,CHEMBL2363531,BAO_0000219,6.01,SANGER: Inhibition of human NCI-H510A cell growth in a cell viability assay.
+CHEMBL2366220,Homo sapiens,None,None,13268773,IC50,SIROLIMUS,OCI-AML2,CHEMBL2363568,BAO_0000219,5.38,SANGER: Inhibition of human OCI-AML2 cell growth in a cell viability assay.
+CHEMBL2366175,Homo sapiens,None,None,13268836,IC50,SIROLIMUS,RL,CHEMBL2363602,BAO_0000219,4.69,SANGER: Inhibition of human RL cell growth in a cell viability assay.
+CHEMBL2366168,Homo sapiens,None,None,13268914,IC50,SIROLIMUS,RL95-2,CHEMBL2363603,BAO_0000219,9.97,SANGER: Inhibition of human RL95-2 cell growth in a cell viability assay.
+CHEMBL2366298,Homo sapiens,None,None,13269134,IC50,SIROLIMUS,SJSA-1,CHEMBL2363639,BAO_0000219,6.57,SANGER: Inhibition of human SJSA-1 cell growth in a cell viability assay.
+CHEMBL2366147,Homo sapiens,None,None,13269628,IC50,SIROLIMUS,TE-9,CHEMBL2363796,BAO_0000219,5.38,SANGER: Inhibition of human TE-9 cell growth in a cell viability assay.
+CHEMBL2366292,Homo sapiens,None,None,13269810,IC50,SIROLIMUS,GB-1,CHEMBL2363238,BAO_0000219,6.96,SANGER: Inhibition of human GB-1 cell growth in a cell viability assay.
+CHEMBL2366234,Homo sapiens,None,None,13269949,IC50,SIROLIMUS,GCIY,CHEMBL2363239,BAO_0000219,7.27,SANGER: Inhibition of human GCIY cell growth in a cell viability assay.
+CHEMBL613888,Homo sapiens,None,None,13270214,IC50,SIROLIMUS,HEL,CHEMBL2363275,BAO_0000219,7.3,SANGER: Inhibition of human HEL cell growth in a cell viability assay.
+CHEMBL614584,Homo sapiens,None,None,13270293,IC50,SIROLIMUS,IM-9,CHEMBL2363310,BAO_0000219,4.94,SANGER: Inhibition of human IM-9 cell growth in a cell viability assay.
+CHEMBL2366209,Homo sapiens,None,None,13270371,IC50,SIROLIMUS,IMR-5,CHEMBL2363311,BAO_0000219,4.66,SANGER: Inhibition of human IMR-5 cell growth in a cell viability assay.
+CHEMBL2366091,Homo sapiens,None,None,13270774,IC50,SIROLIMUS,LC4-1,CHEMBL2363378,BAO_0000219,7.06,SANGER: Inhibition of human LC4-1 cell growth in a cell viability assay.
+CHEMBL614187,Homo sapiens,None,None,13271316,IC50,SIROLIMUS,NALM-6,CHEMBL2363450,BAO_0000219,5.52,SANGER: Inhibition of human NALM-6 cell growth in a cell viability assay.
+CHEMBL2366284,Homo sapiens,None,None,13271393,IC50,SIROLIMUS,NB1,CHEMBL2363451,BAO_0000219,6.42,SANGER: Inhibition of human NB1 cell growth in a cell viability assay.
+CHEMBL2366171,Homo sapiens,None,None,13271648,IC50,SIROLIMUS,NCI-H1770,CHEMBL2363489,BAO_0000219,5.08,SANGER: Inhibition of human NCI-H1770 cell growth in a cell viability assay.
+CHEMBL2366342,Homo sapiens,None,None,13271847,IC50,SIROLIMUS,NCI-H524,CHEMBL2363534,BAO_0000219,6.11,SANGER: Inhibition of human NCI-H524 cell growth in a cell viability assay.
+CHEMBL2366187,Homo sapiens,None,None,13272346,IC50,SIROLIMUS,RPMI-6666,CHEMBL2363607,BAO_0000219,7.61,SANGER: Inhibition of human RPMI-6666 cell growth in a cell viability assay.
+CHEMBL2366096,Homo sapiens,None,None,13272492,IC50,SIROLIMUS,SK-LMS-1,CHEMBL2363642,BAO_0000219,8.6,SANGER: Inhibition of human SK-LMS-1 cell growth in a cell viability assay.
+CHEMBL2366089,Homo sapiens,None,None,13272899,IC50,SIROLIMUS,TGBC1TKB,CHEMBL2363798,BAO_0000219,8.57,SANGER: Inhibition of human TGBC1TKB cell growth in a cell viability assay.
+CHEMBL2366093,Homo sapiens,None,None,13273037,IC50,SIROLIMUS,TGBC24TKB,CHEMBL2363799,BAO_0000219,8.26,SANGER: Inhibition of human TGBC24TKB cell growth in a cell viability assay.
+CHEMBL2366157,Homo sapiens,None,None,13273267,IC50,SIROLIMUS,GDM-1,CHEMBL2363241,BAO_0000219,6.21,SANGER: Inhibition of human GDM-1 cell growth in a cell viability assay.
+CHEMBL2366310,Homo sapiens,None,None,13273532,IC50,SIROLIMUS,HH,CHEMBL2363277,BAO_0000219,7.94,SANGER: Inhibition of human HH cell growth in a cell viability assay.
+CHEMBL2366094,Homo sapiens,None,None,13273567,IC50,SIROLIMUS,IST-MEL1,CHEMBL2363313,BAO_0000219,6.91,SANGER: Inhibition of human IST-MEL1 cell growth in a cell viability assay.
+CHEMBL2366194,Homo sapiens,None,None,13273706,IC50,SIROLIMUS,IST-MES1,CHEMBL2363314,BAO_0000219,5.22,SANGER: Inhibition of human IST-MES1 cell growth in a cell viability assay.
+CHEMBL2366107,Homo sapiens,None,None,13273823,IC50,SIROLIMUS,KP-N-RT-BM-1,CHEMBL2363346,BAO_0000219,5.1,SANGER: Inhibition of human KP-N-RT-BM-1 cell growth in a cell viability assay.
+CHEMBL2366065,Homo sapiens,None,None,13273943,IC50,SIROLIMUS,KP-N-YS,CHEMBL2363348,BAO_0000219,4.66,SANGER: Inhibition of human KP-N-YS cell growth in a cell viability assay.
+CHEMBL2366262,Homo sapiens,None,None,13274499,IC50,SIROLIMUS,MFH-ino,CHEMBL2363420,BAO_0000219,6.63,SANGER: Inhibition of human MFH-ino cell growth in a cell viability assay.
+CHEMBL2366243,Homo sapiens,None,None,13274552,IC50,SIROLIMUS,NB10,CHEMBL2363452,BAO_0000219,5.83,SANGER: Inhibition of human NB10 cell growth in a cell viability assay.
+CHEMBL2430,Homo sapiens,J. Med. Chem.,2014,15049565,Kd,SIROLIMUS,FK506-binding protein 1B,CHEMBL3369573,BAO_0000357,9.7,Binding affinity to FKBP12 (unknown origin) by NMR analysis
+CHEMBL3401,Homo sapiens,Drug Metab. Dispos.,2011,15463810,EC50,SIROLIMUS,Pregnane X receptor,CHEMBL3531532,BAO_0000219,5.0,Activation of human PXR expressed in human HepG2 (DPX-2) cells assessed as induction of CYP3A4 after 24 hrs by luminescent analysis
+CHEMBL3401,Homo sapiens,Drug Metab. Dispos.,2011,15465504,EC50,SIROLIMUS,Pregnane X receptor,CHEMBL3531878,BAO_0000357,6.05,Competitive binding affinity to human PXR LBD (111 to 434) by TR-FRET assay
+CHEMBL612545,None,J Med Chem,2017,18033180,IC50,SIROLIMUS,Unchecked,CHEMBL4008001,BAO_0000019,6.29,Inhibition of filament formation of tet-NRG1 expressing Candida albicans after 2 to 24 hrs
+CHEMBL612545,None,J Med Chem,2018,18107498,IC50,SIROLIMUS,Unchecked,CHEMBL4023017,BAO_0000219,5.3,Growth inhibition of human MCF7 cells after 72 hrs by CCK8 assay
+CHEMBL612545,None,J Med Chem,2018,18107499,IC50,SIROLIMUS,Unchecked,CHEMBL4023018,BAO_0000219,5.8,Growth inhibition of human T47D cells after 72 hrs by CCK8 assay
+CHEMBL612545,None,J Med Chem,2018,18107502,IC50,SIROLIMUS,Unchecked,CHEMBL4023021,BAO_0000219,5.75,Growth inhibition of human SiHa cells after 72 hrs by CCK8 assay
+CHEMBL612545,None,Bioorg Med Chem Lett,2017,18270666,EC50,SIROLIMUS,Unchecked,CHEMBL4058557,BAO_0000219,4.37,Cytotoxicity against human PC3 cells by MTT assay

@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3991,Homo sapiens,None,2015,17717089,Ki,None,Coagulation factor VII,CHEMBL3887451,BAO_0000366,9.51,
+CHEMBL3991,Homo sapiens,None,2015,17717131,Ki,None,Coagulation factor VII,CHEMBL3887452,BAO_0000357,6.11,

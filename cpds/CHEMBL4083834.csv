@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J Nat Prod,2017,18150479,IC50,None,Unchecked,CHEMBL4033871,BAO_0000219,6.55,Cytotoxicity against human DU145 cells incubated for 72 hrs by CyQuant NF cell proliferation assay
+CHEMBL612545,None,J Nat Prod,2017,18150482,IC50,None,Unchecked,CHEMBL4033872,BAO_0000219,6.54,Cytotoxicity against human MDA-MB-231 cells incubated for 72 hrs by CyQuant NF cell proliferation assay
+CHEMBL612545,None,J Nat Prod,2017,18150485,IC50,None,Unchecked,CHEMBL4033873,BAO_0000219,6.58,Cytotoxicity against human A549 cells incubated for 72 hrs by CyQuant NF cell proliferation assay

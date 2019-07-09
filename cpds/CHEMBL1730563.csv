@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,None,None,5421486,IC50,None,Unchecked,CHEMBL1738183,BAO_0000019,5.01,
+CHEMBL612545,None,None,None,5510534,IC50,None,Unchecked,CHEMBL1738391,BAO_0000219,4.77,
+CHEMBL612545,None,None,None,5527657,IC50,None,Unchecked,CHEMBL1738681,BAO_0000219,4.52,
+CHEMBL612545,None,None,None,5538609,IC50,None,Unchecked,CHEMBL1738131,BAO_0000219,4.93,

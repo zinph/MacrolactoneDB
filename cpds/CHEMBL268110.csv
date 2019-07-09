@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL375,Mus musculus,Bioorg. Med. Chem. Lett.,1999,348442,IC50,None,Mus musculus,CHEMBL748461,BAO_0000218,9.33,The compound was tested for its inhibitory activity against T-cell proliferation using murine splenic T-cells
+CHEMBL1902,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,348443,EC50,None,FK506-binding protein 1A,CHEMBL678139,BAO_0000357,7.92,Effective concentration against FK506 binding protein 12 using [3H]-dihydro FK-506
+CHEMBL4445,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,348444,IC50,None,"Serine/threonine protein phosphatase 2B catalytic subunit, alpha isoform",CHEMBL653180,BAO_0000357,8.38,Inhibitory activity against Calcineurin (CaN phosphatase)

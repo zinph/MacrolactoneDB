@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2007,2019957,IC50,None,Unchecked,CHEMBL903343,BAO_0000019,6.6,Inhibition of tobacco hornworm midgut vacuolar ATPase V1/V0 holoenzyme
+CHEMBL612267,Mus musculus,Bioorg. Med. Chem. Lett.,2007,2019961,IC50,None,L929,CHEMBL903344,BAO_0000219,6.54,Growth inhibition of mouse L929 cells by MTT assay

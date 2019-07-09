@@ -1,0 +1,10 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3332,Sus scrofa,J. Med. Chem.,2001,875735,Ki,None,ADAM17,CHEMBL814098,BAO_0000357,8.77,Inhibition of porcine TNF-alpha converting enzyme(pTACE).
+CHEMBL372,Homo sapiens,J. Med. Chem.,2001,875736,IC50,None,Homo sapiens,CHEMBL699331,BAO_0000218,7.22,Inhibition of TNF-alpha release in LPS-stimulated human whole blood assay(WBA)
+CHEMBL333,Homo sapiens,J. Med. Chem.,2001,875738,Ki,None,Matrix metalloproteinase-2,CHEMBL872559,BAO_0000357,6.16,Inhibition of matrix metalloprotease-2
+CHEMBL321,Homo sapiens,J. Med. Chem.,2001,875739,Ki,None,Matrix metalloproteinase 9,CHEMBL872557,BAO_0000357,5.75,Inhibition of human matrix metalloprotease-9
+CHEMBL283,Homo sapiens,J. Med. Chem.,2001,875741,Ki,None,Matrix metalloproteinase 3,CHEMBL708546,BAO_0000357,6.24,Inhibition of matrix metalloprotease-3
+CHEMBL4073,Homo sapiens,J. Med. Chem.,2001,875742,Ki,None,Matrix metalloproteinase 7,CHEMBL711568,BAO_0000357,6.75,Inhibition of matrix metalloprotease-7
+CHEMBL4588,Homo sapiens,J. Med. Chem.,2001,875743,Ki,None,Matrix metalloproteinase 8,CHEMBL713838,BAO_0000357,6.17,Inhibition of matrix metalloprotease-8
+CHEMBL4393,Homo sapiens,J. Med. Chem.,2001,875745,Ki,None,Matrix metalloproteinase 12,CHEMBL719131,BAO_0000357,6.41,Inhibition of matrix metalloprotease-12
+CHEMBL280,Homo sapiens,J. Med. Chem.,2001,875746,Ki,None,Matrix metalloproteinase 13,CHEMBL717451,BAO_0000357,7.3,Inhibition of matrix metalloprotease-13

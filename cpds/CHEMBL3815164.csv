@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL395,Homo sapiens,J. Nat. Prod.,2016,16610748,IC50,None,HepG2,CHEMBL3816770,BAO_0000219,4.7,Cytotoxicity against human HepG2 cells after 24 hrs by MTT assay
+CHEMBL2047,Homo sapiens,J. Nat. Prod.,2016,16610756,IC50,None,Bile acid receptor FXR,CHEMBL3816677,BAO_0000219,6.3,Antagonist activity at human FXR expressed in CV-1 cells assessed as inhibition of CDCA-induced receptor transactivation after 24 hrs by luciferase reporter gene assay

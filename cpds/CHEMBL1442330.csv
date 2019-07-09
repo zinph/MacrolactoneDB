@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1293299,Homo sapiens,None,None,3781276,Potency,None,Histone-lysine N-methyltransferase MLL,CHEMBL1614410,BAO_0000019,6.0,PUBCHEM_BIOASSAY: qHTS Fluorescence Polarization Assay for Inhibitors of MLL CXXC domain - DNA interaction. (Class of assay: confirmatory) [Related pubchem assays: 2698 (Summary assay.)]

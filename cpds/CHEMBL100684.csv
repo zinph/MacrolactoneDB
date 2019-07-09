@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2094108,Homo sapiens,J. Med. Chem.,1997,554430,IC50,ACTINOPLANIC ACID A,Protein farnesyltransferase,CHEMBL679529,BAO_0000223,6.64,Activity against human Farnesyltransferase

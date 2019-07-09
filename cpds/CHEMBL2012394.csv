@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2094128,Homo sapiens,ACS Med. Chem. Lett.,2011,10838144,IC50,None,Cyclin-dependent kinase 2/cyclin A,CHEMBL2015886,BAO_0000223,4.72,Inhibition of CDK2/cyclin A using 5-FAM-GGGPATPKKAKKL-COOH as substrate after 1 hr by IMAP assay

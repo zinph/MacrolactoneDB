@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL394,Homo sapiens,J. Nat. Prod.,2009,2706088,IC50,DESMETHOXYMAJUSCULAMIDE C,HCT-116,CHEMBL1058886,BAO_0000219,7.7,Cytotoxicity against human HCT116 cells after 24 hrs
+CHEMBL396,Homo sapiens,J. Nat. Prod.,2009,2706089,IC50,DESMETHOXYMAJUSCULAMIDE C,NCI-H460,CHEMBL1058887,BAO_0000219,7.2,Cytotoxicity against human H460 cells after 24 hrs
+CHEMBL614697,Homo sapiens,J. Nat. Prod.,2009,2706090,IC50,DESMETHOXYMAJUSCULAMIDE C,MDA-MB-435,CHEMBL1058888,BAO_0000219,6.66,Cytotoxicity against human MDA-MB-435 cells after 24 hrs

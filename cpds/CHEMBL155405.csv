@@ -1,0 +1,9 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614697,Homo sapiens,Bioorg. Med. Chem. Lett.,2004,1088398,IC50,FIJIANOLIDE B,MDA-MB-435,CHEMBL712126,BAO_0000219,8.64,In vitro growth inhibitory activity against MDA-MB-435 human breast cancer cell line
+CHEMBL384,Homo sapiens,Bioorg. Med. Chem. Lett.,2004,1088399,IC50,FIJIANOLIDE B,HT-29,CHEMBL692408,BAO_0000219,8.16,In vitro growth inhibitory activity against HT-29 human colon cancer cell line
+CHEMBL612558,None,Bioorg. Med. Chem. Lett.,2005,1520245,IC50,FIJIANOLIDE B,ADMET,CHEMBL837541,BAO_0000219,8.47,Inhibitory concentration of compound required for exhibiting cytotoxic effect on human A2780 cells
+CHEMBL612558,None,Bioorg. Med. Chem. Lett.,2005,1520246,IC50,FIJIANOLIDE B,ADMET,CHEMBL874879,BAO_0000219,8.12,Inhibitory concentration measured in term of cytotoxicity against human A2780/AD10 cells
+CHEMBL614697,Homo sapiens,J. Med. Chem.,2007,1913773,IC50,FIJIANOLIDE B,MDA-MB-435,CHEMBL894962,BAO_0000219,8.15,Cytotoxicity against human MDA-MB-435 cells after 72 hrs by SRB assay
+CHEMBL394,Homo sapiens,J. Med. Chem.,2007,1913780,IC50,FIJIANOLIDE B,HCT-116,CHEMBL894965,BAO_0000219,8.52,Cytotoxicity against human HCT116 cells after 72 hrs by SRB assay
+CHEMBL614697,Homo sapiens,J. Nat. Prod.,2009,2666370,IC50,FIJIANOLIDE B,MDA-MB-435,CHEMBL1058581,BAO_0000219,8.7,Cytotoxicity against human MDA-MB-435 cells
+CHEMBL398,Homo sapiens,J. Nat. Prod.,2009,2666371,IC50,FIJIANOLIDE B,KB,CHEMBL1027128,BAO_0000219,7.54,Cytotoxicity against human KB cells

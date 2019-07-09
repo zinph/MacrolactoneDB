@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612794,Homo sapiens,Bioorg. Med. Chem.,2007,2016629,IC50,LASIODIPLODIN,U-937,CHEMBL885741,BAO_0000219,4.44,Antiproliferative activity against human U937 cells after 24 hrs by WST-8 assay
+CHEMBL612794,Homo sapiens,Bioorg. Med. Chem.,2007,2016635,IC50,LASIODIPLODIN,U-937,CHEMBL885742,BAO_0000219,4.55,Antiproliferative activity against human U937 cells after 48 hrs by WST-8 assay
+CHEMBL612794,Homo sapiens,Bioorg. Med. Chem.,2007,2016641,IC50,LASIODIPLODIN,U-937,CHEMBL885743,BAO_0000219,4.7,Antiproliferative activity against human U937 cells after 72 hrs by WST-8 assay
+CHEMBL612824,Spinacia oleracea,J Agric Food Chem,2007,12435935,IC50,LASIODIPLODIN,Spinacia oleracea,CHEMBL3067064,BAO_0000218,4.45,Inhibition of ATP sythesis in freshly lysed Spinacia oleracea (spinach) chloroplasts

@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612856,Plasmodium falciparum K1,J. Nat. Prod.,2011,6278785,IC50,KABIRAMIDE B,Plasmodium falciparum (isolate K1 / Thailand),CHEMBL1805579,BAO_0000218,5.78,Antimalarial activity against multidrug-resistance Plasmodium falciparum K1 assessed as growth inhibition by microdilution radioisotope technique
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2011,6278792,IC50,KABIRAMIDE B,MCF7,CHEMBL1805581,BAO_0000219,6.35,Cytotoxicity against human MCF7 cells by SRB assay
+CHEMBL612558,None,J. Nat. Prod.,2011,6279420,IC50,KABIRAMIDE B,ADMET,CHEMBL1805582,BAO_0000219,6.02,Cytotoxicity against human Fibroblasts by SRB assay

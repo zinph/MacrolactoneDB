@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1793,Homo sapiens,J. Med. Chem.,2010,3561683,EC50,None,Parathyroid hormone receptor,CHEMBL1285786,BAO_0000219,9.7,Agonist activity at recombinant PTHR1 expressed in HEK293 cells co-transfected with CRE-Luc assessed as increase of adenylyl cyclase activity after 4.5 hrs by luciferase assay

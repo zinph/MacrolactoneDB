@@ -1,0 +1,8 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Med. Chem.,2004,1470078,IC50,None,Unchecked,CHEMBL830891,BAO_0000219,8.21,Inhibitory activity against IL-2 receptor in human T-cell jurkat cell line stimulated by phytohemagglutininin and phorbol myristate acetate
+CHEMBL613107,Homo sapiens,J. Med. Chem.,2004,1470089,IC50,None,PBMC,CHEMBL832410,BAO_0000219,8.01,Inhibitory activity against murine mixed lymphocyte reaction
+CHEMBL612558,None,J. Med. Chem.,2004,1470093,IC50,None,ADMET,CHEMBL834788,BAO_0000019,7.63,Inhibitory activity against PPD-induced proliferation of human peripheral blood mononuclear cell (HPBMNC)
+CHEMBL612558,None,J. Med. Chem.,2004,1470094,IC50,None,ADMET,CHEMBL836806,BAO_0000219,9.16,Inhibitory activity against IL-5 production (Anti-CD3 monoclonal antibody stimulated and cultured CD4 positive cells purified from human peripheral blood mononuclear cell)
+CHEMBL612558,None,J. Med. Chem.,2004,1470095,IC50,None,ADMET,CHEMBL836808,BAO_0000219,8.67,Inhibitory activity against IFN-gamma production (Anti-CD3 monoclonal antibody stimulated and cultured CD4 positive cells purified from human peripheral blood mononuclear cell)
+CHEMBL2842,Homo sapiens,J. Med. Chem.,2004,1470096,IC50,None,Serine/threonine-protein kinase mTOR,CHEMBL829473,BAO_0000357,8.73,Inhibitory activity against macrophilin (FKBP-12)
+CHEMBL612545,None,J. Med. Chem.,2004,1470097,Ki,None,Unchecked,CHEMBL827148,BAO_0000019,6.73,Inhibitory activity against calcineurin phosphatase

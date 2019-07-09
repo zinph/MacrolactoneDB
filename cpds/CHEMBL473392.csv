@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5602,Homo sapiens,J. Med. Chem.,2009,2517588,Kd,ROBOTNIKININ,Sonic hedgehog protein,CHEMBL972434,BAO_0000357,5.51,Binding affinity to SHH
+CHEMBL5602,Homo sapiens,Bioorg. Med. Chem. Lett.,2009,3225407,Kd,ROBOTNIKININ,Sonic hedgehog protein,CHEMBL1101550,BAO_0000357,5.51,Binding affinity to recombinant Shh N-terminal peptide by surface plasma resonance
+CHEMBL5387,Mus musculus,Bioorg. Med. Chem. Lett.,2009,3225426,EC50,ROBOTNIKININ,Sonic hedgehog protein,CHEMBL1101545,BAO_0000219,5.4,Inhibition of SHH in mouse Shh Light2 cells after 30 hrs by GLI-responsive bright glo luciferase reporter gene assay
+CHEMBL5602,Homo sapiens,Nat. Chem. Biol.,2009,3396415,Kd,ROBOTNIKININ,Sonic hedgehog protein,CHEMBL1220906,BAO_0000357,5.51,Binding affinity to N-terminal Shh by surface plasmon resonance assay
+CHEMBL612545,None,Bioorg. Med. Chem.,2010,3433881,IC50,ROBOTNIKININ,Unchecked,CHEMBL1246373,BAO_0000019,5.51,Antagonist activity at hedgehog receptor
+CHEMBL5387,Mus musculus,J. Med. Chem.,2011,12187746,EC50,ROBOTNIKININ,Sonic hedgehog protein,CHEMBL2208611,BAO_0000219,5.4,Inhibition of sonic hedgehog pathway in mouse NIH-3T3 cells

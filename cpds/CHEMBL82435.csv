@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614741,None,J. Med. Chem.,2003,782821,IC50,None,3Y1 cell line,CHEMBL615556,BAO_0000219,5.55,Concentration to inhibit growth of normal rat fibroblast cells (3Y1-B cells) after 72 h exposure
+CHEMBL3879801,None,J. Med. Chem.,2003,782822,IC50,None,NON-PROTEIN TARGET,CHEMBL799317,BAO_0000019,5.82,Concentration to inhibit growth of v-src-transformed cells (SR-3Y1 cells) after 72 h exposure
+CHEMBL3879801,None,J. Med. Chem.,2003,782824,IC50,None,NON-PROTEIN TARGET,CHEMBL700270,BAO_0000019,5.66,Concentration to inhibit growth of normal rat K-ras-transformed cells (KNRK 5.2 cells) after 72 hr exposure

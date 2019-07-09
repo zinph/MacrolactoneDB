@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2111429,Homo sapiens,J. Med. Chem.,2009,2249373,IC50,None,Histone deacetylase (HDAC1 and HDAC2),CHEMBL1015470,BAO_0000219,8.39,Inhibition of HDAC1/2 from human HeLa cells nuclear extract by cell free fluorimetric assay
+CHEMBL3192,Homo sapiens,J. Med. Chem.,2009,2249393,IC50,None,Histone deacetylase 8,CHEMBL1015471,BAO_0000219,5.72,Inhibition of HDAC8 from human HeLa cells nuclear extract by cell free fluorimetric assay
+CHEMBL1865,Homo sapiens,J. Med. Chem.,2009,2249422,IC50,None,Histone deacetylase 6,CHEMBL1015473,BAO_0000219,7.05,Inhibition of HDAC6 from human HeLa cells nuclear extract by cell free fluorimetric assay
+CHEMBL614923,Homo sapiens,J. Med. Chem.,2009,2249441,EC50,None,SK-MES-1,CHEMBL1015475,BAO_0000219,5.88,Cytotoxicity against human SKMES1 cells after 72 hrs by trypan blue exclusion assay
+CHEMBL614805,Homo sapiens,J. Med. Chem.,2009,2249458,EC50,None,NCI-H69,CHEMBL1015476,BAO_0000219,5.84,Cytotoxicity against human NCI-H69 cells after 72 hrs by trypan blue exclusion assay
+CHEMBL613508,Homo sapiens,J. Med. Chem.,2009,2249475,EC50,None,DU-145,CHEMBL1015477,BAO_0000219,5.95,Cytotoxicity against human DU145 cells after 72 hrs by trypan blue exclusion assay

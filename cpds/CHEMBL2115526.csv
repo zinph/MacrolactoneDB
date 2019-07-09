@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4050,Homo sapiens,Bioorg. Med. Chem. Lett.,1994,226752,Ki,None,FK506 binding protein 4,CHEMBL765620,BAO_0000357,4.52,Apparent inhibition constant of the FKBP peptidyl-propyl isomerase (PPIase) activity

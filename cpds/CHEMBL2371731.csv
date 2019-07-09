@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3572,Homo sapiens,Bioorg. Med. Chem. Lett.,1998,968654,IC50,None,Cholesteryl ester transfer protein,CHEMBL660778,BAO_0000357,4.3,Compound was evaluated for inhibitory activity against cholesteryl ester transfer protein
+CHEMBL3572,Homo sapiens,Bioorg. Med. Chem. Lett.,1998,968655,IC50,None,Cholesteryl ester transfer protein,CHEMBL660752,BAO_0000357,4.4,"Compound was evaluated for inhibitory activity against cholesteryl ester transfer protein, reported from fungus"
+CHEMBL3572,Homo sapiens,Bioorg. Med. Chem. Lett.,1998,968656,IC50,None,Cholesteryl ester transfer protein,CHEMBL660777,BAO_0000357,6.52,"Compound was evaluated for inhibitory activity against cholesteryl ester transfer protein, reported from sponge"

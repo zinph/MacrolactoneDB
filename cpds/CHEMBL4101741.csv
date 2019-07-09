@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J Med Chem,2017,18064810,IC50,None,Unchecked,CHEMBL4014022,BAO_0000219,5.47,Cytotoxicity against human HCT116 cells assessed as reduction in cell viability after 48 hrs by WST8 assay

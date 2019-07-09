@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Med. Chem.,2004,1191399,IC50,None,Unchecked,CHEMBL844735,BAO_0000019,4.97,In vitro inhibitory activity of compound against microtubule polymerization in a tubulin assembly assay
+CHEMBL387,Homo sapiens,J. Med. Chem.,2004,1191400,IC50,None,MCF7,CHEMBL710004,BAO_0000219,6.55,In vitro inhibitory activity of compound against induced cytotoxicity in MCF-7 cell line
+CHEMBL613829,Homo sapiens,J. Med. Chem.,2004,1191401,IC50,None,NCI/ADR-RES,CHEMBL873856,BAO_0000219,6.04,In vitro inhibitory activity of compound against induced cytotoxicity in multidrug-resistant MCF-7/ADR breast cancer cell line

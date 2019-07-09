@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL394,Homo sapiens,ACS Med. Chem. Lett.,2011,10869870,IC50,APRATOXIN S1,HCT-116,CHEMBL2025198,BAO_0000219,6.43,Cytotoxicity against human HCT116 cells after 48 hrs
+CHEMBL394,Homo sapiens,ACS Med. Chem. Lett.,2011,10869879,IC50,APRATOXIN S1,HCT-116,CHEMBL2025199,BAO_0000219,7.68,Inhibition of VEGF-A secretion in human HCT116 cells after 12 hrs

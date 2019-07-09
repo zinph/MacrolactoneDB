@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614328,Homo sapiens,Bioorg. Med. Chem. Lett.,2003,679714,IC50,None,MCF7S,CHEMBL707636,BAO_0000219,8.22,Inhibitory activity against MCF-7 cells after 72 hr cell growth
+CHEMBL613829,Homo sapiens,Bioorg. Med. Chem. Lett.,2003,679715,IC50,None,NCI/ADR-RES,CHEMBL707791,BAO_0000219,6.35,Inhibitory activity against MCF7-ADR cells after 72 hr cell growth
+CHEMBL394,Homo sapiens,Bioorg. Med. Chem. Lett.,2003,679716,IC50,None,HCT-116,CHEMBL688354,BAO_0000219,6.6,Inhibitory activity against HCT116 cells after 24 hr cell growth

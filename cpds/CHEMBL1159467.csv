@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2093867,Homo sapiens,Bioorg. Med. Chem. Lett.,1992,971290,IC50,E181,Protein kinase C (PKC),CHEMBL769344,BAO_0000224,4.8,Inhibitory activity against protein kinase C (PKC)
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,1992,971292,IC50,E181,Unchecked,CHEMBL822434,BAO_0000019,4.19,Inhibition of c-AMP kinase PKA

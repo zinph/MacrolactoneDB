@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL6080,Mus musculus,ACS Med. Chem. Lett.,2012,12055724,IC50,None,Smoothened homolog,CHEMBL2155377,BAO_0000219,5.4,Inhibition of Smo in mouse C3H10T1/2 cells assessed as inhibition of human Shh-induced cell differentiation after 48 hrs by alkaline phosphatase reporter assay

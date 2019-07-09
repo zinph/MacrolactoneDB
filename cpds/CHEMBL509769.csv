@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2009,2407757,Ki,None,Unchecked,CHEMBL956758,BAO_0000019,7.08,Inhibition of full length HCV NS3/4A protease by TRF assay
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2009,2408446,EC50,None,Hepatitis C virus,CHEMBL956757,BAO_0000218,6.22,Antiviral activity against HCV replication infected in human HuH7 cells after 96 hrs by replicon assay in presence of 10% FCS

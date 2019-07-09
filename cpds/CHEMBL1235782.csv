@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Med. Chem.,2011,12079729,Ki,SORAPHEN A,Unchecked,CHEMBL2169029,BAO_0000019,8.68,Inhibition of Ustilago maydis recombinant ACC expressed in Escherichia coli BL21(DE3) using acetyl coA as substrate and [14C]NaHCO3 incubated for 10 mins prior to substrate addition by liquid scintillation counting

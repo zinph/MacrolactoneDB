@@ -1,0 +1,18 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1293235,Homo sapiens,None,None,3648999,Potency,None,Prelamin-A/C,CHEMBL1614544,BAO_0000019,4.9,PUBCHEM_BIOASSAY: qHTS Assay for Modulators of Lamin A Splicing. (Class of assay: confirmatory) 
+CHEMBL612545,None,None,None,3656995,EC50,None,Unchecked,CHEMBL1614550,BAO_0000219,7.15,
+CHEMBL612545,None,None,None,3700344,EC50,None,Unchecked,CHEMBL1613871,BAO_0000219,7.11,"PUBCHEM_BIOASSAY: Luminescence Cell-Based Dose Response to Identify Inhibitors of Luciferase Translation or Activity in H4-C Neuroglioblastoma Cells. (Class of assay: confirmatory) [Related pubchem assays: 1813 (Primary HTS), 1827 (Project Summary)]"
+CHEMBL5514,Homo sapiens,None,None,3756189,Potency,None,Huntingtin,CHEMBL1613918,BAO_0000019,6.0,"PUBCHEM_BIOASSAY: qHTS Multiplex Assay to Identify Dual Action Probes in a Cell Model of Huntington: Aggregate Formation (GFP). (Class of assay: confirmatory) [Related pubchem assays: 1482, 1471 ]"
+CHEMBL1615322,Homo sapiens,None,None,3814468,Potency,None,microRNA 21,CHEMBL1613836,BAO_0000019,6.38,PUBCHEM_BIOASSAY: qHTS Assay for Modulators of miRNAs and/or Activators of miR-21. (Class of assay: confirmatory) 
+CHEMBL1293294,Homo sapiens,None,None,3858036,Potency,None,Ras-related protein Rab-9A,CHEMBL1613838,BAO_0000019,7.0,PUBCHEM_BIOASSAY: qHTS Assay for Rab9 Promoter Activators. (Class of assay: confirmatory) 
+CHEMBL2095183,Escherichia coli O157:H7,None,None,3921441,Potency,None,Shiga toxin,CHEMBL1614301,BAO_0000019,6.25,"PUBCHEM_BIOASSAY: A qHTS for Small Molecule Inhibitors of Shiga Toxin (Confirmatory). (Class of assay: confirmatory) [Related pubchem assays: 2314, 2318, 2315 ]"
+CHEMBL612545,None,None,None,4237291,Potency,None,Unchecked,CHEMBL1614459,BAO_0000019,4.54,PUBCHEM_BIOASSAY: qHTS Assay for Lipid Storage Modulators in Drosophila S3 Cells. (Class of assay: confirmatory) 
+CHEMBL612545,None,None,None,4414084,IC50,None,Unchecked,CHEMBL1614318,BAO_0000219,6.45,
+CHEMBL1293277,Homo sapiens,None,None,4724593,Potency,None,Niemann-Pick C1 protein,CHEMBL1614342,BAO_0000019,6.7,PUBCHEM_BIOASSAY: qHTS Assay for NPC1 Promoter Activators. (Class of assay: confirmatory) 
+CHEMBL612545,None,None,None,4905907,EC50,None,Unchecked,CHEMBL1614065,BAO_0000219,7.11,
+CHEMBL1615322,Homo sapiens,None,None,4931046,Potency,None,microRNA 21,CHEMBL1614146,BAO_0000019,6.38,PUBCHEM_BIOASSAY: qHTS Assay for Modulators of miRNAs and/or Inhibitors of miR-21. (Class of assay: confirmatory) 
+CHEMBL5162,Homo sapiens,None,None,4932912,Potency,None,Neuropeptide S receptor,CHEMBL1614052,BAO_0000019,6.3,PUBCHEM_BIOASSAY: qHTS Assay for Antagonists of the Neuropeptide S Receptor: cAMP Signal Transduction. (Class of assay: confirmatory) 
+CHEMBL612545,None,None,None,5505774,EC50,None,Unchecked,CHEMBL1738513,BAO_0000019,5.87,
+CHEMBL612545,None,None,None,5510590,IC50,None,Unchecked,CHEMBL1738391,BAO_0000219,6.28,
+CHEMBL613545,Rattus norvegicus,None,None,6847639,AC50,None,INS1,CHEMBL1794496,BAO_0000219,6.13,"PUBCHEM_BIOASSAY: Luminescence Cell-Based Dose Retest to Confirm Inhibitors of Beta Cell Apoptosis. (Class of assay: confirmatory) [Related pubchem assays (depositor defined):AID435005, AID435007]"
+CHEMBL4869,Homo sapiens,None,None,14172113,IC50,None,Prion protein,CHEMBL3215128,BAO_0000219,5.46,PubChem BioAssay. TRFRET-based cell-based high throughput dose response assay to identify inhibitors of cell surface Prion Protein (PRPC).   (Class of assay: confirmatory) 

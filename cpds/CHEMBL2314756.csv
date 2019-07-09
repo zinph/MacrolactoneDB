@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2034,Homo sapiens,Bioorg. Med. Chem.,2013,12633797,EC50,None,Glucocorticoid receptor,CHEMBL2321589,BAO_0000219,5.47,Displacement of [3H]-dexamethasone human glucocorticoid receptor alpha expressed in 293 MSR cells after 60 mins by scintillation counting
+CHEMBL2034,Homo sapiens,Bioorg. Med. Chem.,2013,12633798,EC50,None,Glucocorticoid receptor,CHEMBL2321590,BAO_0000357,6.16,Binding affinity to glucocorticoid receptor (unknown origin) by fluorescence polarization competitive binding assay

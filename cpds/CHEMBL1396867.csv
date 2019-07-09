@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3397,Homo sapiens,None,None,5061340,Potency,None,Cytochrome P450 2C9,CHEMBL1614027,BAO_0000357,5.1,"PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors and Substrates of Cytochrome P450 2C9. (Class of assay: confirmatory) [Related pubchem assays: 885, 884, 410 ]"

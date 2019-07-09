@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4718,Homo sapiens,ACS Med. Chem. Lett.,2015,14977871,IC50,None,MAP kinase-interacting serine/threonine-protein kinase MNK1,CHEMBL3377245,BAO_0000357,5.45,Inhibition of human full-length MKNK1 using biotin-Ahx-IKKRKLTRRKSLKG substrate by TR-FRET-based high ATP assay

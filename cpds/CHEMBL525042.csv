@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2842,Homo sapiens,J. Biol. Chem.,2007,2200408,IC50,None,Serine/threonine-protein kinase mTOR,CHEMBL997061,BAO_0000219,8.0,Inhibition of mTOR kinase expressed in human HEK293 cells by Western blot analysis

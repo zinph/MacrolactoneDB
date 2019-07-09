@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL389,Mus musculus,J. Med. Chem.,1988,1139521,IC50,None,P388,CHEMBL759250,BAO_0000219,6.37,50% inhibition of incorporation of precursor [3H]thymidine into DNA P388 cell lines
+CHEMBL389,Mus musculus,J. Med. Chem.,1988,1139522,IC50,None,P388,CHEMBL759251,BAO_0000219,7.26,50% inhibition of incorporation precursor [14C]uridine into RNA P388 cell lines
+CHEMBL384,Homo sapiens,J. Med. Chem.,1988,1139523,IC50,None,HT-29,CHEMBL692886,BAO_0000219,6.44,50% inhibition of incorporationf precursor [3H]thymidine into DNA HT-29 cell lines
+CHEMBL384,Homo sapiens,J. Med. Chem.,1988,1139524,IC50,None,HT-29,CHEMBL857633,BAO_0000219,7.19,50% inhibition of incorporationf precursor [3H]thymidine into RNA HT-29 cell lines

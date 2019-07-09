@@ -1,0 +1,8 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2011,6268614,IC50,None,MCF7,CHEMBL1804009,BAO_0000219,5.31,Cytotoxicity against human MCF7 cells after 72 hrs by MTS assay
+CHEMBL396,Homo sapiens,J. Nat. Prod.,2011,6268615,IC50,None,NCI-H460,CHEMBL1804010,BAO_0000219,5.92,Cytotoxicity against human H460 cells after 72 hrs by MTS assay
+CHEMBL613977,Homo sapiens,J. Nat. Prod.,2011,6268616,IC50,None,SF-268,CHEMBL1804145,BAO_0000219,5.25,Cytotoxicity against human SF268 cells after 72 hrs by MTS assay
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2011,6268617,IC50,None,HT-29,CHEMBL1804008,BAO_0000219,5.36,Cytotoxicity against human HT-29 cells after 72 hrs by MTS assay
+CHEMBL614697,Homo sapiens,J. Nat. Prod.,2011,6268618,IC50,None,MDA-MB-435,CHEMBL1804146,BAO_0000219,5.26,Cytotoxicity against human MDA-MB-435 cells after 72 hrs by MTS assay
+CHEMBL5533,Homo sapiens,J. Nat. Prod.,2011,6269315,IC50,None,Nuclear factor NF-kappa-B p65 subunit,CHEMBL1804152,BAO_0000219,4.94,Inhibition of NFkappa p65 isolated from nuclear extract of human HeLa cells by ELISA
+CHEMBL5776,Homo sapiens,Bioorg. Med. Chem.,2015,15750309,IC50,None,Mitogen-activated protein kinase kinase kinase 7,CHEMBL3632095,BAO_0000357,5.89,Inhibition of TAK1 (unknown origin)

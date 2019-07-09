@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614917,Homo sapiens,Bioorg. Med. Chem.,2014,13953989,IC50,None,SK-MEL-2,CHEMBL3130032,BAO_0000219,6.8,Antiproliferative activity against human SK-MEL-2 cells after 72 hrs by MTT assay in presence of 5% FBS
+CHEMBL612545,None,Bioorg. Med. Chem.,2014,13954029,IC50,None,Unchecked,CHEMBL3130038,BAO_0000019,7.14,Binding affinity to eIF4A1/2 in rabbit reticulocyte lysate assessed as inhibition of cap-dependent translation after 1.5 hrs by dual luciferase reporter gene assay
+CHEMBL614917,Homo sapiens,Bioorg. Med. Chem.,2014,13954053,IC50,None,SK-MEL-2,CHEMBL3130042,BAO_0000219,6.5,Antiproliferative activity against human SK-MEL-2 cells after 72 hrs by MTT assay in presence of 10% FBS
+CHEMBL399,Homo sapiens,Bioorg. Med. Chem.,2014,13954058,IC50,None,HeLa,CHEMBL3130043,BAO_0000219,6.37,Antiproliferative activity against human HeLa cells after 72 hrs by MTT assay

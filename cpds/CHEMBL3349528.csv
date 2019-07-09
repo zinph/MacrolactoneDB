@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614481,None,Bioorg. Med. Chem. Lett.,1996,598907,IC50,None,DA-3 cell line,CHEMBL663157,BAO_0000219,8.52,Cytotoxic activity against DA-3 mouse mammary adenocarcinoma cells
+CHEMBL398,Homo sapiens,Bioorg. Med. Chem. Lett.,1996,598908,IC50,None,KB,CHEMBL705501,BAO_0000219,8.22,Cytotoxic activity against KB human nasopharyngeal carcinoma cells
+CHEMBL384,Homo sapiens,Bioorg. Med. Chem. Lett.,1996,598910,IC50,None,HT-29,CHEMBL694341,BAO_0000219,8.4,Cytotoxic activity against HT-29 human colon adenocarcinoma cells

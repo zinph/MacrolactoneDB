@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2008,2460370,IC50,APRATOXIN E,HT-29,CHEMBL958762,BAO_0000219,7.68,Antiproliferative activity against human HT29 cells after 48 hrs by MTT assay
+CHEMBL399,Homo sapiens,J. Nat. Prod.,2008,2460371,IC50,APRATOXIN E,HeLa,CHEMBL958763,BAO_0000219,7.14,Antiproliferative activity against human HeLa cells after 48 hrs by MTT assay
+CHEMBL615023,Homo sapiens,J. Nat. Prod.,2008,2460372,IC50,APRATOXIN E,U2OS,CHEMBL958764,BAO_0000219,7.23,Antiproliferative activity against human U2OS cells after 48 hrs by MTT assay
+CHEMBL394,Homo sapiens,ACS Med. Chem. Lett.,2011,10869868,IC50,APRATOXIN E,HCT-116,CHEMBL2025198,BAO_0000219,6.74,Cytotoxicity against human HCT116 cells after 48 hrs
+CHEMBL394,Homo sapiens,ACS Med. Chem. Lett.,2011,10869877,IC50,APRATOXIN E,HCT-116,CHEMBL2025199,BAO_0000219,8.04,Inhibition of VEGF-A secretion in human HCT116 cells after 12 hrs

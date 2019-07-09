@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4302,Homo sapiens,J. Med. Chem.,2000,601848,IC50,None,P-glycoprotein 1,CHEMBL710068,BAO_0000219,5.32,Human MDR1 Pgp inhibitory activity by using standard calcein-AM efflux method with the human leukemia CEM cells.

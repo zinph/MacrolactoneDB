@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3332,Sus scrofa,J. Med. Chem.,2001,903775,Ki,None,ADAM17,CHEMBL814098,BAO_0000357,8.34,Inhibition of porcine TNF-alpha converting enzyme(pTACE).
+CHEMBL372,Homo sapiens,J. Med. Chem.,2001,903776,IC50,None,Homo sapiens,CHEMBL699331,BAO_0000218,6.75,Inhibition of TNF-alpha release in LPS-stimulated human whole blood assay(WBA)
+CHEMBL4588,Homo sapiens,J. Med. Chem.,2001,903783,Ki,None,Matrix metalloproteinase 8,CHEMBL713838,BAO_0000357,6.57,Inhibition of matrix metalloprotease-8
+CHEMBL4393,Homo sapiens,J. Med. Chem.,2001,903785,Ki,None,Matrix metalloproteinase 12,CHEMBL719131,BAO_0000357,7.46,Inhibition of matrix metalloprotease-12

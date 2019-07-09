@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1681616,Staphylococcus aureus,J. Nat. Prod.,2015,16405393,IC50,TURNAGAINOLIDE A,Accessory gene regulator protein A,CHEMBL3744201,BAO_0000357,6.1,Inhibition of agr-mediated quorum sensing in Staphylococcus aureus after 5 hrs by luminescence analysis

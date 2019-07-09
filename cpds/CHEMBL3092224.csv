@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614181,Homo sapiens,ACS Med. Chem. Lett.,2013,13851290,IC50,None,MRC5,CHEMBL3096561,BAO_0000219,6.44,Cytotoxicity against human MRC5 cells after 72 hrs by MTS assay
+CHEMBL3879801,None,ACS Med. Chem. Lett.,2013,13851314,IC50,None,NON-PROTEIN TARGET,CHEMBL3096564,BAO_0000219,6.65,Cytotoxicity against human DRO 81-1 cells after 72 hrs by MTS assay
+CHEMBL614919,Homo sapiens,ACS Med. Chem. Lett.,2013,13851338,IC50,None,SK-MEL-28,CHEMBL3096560,BAO_0000219,6.69,Cytotoxicity against human SK-MEL-28 cells after 72 hrs by MTS assay
+CHEMBL400,Homo sapiens,ACS Med. Chem. Lett.,2013,13851362,IC50,None,MDA-MB-231,CHEMBL3096562,BAO_0000219,6.61,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTS assay
+CHEMBL3879801,None,ACS Med. Chem. Lett.,2013,13851386,IC50,None,NON-PROTEIN TARGET,CHEMBL3096563,BAO_0000219,6.01,Cytotoxicity against human JMAR cells after 72 hrs by MTS assay

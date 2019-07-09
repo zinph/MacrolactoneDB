@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1293235,Homo sapiens,None,None,3650291,Potency,None,Prelamin-A/C,CHEMBL1614544,BAO_0000019,8.25,PUBCHEM_BIOASSAY: qHTS Assay for Modulators of Lamin A Splicing. (Class of assay: confirmatory) 
+CHEMBL1075138,Homo sapiens,None,None,3928102,Potency,None,Tyrosyl-DNA phosphodiesterase 1,CHEMBL1614364,BAO_0000357,4.4,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors of Tyrosyl-DNA Phosphodiesterase (TDP1). (Class of assay: confirmatory) 
+CHEMBL1293231,Mus musculus,None,None,4098846,Potency,None,Nuclear receptor ROR-gamma,CHEMBL1614441,BAO_0000019,5.35,PUBCHEM_BIOASSAY: VP16 counterscreen qHTS for inhibitors of ROR gamma transcriptional activity. (Class of assay: confirmatory) 
+CHEMBL340,Homo sapiens,None,None,4961306,Potency,None,Cytochrome P450 3A4,CHEMBL1614108,BAO_0000357,4.5,PUBCHEM_BIOASSAY: qHTS Assay for Activators of Cytochrome P450 3A4. (Class of assay: confirmatory) [Related pubchem assays: 410 ]
+CHEMBL340,Homo sapiens,None,None,5026795,Potency,None,Cytochrome P450 3A4,CHEMBL1613886,BAO_0000357,4.5,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4. (Class of assay: confirmatory) [Related pubchem assays: 410 ]

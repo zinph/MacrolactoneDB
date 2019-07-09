@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2842,Homo sapiens,Bioorg. Med. Chem. Lett.,2005,1660108,IC50,ZOTAROLIMUS,Serine/threonine-protein kinase mTOR,CHEMBL871328,BAO_0000357,8.48,Inhibitory activity against FKBP12
+CHEMBL614167,None,Bioorg. Med. Chem. Lett.,2005,1660111,IC50,ZOTAROLIMUS,T-lymphocytes,CHEMBL862732,BAO_0000219,8.7,T-cell antiproliferative activity in human mixed lymphocyte reaction
+CHEMBL614167,None,Bioorg. Med. Chem. Lett.,2005,1660114,IC50,ZOTAROLIMUS,T-lymphocytes,CHEMBL871329,BAO_0000219,5.85,Antiproliferative activity in Lewis rat lymph node cells in rat mixed lymphocyte reaction

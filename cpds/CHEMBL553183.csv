@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL364,Plasmodium falciparum,J. Med. Chem.,2011,6198996,IC50,None,Plasmodium falciparum,CHEMBL1775722,BAO_0000218,6.81,Antimalarial activity against multidrug-resistant Plasmodium falciparum TM91C235 after 48 hrs by [3H]hypoxanthine incorporation assay
+CHEMBL364,Plasmodium falciparum,J. Med. Chem.,2011,6199031,IC50,None,Plasmodium falciparum,CHEMBL1775723,BAO_0000218,6.59,Antimalarial activity against chloroquine-sensitive Plasmodium falciparum D6 after 48 hrs by [3H]hypoxanthine incorporation assay
+CHEMBL364,Plasmodium falciparum,J. Med. Chem.,2011,6199065,IC50,None,Plasmodium falciparum,CHEMBL1775724,BAO_0000218,6.92,Antimalarial activity against chloroquine/pyrimethamine-resistant Plasmodium falciparum W2 after 48 hrs by [3H]hypoxanthine incorporation assay
+CHEMBL614245,Homo sapiens,J. Med. Chem.,2011,6199735,IC50,None,THP-1,CHEMBL1775725,BAO_0000219,4.33,Cytotoxicity against human THP1 cells after 1 to 4 hrs by MTS assay

@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614734,Homo sapiens,Bioorg. Med. Chem. Lett.,2004,1450638,IC50,None,HMEC,CHEMBL833807,BAO_0000219,8.7,inhibition of TNF-alpha-induced VCAM-1 expression in the human microvascular endothelial cell line HMEC-1
+CHEMBL614734,Homo sapiens,Bioorg. Med. Chem. Lett.,2004,1450639,IC50,None,HMEC,CHEMBL833806,BAO_0000219,6.75,inhibition of TNF-alpha-induced ICAM-1 expression in the human microvascular endothelial cell line HMEC-1

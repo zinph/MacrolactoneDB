@@ -1,0 +1,9 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614387,Homo sapiens,J. Med. Chem.,2003,126149,IC50,"(6'R,13'S) ISORORIDIN A",NCI-H522,CHEMBL745716,BAO_0000219,7.02,In vitro antitumor activity against NSCL NCI-H522 tumor cell lines
+CHEMBL614561,Homo sapiens,J. Med. Chem.,2003,126150,IC50,"(6'R,13'S) ISORORIDIN A",COLO 205,CHEMBL656817,BAO_0000219,8.1,In vitro antitumor activity against colon COLO 205 tumor cell lines
+CHEMBL614317,Homo sapiens,J. Med. Chem.,2003,126153,IC50,"(6'R,13'S) ISORORIDIN A",M14,CHEMBL713480,BAO_0000219,8.0,In vitro antitumor activity against melanoma M14 tumor cell lines
+CHEMBL614610,Homo sapiens,J. Med. Chem.,2003,126155,IC50,"(6'R,13'S) ISORORIDIN A",UACC-62,CHEMBL815363,BAO_0000219,8.7,In vitro antitumor activity against melanoma UACC-62 tumor cell lines
+CHEMBL614516,Homo sapiens,J. Med. Chem.,2003,126157,IC50,"(6'R,13'S) ISORORIDIN A",A498,CHEMBL624425,BAO_0000219,8.22,In vitro antitumor activity against renal A498 tumor cell lines
+CHEMBL614886,Homo sapiens,J. Med. Chem.,2003,126158,IC50,"(6'R,13'S) ISORORIDIN A",RXF 393,CHEMBL772391,BAO_0000219,8.0,In vitro antitumor activity against renal RXF 393 tumor cell lines
+CHEMBL614697,Homo sapiens,J. Med. Chem.,2003,126160,IC50,"(6'R,13'S) ISORORIDIN A",MDA-MB-435,CHEMBL709620,BAO_0000219,7.51,In vitro antitumor activity against breast MDA-MB-435 tumor cell lines
+CHEMBL614078,Homo sapiens,J. Med. Chem.,2003,126161,IC50,"(6'R,13'S) ISORORIDIN A",MDA-N,CHEMBL877233,BAO_0000219,8.1,In vitro antitumor activity against breast MDA-N tumor cell lines

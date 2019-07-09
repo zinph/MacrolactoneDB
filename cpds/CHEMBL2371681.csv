@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4844,Candida albicans,Bioorg. Med. Chem. Lett.,2001,1054398,IC50,None,"Beta-1,3-glucan synthase",CHEMBL884129,BAO_0000357,9.7,In vitro inhibitory activity against Beta glucan synthase

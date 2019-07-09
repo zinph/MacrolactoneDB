@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3559639,Hepatitis C virus,Bioorg. Med. Chem.,2014,14984738,Ki,None,Nonstructural protein NS3-4A,CHEMBL3384808,BAO_0000357,5.8,Inhibition of HCV genotype 1a NS3/4A protease using Ac-DED(Edans)EEAbu-psi[COO]ASK(Dabcyl)-NH2 as substrate by FRET assay

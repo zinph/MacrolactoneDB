@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3356,Homo sapiens,None,None,6064224,AC50,None,Cytochrome P450 1A2,CHEMBL1741322,BAO_0000019,5.1,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp1a2 Compounds with AC50 equal or less than 10 uM are considered active

@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL289,Homo sapiens,None,None,4994191,Potency,None,Cytochrome P450 2D6,CHEMBL1614110,BAO_0000357,5.3,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors and Substrates of Cytochrome P450 2D6. (Class of assay: confirmatory) [Related pubchem assays: 410 ]

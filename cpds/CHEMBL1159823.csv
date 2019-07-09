@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL243,Human immunodeficiency virus 1,J. Med. Chem.,2000,576937,Ki,PROTEOLYTIC ENZYME INHIBITOR,Human immunodeficiency virus type 1 protease,CHEMBL769061,BAO_0000357,9.0,binding affinity towards HIV-1 Protease enzyme

@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL364,Plasmodium falciparum,Proc. Natl. Acad. Sci. U.S.A.,2008,3023364,EC50,None,Plasmodium falciparum,CHEMBL1040691,BAO_0000218,6.36,NOVARTIS: Inhibition of Plasmodium falciparum 3D7 (drug-susceptible) proliferation in erythrocyte-based infection assay 
+CHEMBL364,Plasmodium falciparum,Proc. Natl. Acad. Sci. U.S.A.,2008,3027555,EC50,None,Plasmodium falciparum,CHEMBL1040692,BAO_0000218,6.25,NOVARTIS: Inhibition of Plasmodium falciparum W2 (drug-resistant) proliferation in erythrocyte-based infection assay

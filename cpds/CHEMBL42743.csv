@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL345,None,J. Med. Chem.,2009,2624195,Kd,TYLOSIN,Nucleic Acid,CHEMBL1007467,BAO_0000225,8.56,Binding affinity to ribosome/exit tunnel RNA region

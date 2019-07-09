@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2016,16642242,EC50,None,Hepatitis C virus,CHEMBL3826130,BAO_0000218,9.0,Antiviral activity against HCV genotype 1a by real time PCR analysis
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2016,16642275,EC50,None,Hepatitis C virus,CHEMBL3826131,BAO_0000218,8.7,Antiviral activity against HCV genotype 1b by real time PCR analysis
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2016,16642320,EC50,None,Hepatitis C virus,CHEMBL3826134,BAO_0000218,6.07,Antiviral activity against HCV genotype 1a harboring NS5A Y93H mutant by real time PCR analysis

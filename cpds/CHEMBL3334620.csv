@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL387,Homo sapiens,Bioorg. Med. Chem.,2014,14996347,IC50,None,MCF7,CHEMBL3372123,BAO_0000219,7.03,Antiproliferative activity against human MCF7 cells after 72 hrs by CellTiter-Blue assay
+CHEMBL400,Homo sapiens,Bioorg. Med. Chem.,2014,14996348,IC50,None,MDA-MB-231,CHEMBL3372124,BAO_0000219,7.11,Antiproliferative activity against human MDA-MB-231 cells after 72 hrs by CellTiter-Blue assay

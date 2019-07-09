@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2014,15034440,IC50,None,HT-29,CHEMBL3378750,BAO_0000219,4.86,Cytotoxicity against human HT-29 cells assessed as cell viability after 72 hrs
+CHEMBL614697,Homo sapiens,J. Nat. Prod.,2014,15034445,IC50,None,MDA-MB-435,CHEMBL3378749,BAO_0000219,4.84,Cytotoxicity against human MDA-MB-435 cells assessed as cell viability after 72 hrs

@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL392,Homo sapiens,J. Med. Chem.,2004,1472811,IC50,None,A549,CHEMBL834437,BAO_0000219,8.34,Concentration required to inhibit growth of human A549 cell line by 50%
+CHEMBL384,Homo sapiens,J. Med. Chem.,2004,1472812,IC50,None,HT-29,CHEMBL833908,BAO_0000219,8.34,Concentration required to inhibit growth of human H29 cell line by 50% was determined

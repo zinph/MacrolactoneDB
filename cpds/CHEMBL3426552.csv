@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614004,Homo sapiens,Eur. J. Med. Chem.,2015,15246671,EC50,None,A2780,CHEMBL3427862,BAO_0000219,5.07,Cytotoxicity against human A2780 cells

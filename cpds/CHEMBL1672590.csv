@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,ACS Med. Chem. Lett.,2011,5220403,Ki,None,Unchecked,CHEMBL1681605,BAO_0000019,10.0,Inhibition of HCV NS3/4A protease expressed Escherichia coli after 1 hr by time-resolved fluorescence assay
+CHEMBL379,Hepatitis C virus,ACS Med. Chem. Lett.,2011,5220473,IC50,None,Hepatitis C virus,CHEMBL1679049,BAO_0000218,8.7,Antiviral activity against HCV1b con1 infected in human HuH7 cells assessed as inhibition of viral replication after 24 hrs in presence of 10% fetal bovine serum
+CHEMBL379,Hepatitis C virus,ACS Med. Chem. Lett.,2011,5220498,IC50,None,Hepatitis C virus,CHEMBL1679050,BAO_0000218,7.4,Antiviral activity against HCV1b con1 infected in human HuH7 cells assessed as inhibition of viral replication after 24 hrs in presence of 50% normal human serum

@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL387,Homo sapiens,J. Med. Chem.,2008,2110461,IC50,"3-DEOXY-2,3-DIDEHYDRO-EPO A",MCF7,CHEMBL951135,BAO_0000219,8.06,Antiproliferative activity against human MCF7 cells after 72 hrs by methylene blue staining
+CHEMBL3879801,None,J. Med. Chem.,2008,2110463,IC50,"3-DEOXY-2,3-DIDEHYDRO-EPO A",NON-PROTEIN TARGET,CHEMBL951136,BAO_0000219,7.61,Antiproliferative activity against human PC3M cells after 72 hrs by methylene blue staining
+CHEMBL394,Homo sapiens,J. Med. Chem.,2008,2110465,IC50,"3-DEOXY-2,3-DIDEHYDRO-EPO A",HCT-116,CHEMBL951137,BAO_0000219,7.79,Antiproliferative activity against human HCT116 cells after 72 hrs by methylene blue staining
+CHEMBL612545,None,J. Med. Chem.,2008,2110467,EC50,"3-DEOXY-2,3-DIDEHYDRO-EPO A",Unchecked,CHEMBL951138,BAO_0000019,5.32,Induction of pig brain alpha-beta-tubulin polymerization

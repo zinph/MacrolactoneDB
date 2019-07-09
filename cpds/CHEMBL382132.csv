@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL354,Escherichia coli,Bioorg. Med. Chem. Lett.,2006,1695110,IC50,None,Escherichia coli,CHEMBL864375,BAO_0000218,5.43,Inhibition of protein synthesis in Escherichia coli cell-free translational system

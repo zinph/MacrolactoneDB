@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J Nat Prod,2017,18150593,IC50,None,Unchecked,CHEMBL4033897,BAO_0000219,5.53,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by resazurin/AlamarBlue dye-based fluorescence assay
+CHEMBL612545,None,J Nat Prod,2017,18150596,IC50,None,Unchecked,CHEMBL4033896,BAO_0000219,5.77,Cytotoxicity against human PC3M cells after 72 hrs by resazurin/AlamarBlue dye-based fluorescence assay
+CHEMBL612545,None,J Nat Prod,2017,18150599,IC50,None,Unchecked,CHEMBL4033895,BAO_0000219,5.7,Cytotoxicity against human MCF7 cells after 72 hrs by resazurin/AlamarBlue dye-based fluorescence assay
+CHEMBL612545,None,J Nat Prod,2017,18150602,IC50,None,Unchecked,CHEMBL4033894,BAO_0000219,5.85,Cytotoxicity against human SF268 cells after 72 hrs by resazurin/AlamarBlue dye-based fluorescence assay
+CHEMBL612545,None,J Nat Prod,2017,18150605,IC50,None,Unchecked,CHEMBL4033893,BAO_0000219,5.84,Cytotoxicity against human NCI-H460 cells after 72 hrs by resazurin/AlamarBlue dye-based fluorescence assay

@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL248,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,622673,IC50,None,Leukocyte elastase,CHEMBL675541,BAO_0000357,6.75,Evaluated for the inhibition of Human Leukocyte Elastase (HLE) enzyme
+CHEMBL248,Homo sapiens,Bioorg. Med. Chem.,2007,2056506,Ki,None,Leukocyte elastase,CHEMBL925136,BAO_0000357,7.92,Inhibition of human leukocyte elastase
+CHEMBL2096984,Sus scrofa,Bioorg. Med. Chem.,2007,2056507,IC50,None,Pancreatic elastase,CHEMBL925137,BAO_0000224,6.58,Inhibition of porcine pancreatic elastase

@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Nat. Prod.,2008,2151508,IC50,MICROPEPTIN 103,Unchecked,CHEMBL930445,BAO_0000019,6.02,Inhibition of chymotrypsin
+CHEMBL204,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3591414,IC50,MICROPEPTIN 103,Thrombin,CHEMBL1290974,BAO_0000357,5.06,Inhibition of factor 2a

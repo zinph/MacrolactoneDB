@@ -1,0 +1,8 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3045,Homo sapiens,Bioorg. Med. Chem. Lett.,2013,13413166,Ki,DEMETHOXYDEBROMOAPLYSIATOXIN,Protein kinase C beta,CHEMBL2421508,BAO_0000357,8.82,Displacement of [3H]PDBu from PKCbeta C1A domain (unknown origin)
+CHEMBL299,Homo sapiens,Bioorg. Med. Chem. Lett.,2013,13413167,Ki,DEMETHOXYDEBROMOAPLYSIATOXIN,Protein kinase C alpha,CHEMBL2421509,BAO_0000357,9.0,Displacement of [3H]PDBu from PKCalpha C1A domain (unknown origin)
+CHEMBL3920,Homo sapiens,Bioorg. Med. Chem. Lett.,2013,13436875,Ki,DEMETHOXYDEBROMOAPLYSIATOXIN,Protein kinase C theta,CHEMBL2421503,BAO_0000357,9.7,Displacement of [3H]PDBu from PKCtheta C1B domain (unknown origin)
+CHEMBL3616,Homo sapiens,Bioorg. Med. Chem. Lett.,2013,13436876,Ki,DEMETHOXYDEBROMOAPLYSIATOXIN,Protein kinase C eta,CHEMBL2421504,BAO_0000357,9.74,Displacement of [3H]PDBu from PKCeta C1B domain (unknown origin)
+CHEMBL3582,Homo sapiens,Bioorg. Med. Chem. Lett.,2013,13436877,Ki,DEMETHOXYDEBROMOAPLYSIATOXIN,Protein kinase C epsilon,CHEMBL2421505,BAO_0000357,8.89,Displacement of [3H]PDBu from PKCepsilon C1B domain (unknown origin)
+CHEMBL2996,Homo sapiens,Bioorg. Med. Chem. Lett.,2013,13436878,Ki,DEMETHOXYDEBROMOAPLYSIATOXIN,Protein kinase C delta,CHEMBL2421506,BAO_0000357,9.49,Displacement of [3H]PDBu from PKCdelta C1B domain (unknown origin)
+CHEMBL2938,Homo sapiens,Bioorg. Med. Chem. Lett.,2013,13436879,Ki,DEMETHOXYDEBROMOAPLYSIATOXIN,Protein kinase C gamma,CHEMBL2421507,BAO_0000357,9.16,Displacement of [3H]PDBu from PKCgamma C1A domain (unknown origin)

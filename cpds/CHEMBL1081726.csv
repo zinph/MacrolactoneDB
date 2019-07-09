@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5602,Homo sapiens,Bioorg. Med. Chem. Lett.,2009,3225412,Kd,None,Sonic hedgehog protein,CHEMBL1101550,BAO_0000357,5.51,Binding affinity to recombinant Shh N-terminal peptide by surface plasma resonance

@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2007,2063792,IC50,MONOCILLIN III,MCF7,CHEMBL944127,BAO_0000219,6.4,Antiproliferative activity against human MCF7 cells by MTT assay
+CHEMBL613977,Homo sapiens,J. Nat. Prod.,2007,2063795,IC50,MONOCILLIN III,SF-268,CHEMBL944128,BAO_0000219,6.52,Antiproliferative activity against human SF268 cells by MTT assay
+CHEMBL396,Homo sapiens,J. Nat. Prod.,2007,2063798,IC50,MONOCILLIN III,NCI-H460,CHEMBL944126,BAO_0000219,6.3,Antiproliferative activity against human NCI-H460 cells by MTT assay
+CHEMBL377,Human herpesvirus 1,J. Nat. Prod.,2003,2437999,IC50,MONOCILLIN III,Human herpesvirus 1,CHEMBL989414,BAO_0000218,6.4,Antiviral activity against HSV1 F infected in african green monkey Vero cells assessed as reduction of virus-induced cytopathic effect by cellular replication assay
+CHEMBL612545,None,Bioorg. Med. Chem.,2009,2683875,IC50,MONOCILLIN III,Unchecked,CHEMBL1060569,BAO_0000219,5.03,Inhibition of WNT5A mRNA expression in human dermal papilla cells after 24 hrs by quantigene assay

@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,J. Nat. Prod.,2006,2544685,EC50,OPPOSITINE A,NON-PROTEIN TARGET,CHEMBL972028,BAO_0000219,4.57,Cytotoxicity against human HCT 116 cells after 48 hrs by MTT assay

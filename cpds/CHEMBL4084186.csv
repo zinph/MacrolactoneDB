@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1902,Homo sapiens,Bioorg Med Chem Lett,2017,18083834,IC50,None,FK506-binding protein 1A,CHEMBL4018179,BAO_0000357,7.63,Antagonist activity at human FKBP12 measured after 30 mins by fluorescein labelled SLF tracer based fluorescence polarization assay

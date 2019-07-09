@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5348,Serratia marcescens,J. Med. Chem.,2015,15607896,IC50,None,Chitinase B,CHEMBL3580203,BAO_0000357,4.92,Inhibition of Serratia marcescens chitinase ChiB assessed as reduction in chitinolytic activity using 4MU-(GlcNAc)2 substrate by fluorescence based assay

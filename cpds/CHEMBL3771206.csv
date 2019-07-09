@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1865,Homo sapiens,J. Med. Chem.,2016,16494698,IC50,None,Histone deacetylase 6,CHEMBL3772312,BAO_0000357,5.79,Inhibition of human KDAC6
+CHEMBL1829,Homo sapiens,J. Med. Chem.,2016,16494700,IC50,None,Histone deacetylase 3,CHEMBL3772311,BAO_0000357,6.33,Inhibition of human KDAC3
+CHEMBL325,Homo sapiens,J. Med. Chem.,2016,16494702,IC50,None,Histone deacetylase 1,CHEMBL3772310,BAO_0000357,5.46,Inhibition of human KDAC1

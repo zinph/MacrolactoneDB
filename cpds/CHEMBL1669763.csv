@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3507,Rattus norvegicus,Bioorg. Med. Chem. Lett.,2011,5196713,IC50,None,Mineralocorticoid receptor,CHEMBL1670277,BAO_0000219,4.5,Antagonist activity at rat mineralocorticoid receptor-ligand binding domain expressed in AH109 yeast cells co expressing pGADT7-hSRC-1 by two hybrid assay

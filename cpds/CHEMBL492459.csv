@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL398,Homo sapiens,J. Nat. Prod.,1997,2320122,IC50,CRYPTOPHYCIN 46,KB,CHEMBL1003534,BAO_0000219,6.12,Cytotoxicity against human KB cells
+CHEMBL614721,Homo sapiens,J. Nat. Prod.,1997,2320133,IC50,CRYPTOPHYCIN 46,LoVo,CHEMBL1003533,BAO_0000219,6.12,Cytotoxicity against human LoVo cells
+CHEMBL614925,Homo sapiens,J. Nat. Prod.,1997,2320134,IC50,CRYPTOPHYCIN 46,SK-OV-3,CHEMBL1003532,BAO_0000219,6.12,Cytotoxicity against human SKOV3 cells

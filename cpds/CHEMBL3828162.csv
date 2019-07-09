@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL398,Homo sapiens,Bioorg. Med. Chem. Lett.,2016,16646395,IC50,None,KB,CHEMBL3830441,BAO_0000219,4.31,Cytotoxicity against human KB cells assessed as reduction in cell viability by resazurin microplate assay
+CHEMBL391,Chlorocebus aethiops,Bioorg. Med. Chem. Lett.,2016,16646469,IC50,None,Vero,CHEMBL3830443,BAO_0000219,4.87,Cytotoxicity against African green monkey Vero cells assessed as reduction in cell viability by green fluorescent protein-based assay

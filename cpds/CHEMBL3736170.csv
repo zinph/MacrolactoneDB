@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1865,Homo sapiens,Bioorg. Med. Chem.,2015,16389852,IC50,None,Histone deacetylase 6,CHEMBL3737281,BAO_0000019,7.12,Inhibition of recombinant HDAC6 (unknown origin) expressed in Escherichia coli BL21(DE3) after 60 mins using trichostatin A by label-free mass spectrometry-based SAMDI assay
+CHEMBL3192,Homo sapiens,Bioorg. Med. Chem.,2015,16389900,IC50,None,Histone deacetylase 8,CHEMBL3737282,BAO_0000019,5.61,Inhibition of recombinant HDAC8 (unknown origin) expressed in Escherichia coli BL21(DE3) after 60 mins using trichostatin A by label-free mass spectrometry-based SAMDI assay

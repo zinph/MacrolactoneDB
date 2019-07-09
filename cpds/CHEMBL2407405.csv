@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL613859,Homo sapiens,J. Med. Chem.,2013,13389475,IC50,None,A-375,CHEMBL2412406,BAO_0000219,4.24,Antiproliferative activtiy against human A375 cells assessed as growth inhibition after 48 hrs by MTT assay
+CHEMBL390,Homo sapiens,J. Med. Chem.,2013,13389486,IC50,None,PC-3,CHEMBL2412408,BAO_0000219,4.11,Antiproliferative activtiy against human PC3 cells assessed as growth inhibition after 48 hrs by MTT assay
+CHEMBL383,Homo sapiens,J. Med. Chem.,2013,13389497,IC50,None,HL-60,CHEMBL2412409,BAO_0000219,4.16,Antiproliferative activtiy against human HL60 cells assessed as growth inhibition after 48 hrs by MTT assay

@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL325,Homo sapiens,ACS Med. Chem. Lett.,2014,14730944,IC50,None,Histone deacetylase 1,CHEMBL3291778,BAO_0000357,7.11,Inhibition of recombinant human HDAC1 using Ac-Lys-Tyr-Lys(epsilon-acetyl)-AMC as substrate after 24 hrs by fluorescence assay
+CHEMBL1829,Homo sapiens,ACS Med. Chem. Lett.,2014,14733065,IC50,None,Histone deacetylase 3,CHEMBL3291780,BAO_0000357,7.07,Inhibition of recombinant human HDAC3 using Ac-Lys-Tyr-Lys(epsilon-acetyl)-AMC as substrate after 24 hrs by fluorescence assay

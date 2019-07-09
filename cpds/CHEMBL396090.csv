@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2007,2019956,IC50,DEHYDROARCHAZOLID,Unchecked,CHEMBL903343,BAO_0000019,7.89,Inhibition of tobacco hornworm midgut vacuolar ATPase V1/V0 holoenzyme

@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612557,Mus musculus,Bioorg. Med. Chem. Lett.,2016,16597327,IC50,None,RAW264.7,CHEMBL3813287,BAO_0000219,4.37,Inhibition of LPS-induced NO production in mouse RAW264.7 cells after 24 hrs by Griess assay

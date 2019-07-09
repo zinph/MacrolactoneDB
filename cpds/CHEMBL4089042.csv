@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2111363,Homo sapiens,Bioorg Med Chem,2017,18096996,IC50,None,Histone deacetylase 3/Nuclear receptor corepressor 2 (HDAC3/NCoR2),CHEMBL4021380,BAO_0000219,5.1,Inhibition of full length human C-terminal His-tagged HDAC3/N-terminal GST-tagged NCOR2 (395 to 489 residues) expressed in baculovirus infected Sf9 insect cells using BPS HDAC substrate 3 after 30 mins by fluorescence assay

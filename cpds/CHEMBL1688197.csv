@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4302,Homo sapiens,ACS Med. Chem. Lett.,2010,5293733,IC50,None,P-glycoprotein 1,CHEMBL1696279,BAO_0000219,5.14,Inhibition of human MDR1 expressed in mouse L5178 cells assessed as increase in intracellular accumulation of rhodamine 123 by FACSCalibur flow cytometry

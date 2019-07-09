@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2009,2508678,Ki,None,Hepatitis C virus,CHEMBL983947,BAO_0000218,5.55,Inhibition of HCV genotype 1b NS3/4A protease

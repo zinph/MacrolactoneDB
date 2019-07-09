@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL354,Escherichia coli,Bioorg. Med. Chem. Lett.,2006,1680603,Kd,None,Escherichia coli,CHEMBL859063,BAO_0000218,8.82,Binding affinity to 70S bacterial ribosome isolated from Escherichia coli
+CHEMBL354,Escherichia coli,Bioorg. Med. Chem. Lett.,2006,1680605,IC50,None,Escherichia coli,CHEMBL859064,BAO_0000218,6.26,Inhibition of ribosome function in a coupled transcription and translational assay using Escherichia coli S30 extracts

@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL394,Homo sapiens,J. Nat. Prod.,2011,5201957,IC50,PITIPROLAMIDE,HCT-116,CHEMBL1669916,BAO_0000219,4.48,Cytotoxicity against human HCT116 cells after 48 hrs by MTT assay
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2011,5201958,IC50,PITIPROLAMIDE,MCF7,CHEMBL1669917,BAO_0000219,4.48,Cytotoxicity against human MCF7 cells after 48 hrs by MTT assay
+CHEMBL613070,Bacillus cereus,J. Nat. Prod.,2011,5201959,IC50,PITIPROLAMIDE,Bacillus cereus,CHEMBL1669923,BAO_0000218,4.16,Antibacterial activity against Bacillus cereus ATCC 10987 by microtiter plate-based assay

@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,ACS Med. Chem. Lett.,2011,8028687,IC50,None,Unchecked,CHEMBL1948064,BAO_0000019,6.55,Inhibition of protein synthesis using Escherichia coli S30 extracts preincubated for 10 mins measured after 50 mins by luciferase reporter gene assay
+CHEMBL612545,None,ACS Med. Chem. Lett.,2011,8028691,IC50,None,Unchecked,CHEMBL1948065,BAO_0000019,4.16,Inhibition of Escherichia coli DNA gyrase-mediated supercoiling of relaxed pBR322 DNA
+CHEMBL612545,None,ACS Med. Chem. Lett.,2011,8028695,IC50,None,Unchecked,CHEMBL1948066,BAO_0000019,4.22,Inhibition of Escherichia coli topoisomerase 4-mediated relaxation of supercoiled pBR322 DNA

@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL392,Homo sapiens,Bioorg. Med. Chem. Lett.,2009,2670891,IC50,None,A549,CHEMBL1035402,BAO_0000219,6.42,Antiproliferative activity against human A549 cells after 72 hrs
+CHEMBL387,Homo sapiens,Bioorg. Med. Chem. Lett.,2009,2671245,IC50,None,MCF7,CHEMBL1035403,BAO_0000219,6.53,Antiproliferative activity against human MCF7 cells after 72 hrs

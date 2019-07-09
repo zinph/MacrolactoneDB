@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL399,Homo sapiens,Eur. J. Med. Chem.,2015,15198877,IC50,None,HeLa,CHEMBL3411897,BAO_0000219,4.55,Cytotoxicity against human HeLa cells after 48 hrs by MTT assay
+CHEMBL392,Homo sapiens,Eur. J. Med. Chem.,2015,15198896,IC50,None,A549,CHEMBL3411898,BAO_0000219,5.0,Cytotoxicity against human A549 cells after 48 hrs by MTT assay
+CHEMBL3879801,None,Eur. J. Med. Chem.,2015,15200101,IC50,None,NON-PROTEIN TARGET,CHEMBL3411899,BAO_0000219,4.82,Cytotoxicity against human PC3 cells after 48 hrs by MTT assay
+CHEMBL612558,None,Eur. J. Med. Chem.,2015,15200105,IC50,None,ADMET,CHEMBL3411900,BAO_0000219,4.01,Cytotoxicity against human FR2 cells after 48 hrs by MTT assay

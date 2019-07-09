@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5007,Mus musculus,None,None,11358539,IC50,None,Zinc finger protein GLI1,CHEMBL1963971,BAO_0000019,4.93,PubChem BioAssay. Dose response confirmation of uHTS antagonist hits from Gli-SUFU in a luminescent reporter assay. (Class of assay: confirmatory) 

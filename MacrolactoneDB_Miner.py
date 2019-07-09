@@ -50,11 +50,11 @@ class MacrolactoneDB_Miner:
             df = df
         else:
             if min_RS!='dc' and max_RS!='dc':
-                df = df[(df['LargestRS'] >= min_RS) & (df['LargestRS'] <= max_RS)]
+                df = df[(df['SmallestRS'] >= min_RS) & (df['LargestRS'] <= max_RS)]
             elif min_RS=='dc' and max_RS:
                 df = df[df['LargestRS'] <= max_RS]
             elif max_RS=='dc' and min_RS:
-                df = df[df['LargestRS'] >= min_RS]
+                df = df[df['SmallestRS'] >= min_RS]
         return set(df['InChI Keys'].unique())
 
     def limit_SlogP(self, df, min_SlogP, max_SlogP):
@@ -181,12 +181,22 @@ class MacrolactoneDB_Miner:
                 df = df[df['naRing'] >= min_naRing]
         return set(df['InChI Keys'].unique())
 
+    def limit_activity_reported(self, df, activity='dc'):
+        if activity.lower() == 'yes' or activity.lower() == 'y' or activity == 1:
+            df = df[df['activity_reported'].astype(str).str.contains('yes')]
+        elif activity.lower() =='no' or activity.lower() =='n' or activity == 0:
+            df = df[df['activity_reported'].astype(str).str.contains('yes')]
+        else:
+            df = df
+        return set(df['InChI Keys'].unique())
+
     def frame_manage(self):
         PandasTools.AddMoleculeColumnToFrame(self.filtered_df,'smiles','structures')
         structures = self.filtered_df['structures']
         df = self.filtered_df.drop(columns=['structures'])
         df.insert(0, 'structures', structures)
-        df = df[['ChEMBL_IDs','structures',"target_organism","target_molecule_pref_name",'# Known Targets','Known Targets','smiles']]
+        # df = df[['ChEMBL_IDs','structures',"target_organism","target_molecule_pref_name",'# Known Targets','Known Targets','smiles']]
+        df = df[['IDs', 'structures', 'molecule_pref_name', '# Target Organisms', 'Target Organisms', '# Known Targets', 'Known Targets', 'target_pref_name']]
         df = df.sort_values(by='# Known Targets', ascending=False, na_position='last')
         return df
 
@@ -201,8 +211,9 @@ class MacrolactoneDB_Miner:
         nFRing_inchi = self.limit_nFusedRing(self.df, self.command['nFRing_min'], self.command['nFRing_max'])
         core_ester_inchi = self.limit_core_ester(self.df, self.command['core_ester_min'], self.command['core_ester_max'])
         naRing_inchi = self.limit_naRing(self.df, self.command['naRing_min'], self.command['naRing_max'])
+        activity_reported_inchi = self.limit_activity_reported(self.df, self.command['activity_reported'])
 
-        sets = [RS_inchi, MW_inchi, nRing_inchi, Lipinski_inchi, nG12Ring_inchi,SlogP_inchi,Sugars_inchi,nFRing_inchi,core_ester_inchi,naRing_inchi]
+        sets = [RS_inchi, MW_inchi, nRing_inchi, Lipinski_inchi, nG12Ring_inchi,SlogP_inchi,Sugars_inchi,nFRing_inchi,core_ester_inchi,naRing_inchi,activity_reported_inchi]
         self.filtered_inchi = list(set.intersection(*sets))
         self.filtered_df = self.df.loc[self.df['InChI Keys'].isin(self.filtered_inchi)]
         # print(filtered_df.shape[0], ' compouds have been compiled based on your filters.')

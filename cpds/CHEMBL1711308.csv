@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1795089,Human herpesvirus 4 (strain B95-8),None,None,7471827,AC50,None,Latent membrane protein 1,CHEMBL1794384,BAO_0000219,4.52,PUBCHEM_BIOASSAY: TES1 - eGFP vs TES2 -dsRED Pathway Differentiation Measured in Cell-Based System Using Imaging - 2122-04_Inhibitor_Dose_CherryPick_Activity. (Class of assay: confirmatory) [Related pubchem assays (depositor defined):AID504586]

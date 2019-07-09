@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1936,Homo sapiens,ACS Med. Chem. Lett.,2011,5152446,IC50,None,Stem cell growth factor receptor,CHEMBL1656374,BAO_0000357,5.12,Inhibition of cKIT by TR-FRET based LanthaScreen assay
+CHEMBL612545,None,ACS Med. Chem. Lett.,2011,5152451,IC50,None,Unchecked,CHEMBL1656379,BAO_0000019,6.75,Inhibition of PDGFRalpha V561D mutant by TR-FRET based LanthaScreen assay
+CHEMBL279,Homo sapiens,ACS Med. Chem. Lett.,2011,5152454,IC50,None,Vascular endothelial growth factor receptor 2,CHEMBL1656382,BAO_0000357,6.72,Inhibition of VEGFR2 by TR-FRET based LanthaScreen assay

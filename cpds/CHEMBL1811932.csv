@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612856,Plasmodium falciparum K1,J. Nat. Prod.,2011,6319295,IC50,None,Plasmodium falciparum (isolate K1 / Thailand),CHEMBL1817090,BAO_0000218,5.51,Antiplasmodial activity against multi drug-resistant Plasmodium falciparum K1 infected in human type A+ erythrocytes assessed as inhibition of [G-3H]hypoxanthine incorporation after 42 hrs by scintillation counting

@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem.,2007,2056503,Ki,None,Unchecked,CHEMBL925138,BAO_0000019,8.05,Inhibition of trypsin
+CHEMBL612545,None,J. Nat. Prod.,2008,2151483,IC50,None,Unchecked,CHEMBL930444,BAO_0000019,8.02,Inhibition of trypsin
+CHEMBL612545,None,J. Nat. Prod.,2005,2642223,IC50,None,Unchecked,CHEMBL1036244,BAO_0000019,9.0,Inhibition of trypsin
+CHEMBL612545,None,J. Nat. Prod.,2010,3351735,IC50,None,Unchecked,CHEMBL1173908,BAO_0000019,8.0,Inhibition of bovine trypsin

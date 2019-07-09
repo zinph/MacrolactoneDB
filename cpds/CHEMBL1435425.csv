@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1947,Homo sapiens,None,None,4017176,Potency,None,Thyroid hormone receptor beta-1,CHEMBL1613776,BAO_0000019,4.5,PUBCHEM_BIOASSAY: Total Fluorescence Counterscreen for Inhibitors of the Interaction of Thyroid Hormone Receptor and Steroid Receptor Coregulator 2. (Class of assay: confirmatory) 

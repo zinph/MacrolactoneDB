@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Med. Chem.,1977,14611138,IC50,None,Unchecked,CHEMBL3257106,BAO_0000019,5.46,Displacement of [14C]erythromycin from Escherichia coli ribosomes after 30 mins by scintillation spectrometer analysis

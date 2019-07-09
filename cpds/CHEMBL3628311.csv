@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL394,Homo sapiens,Bioorg. Med. Chem.,2015,15750953,IC50,None,HCT-116,CHEMBL3632098,BAO_0000219,5.3,Antiproliferative activity against human HCT116 cells assessed as cell viability incubated for 72 hrs by coulter counter method

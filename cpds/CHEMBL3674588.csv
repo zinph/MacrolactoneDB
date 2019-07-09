@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2855,Rattus norvegicus,None,2013,17604023,IC50,None,Protein kinase C alpha,CHEMBL3705296,BAO_0000357,7.52,Binding Assay: Binding affinity of protein kinase C (PKC).

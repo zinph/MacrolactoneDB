@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4302,Homo sapiens,Anticancer Drugs,1996,11000817,EC50,None,P-glycoprotein 1,CHEMBL2077346,BAO_0000219,7.22,TP_TRANSPORTER: increase in Calcein-AM intracellular accumulation (Calcein-AM: 0.25 uM) in MDR-P388 cells
+CHEMBL4302,Homo sapiens,Anticancer Drugs,1996,11000819,EC50,None,P-glycoprotein 1,CHEMBL2077115,BAO_0000219,6.66,TP_TRANSPORTER: increase in Calcein-AM intracellular accumulation (Calcein-AM: 0.25 uM) in MDR-CEM cells

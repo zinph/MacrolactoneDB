@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL385,Homo sapiens,J. Nat. Prod.,2015,15621540,IC50,None,K562,CHEMBL3584281,BAO_0000219,5.0,Cytotoxicity against human K562 cells assessed as reduction in cell viability incubated for 72 hrs by MTT method
+CHEMBL612794,Homo sapiens,J. Nat. Prod.,2015,15621542,IC50,None,U-937,CHEMBL3584280,BAO_0000219,5.11,Cytotoxicity against human U937 cells assessed as reduction in cell viability incubated for 72 hrs by MTT method

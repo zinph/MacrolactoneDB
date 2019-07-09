@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4977,Homo sapiens,J. Nat. Prod.,2011,6346669,IC50,GRASSYPEPTOLIDES F,Proto-oncogene c-JUN,CHEMBL1827858,BAO_0000219,5.28,Inhibition of AP1 expressed in HEK293T cells coexpressing beta-lactamase pre-incubated 1 hr before TPA addition measured 18 hrs post TPA challenge by fluorimetric assay

@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614247,Homo sapiens,Bioorg. Med. Chem. Lett.,2006,1767248,IC50,TUBEIMOSIDE V,U-87 MG,CHEMBL910864,BAO_0000219,5.44,Antiproliferative activity against human U87MG cell line by MTT assay

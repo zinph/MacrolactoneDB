@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,None,None,10324016,AC50,None,Unchecked,CHEMBL1963913,BAO_0000219,5.22,PUBCHEM_BIOASSAY: Schnurri-3 Inhibitors: specific inducers of adult bone formation Measured in Cell-Based System Using Plate Reader - 2134-01_Inhibitor_Dose_CherryPick_Activity. (Class of assay: confirmatory) 
+CHEMBL612545,None,None,None,10621174,AC50,None,Unchecked,CHEMBL1963999,BAO_0000219,5.24,PUBCHEM_BIOASSAY: Shn3: Dual-Go Shn3RL cells Measured in Cell-Based System Using Plate Reader - 2134-02_Inhibitor_Dose_CherryPick_Activity. (Class of assay: confirmatory) 

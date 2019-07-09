@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL395,Homo sapiens,Bioorg. Med. Chem.,2013,13400658,IC50,ISOSWINHOLIDE A,HepG2,CHEMBL2416159,BAO_0000219,7.46,Antiproliferative activity against human HepG2 cells after 48 hrs by MTT assay

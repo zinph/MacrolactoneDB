@@ -1,0 +1,10 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614740,Homo sapiens,J. Med. Chem.,2003,112117,IC50,RORIDIN L,NCI-H226,CHEMBL747940,BAO_0000219,7.04,In vitro antitumor activity against NSCL NCI-H226 tumor cell lines
+CHEMBL614387,Homo sapiens,J. Med. Chem.,2003,112118,IC50,RORIDIN L,NCI-H522,CHEMBL745716,BAO_0000219,7.68,In vitro antitumor activity against NSCL NCI-H522 tumor cell lines
+CHEMBL614561,Homo sapiens,J. Med. Chem.,2003,112119,IC50,RORIDIN L,COLO 205,CHEMBL656817,BAO_0000219,7.89,In vitro antitumor activity against colon COLO 205 tumor cell lines
+CHEMBL614317,Homo sapiens,J. Med. Chem.,2003,112122,IC50,RORIDIN L,M14,CHEMBL713480,BAO_0000219,7.62,In vitro antitumor activity against melanoma M14 tumor cell lines
+CHEMBL614917,Homo sapiens,J. Med. Chem.,2003,112123,IC50,RORIDIN L,SK-MEL-2,CHEMBL805028,BAO_0000219,7.62,In vitro antitumor activity against melanoma SK-MEL-2 tumor cell lines
+CHEMBL614610,Homo sapiens,J. Med. Chem.,2003,112124,IC50,RORIDIN L,UACC-62,CHEMBL815363,BAO_0000219,7.75,In vitro antitumor activity against melanoma UACC-62 tumor cell lines
+CHEMBL614516,Homo sapiens,J. Med. Chem.,2003,112125,IC50,RORIDIN L,A498,CHEMBL624425,BAO_0000219,7.72,In vitro antitumor activity against renal A498 tumor cell lines
+CHEMBL614697,Homo sapiens,J. Med. Chem.,2003,112128,IC50,RORIDIN L,MDA-MB-435,CHEMBL709620,BAO_0000219,7.7,In vitro antitumor activity against breast MDA-MB-435 tumor cell lines
+CHEMBL614078,Homo sapiens,J. Med. Chem.,2003,112129,IC50,RORIDIN L,MDA-N,CHEMBL877233,BAO_0000219,7.68,In vitro antitumor activity against breast MDA-N tumor cell lines

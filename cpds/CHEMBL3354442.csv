@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614908,Homo sapiens,Bioorg. Med. Chem. Lett.,2015,14982092,IC50,None,SF-295,CHEMBL3376032,BAO_0000219,6.66,Cytotoxicity against human SF295 cells assessed as growth inhibition after 72 hrs by MTT assay
+CHEMBL3879801,None,Bioorg. Med. Chem. Lett.,2015,14982094,IC50,None,NON-PROTEIN TARGET,CHEMBL3376031,BAO_0000219,7.1,Cytotoxicity against human PC3 cells assessed as growth inhibition after 72 hrs by MTT assay
+CHEMBL400,Homo sapiens,Bioorg. Med. Chem. Lett.,2015,14982096,IC50,None,MDA-MB-231,CHEMBL3376030,BAO_0000219,7.18,Cytotoxicity against human MDA-MB-231 cells assessed as growth inhibition after 72 hrs by MTT assay
+CHEMBL614733,None,Bioorg. Med. Chem. Lett.,2015,14982098,IC50,None,NCI-H292,CHEMBL3376029,BAO_0000219,6.91,Cytotoxicity against human NCI-H292 cells assessed as growth inhibition after 72 hrs by MTT assay

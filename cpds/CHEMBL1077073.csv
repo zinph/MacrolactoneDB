@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL383,Homo sapiens,J. Nat. Prod.,2010,3194338,IC50,SARCANDROLIDE C,HL-60,CHEMBL1115924,BAO_0000219,5.07,Cytotoxicity against human HL60 cells after 72 hrs by MTT assay
+CHEMBL392,Homo sapiens,J. Nat. Prod.,2010,3194341,IC50,SARCANDROLIDE C,A549,CHEMBL1115925,BAO_0000219,5.33,Cytotoxicity against human A549 cells after 72 hrs by SRB assay

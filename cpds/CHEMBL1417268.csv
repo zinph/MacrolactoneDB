@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4159,Homo sapiens,None,None,3709704,Potency,None,Endoplasmic reticulum-associated amyloid beta-peptide-binding protein,CHEMBL1613910,BAO_0000019,5.5,"PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors of HSD17B4, hydroxysteroid (17-beta) dehydrogenase 4. (Class of assay: confirmatory) "
+CHEMBL2903,Homo sapiens,None,None,4464672,Potency,None,Arachidonate 15-lipoxygenase,CHEMBL1614240,BAO_0000019,5.7,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors of 15-hLO (15-human lipoxygenase). (Class of assay: confirmatory) 

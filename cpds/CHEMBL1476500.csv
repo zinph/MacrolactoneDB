@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1293303,Influenza A virus,None,None,4451410,Potency,None,Nonstructural protein 1,CHEMBL1614236,BAO_0000019,5.2,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors of Influenza NS1 Protein Function. (Class of assay: confirmatory) 

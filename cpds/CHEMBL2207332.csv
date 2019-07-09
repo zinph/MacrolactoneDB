@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL387,Homo sapiens,Bioorg. Med. Chem. Lett.,2012,12192929,IC50,None,MCF7,CHEMBL2210883,BAO_0000219,5.43,Cytotoxicity against human MCF7 cells assessed as cell viability after 72 hrs by celltiter-blue assay
+CHEMBL392,Homo sapiens,Bioorg. Med. Chem. Lett.,2012,12192932,IC50,None,A549,CHEMBL2210884,BAO_0000219,5.97,Cytotoxicity against human A549 cells assessed as cell viability after 72 hrs by celltiter-blue assay
+CHEMBL385,Homo sapiens,Bioorg. Med. Chem. Lett.,2012,12192934,IC50,None,K562,CHEMBL2210882,BAO_0000219,6.03,Cytotoxicity against human K562 cells assessed as cell viability after 72 hrs by celltiter-blue assay

@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614309,None,Bioorg. Med. Chem. Lett.,1998,1024721,IC50,None,T-cells,CHEMBL812374,BAO_0000219,8.72,Immunosuppressive activity was determined as the ability to inhibit T cell proliferation.
+CHEMBL1902,Homo sapiens,Bioorg. Med. Chem. Lett.,1998,1024722,EC50,None,FK506-binding protein 1A,CHEMBL678154,BAO_0000357,7.52,Binding affinity for FK506 binding protein 12 using [3H]-dihydro FK-506 radioligand was determined
+CHEMBL614309,None,Bioorg. Med. Chem. Lett.,1994,1165562,IC50,None,T-cells,CHEMBL812376,BAO_0000219,8.72,In vitro evaluation for immunosuppressive activity against proliferation of antigen stimulated murine splenic T cells

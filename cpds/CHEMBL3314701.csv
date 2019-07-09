@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL613107,Homo sapiens,J. Nat. Prod.,2014,15027764,IC50,None,PBMC,CHEMBL3379265,BAO_0000219,4.48,Immunosuppressive activity in anti-CD3/anti-CD28-induced human PBMC after 96 hrs by flow cytometry
+CHEMBL613107,Homo sapiens,J. Nat. Prod.,2014,15027770,IC50,None,PBMC,CHEMBL3379266,BAO_0000219,4.25,Cytotoxicity against human PBMC after 96 hrs by flow cytometry

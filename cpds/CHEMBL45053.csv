@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3045,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,1197025,Ki,None,Protein kinase C beta,CHEMBL768242,BAO_0000357,7.44,Displacement of [3H]PDBu from protein kinase C beta C1b domain
+CHEMBL2996,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,1197028,Ki,None,Protein kinase C delta,CHEMBL767267,BAO_0000357,7.07,Displacement of [3H]PDBu from protein kinase C delta C1a domain
+CHEMBL2996,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,1197029,Ki,None,Protein kinase C delta,CHEMBL769103,BAO_0000357,8.2,Displacement of [3H]PDBu from protein kinase C delta C1b domain
+CHEMBL3582,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,1197030,Ki,None,Protein kinase C epsilon,CHEMBL772743,BAO_0000357,7.26,Displacement of [3H]PDBu from protein kinase C epsilon C1b domain
+CHEMBL3616,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,1197031,Ki,None,Protein kinase C eta,CHEMBL772756,BAO_0000357,7.15,Displacement of [3H]PDBu from protein kinase C eta C1b domain
+CHEMBL3920,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,1197032,Ki,None,Protein kinase C theta,CHEMBL772803,BAO_0000357,7.62,Displacement of [3H]PDBu from protein kinase C theta-C1B domain

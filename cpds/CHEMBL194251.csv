@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614075,Homo sapiens,J. Med. Chem.,2005,1605176,IC50,None,1A9,CHEMBL884325,BAO_0000219,7.82,Inhibitory concentration against ovarian carcinoma 1A9 cell growth
+CHEMBL614509,Homo sapiens,J. Med. Chem.,2005,1605177,IC50,None,1A9/ptx-10,CHEMBL873571,BAO_0000219,7.28,Inhibitory concentration against beta-tubulin mutant 1A9PTX10 cell growth
+CHEMBL613858,Homo sapiens,J. Med. Chem.,2005,1605178,IC50,None,1A9/ptx-22,CHEMBL873570,BAO_0000219,8.3,Inhibitory concentration against beta-tubulin mutant 1A9PTX22 cell line
+CHEMBL614075,Homo sapiens,J. Med. Chem.,2005,1614881,IC50,None,1A9,CHEMBL884325,BAO_0000219,7.82,Inhibitory concentration against ovarian carcinoma 1A9 cell growth
+CHEMBL614509,Homo sapiens,J. Med. Chem.,2005,1614882,IC50,None,1A9/ptx-10,CHEMBL873507,BAO_0000219,7.28,Inhibitory concentration against beta-tubulin mutant 1A9PTX10 cell growth
+CHEMBL613858,Homo sapiens,J. Med. Chem.,2005,1614883,IC50,None,1A9/ptx-22,CHEMBL884056,BAO_0000219,8.3,Inhibitory concentration against beta-tubulin mutant 1A9PTX22 cell line

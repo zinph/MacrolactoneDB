@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612557,Mus musculus,Bioorg. Med. Chem. Lett.,2012,8023305,IC50,FOLATE DIDEMNIN B,RAW264.7,CHEMBL1948072,BAO_0000219,7.89,Cytotoxicity against mouse RAW264.7 cells incubated for 5 hrs followed by replacement with fresh media measured after 72 hrs by XTT assay
+CHEMBL612557,Mus musculus,Bioorg. Med. Chem. Lett.,2012,8023308,IC50,FOLATE DIDEMNIN B,RAW264.7,CHEMBL1948095,BAO_0000219,8.3,Antiinflammatory activity in mouse RAW264.7 cells assessed as inhibition of LPS-induced TNFalpha production after 72 hrs by XTT assay

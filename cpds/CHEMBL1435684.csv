@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3622,Homo sapiens,None,None,4015453,Potency,None,Cytochrome P450 2C19,CHEMBL1613777,BAO_0000357,6.8,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors and Substrates of Cytochrome P450 2C19. (Class of assay: confirmatory) [Related pubchem assays: 410 ]
+CHEMBL3622,Homo sapiens,None,None,6056747,AC50,None,Cytochrome P450 2C19,CHEMBL1741323,BAO_0000019,6.8,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp2c19 Compounds with AC50 equal or less than 10 uM are considered active

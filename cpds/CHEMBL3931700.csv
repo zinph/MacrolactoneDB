@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3587,Homo sapiens,None,2009,16880695,IC50,None,Dual specificity mitogen-activated protein kinase kinase 1,CHEMBL3880853,BAO_0000357,6.76,Inhibition of MEK1 (unknown origin) using ERK2 as substrate after 40 mins by ELISA

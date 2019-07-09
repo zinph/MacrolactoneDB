@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL394,Homo sapiens,ACS Med. Chem. Lett.,2011,10869873,IC50,APRATOXIN S4,HCT-116,CHEMBL2025198,BAO_0000219,8.94,Cytotoxicity against human HCT116 cells after 48 hrs
+CHEMBL394,Homo sapiens,ACS Med. Chem. Lett.,2011,10869882,IC50,APRATOXIN S4,HCT-116,CHEMBL2025199,BAO_0000219,9.51,Inhibition of VEGF-A secretion in human HCT116 cells after 12 hrs
+CHEMBL394,Homo sapiens,J. Med. Chem.,2014,14596991,IC50,APRATOXIN S4,HCT-116,CHEMBL3243493,BAO_0000219,8.85,Antiproliferative activity against human HCT116 cells after 48 hrs by MTT assay
+CHEMBL1783,Homo sapiens,J. Med. Chem.,2014,14596999,IC50,APRATOXIN S4,Vascular endothelial growth factor A,CHEMBL3243495,BAO_0000219,9.49,Inhibition of VEGF-A production in human HCT116 cells after 12 hrs by alphaLISA assay

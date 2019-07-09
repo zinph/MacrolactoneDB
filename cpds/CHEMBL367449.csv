@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL372,Homo sapiens,Bioorg. Med. Chem. Lett.,1998,603880,IC50,None,Homo sapiens,CHEMBL824150,BAO_0000218,7.41,Compound was tested in vitro for inhibitory activity against human FKBP
+CHEMBL372,Homo sapiens,Bioorg. Med. Chem. Lett.,1998,603881,IC50,None,Homo sapiens,CHEMBL701819,BAO_0000218,9.14,Compound was tested in vitro for inhibition of human mixed lymphocyte proliferation (HuMLR)

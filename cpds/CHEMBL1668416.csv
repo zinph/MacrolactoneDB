@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1936,Homo sapiens,Bioorg. Med. Chem. Lett.,2011,5203025,IC50,None,Stem cell growth factor receptor,CHEMBL1670767,BAO_0000357,4.0,Inhibition of human recombinant c-kit kinase in cell free system after 30 mins
+CHEMBL2007,Homo sapiens,Bioorg. Med. Chem. Lett.,2011,5203032,IC50,None,Platelet-derived growth factor receptor alpha,CHEMBL1670765,BAO_0000357,4.85,Inhibition of human recombinant PDGFRalpha in cell free system after 60 mins
+CHEMBL1974,Homo sapiens,Bioorg. Med. Chem. Lett.,2011,5203048,IC50,None,Tyrosine-protein kinase receptor FLT3,CHEMBL1670772,BAO_0000219,4.92,Inhibition of human recombinant FLT-3 kinase expressed in insect cells after 90 mins
+CHEMBL279,Homo sapiens,Bioorg. Med. Chem. Lett.,2011,5203074,IC50,None,Vascular endothelial growth factor receptor 2,CHEMBL1670833,BAO_0000219,4.09,Inhibition of human recombinant VEGFR2 expressed in Sf9 cells after 60 mins
+CHEMBL397,Homo sapiens,Bioorg. Med. Chem. Lett.,2011,5203089,IC50,None,Jurkat,CHEMBL1670835,BAO_0000219,5.02,Antiproliferative activity against human Jurkat cells after 24 hrs by celltiter glo assay
+CHEMBL397,Homo sapiens,Bioorg. Med. Chem. Lett.,2011,5203099,IC50,None,Jurkat,CHEMBL1670836,BAO_0000219,5.06,Antiproliferative activity against human Jurkat cells after 48 hrs by celltiter glo assay

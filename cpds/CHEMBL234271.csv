@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612588,Homo sapiens,Bioorg. Med. Chem. Lett.,2007,1958520,IC50,None,ASPC1,CHEMBL892077,BAO_0000219,5.68,Cytotoxicity against human AsPC1 cells after 72 hrs by MTT assay
+CHEMBL614285,Homo sapiens,Bioorg. Med. Chem. Lett.,2007,1958526,IC50,None,DLD-1,CHEMBL892078,BAO_0000219,6.1,Cytotoxicity against human DLD1 cells after 72 hrs by MTT assay
+CHEMBL614139,Homo sapiens,Bioorg. Med. Chem. Lett.,2007,1958532,IC50,None,PANC-1,CHEMBL892079,BAO_0000219,5.82,Cytotoxicity against human PANC1 cells after 72 hrs by MTT assay
+CHEMBL614877,None,Bioorg. Med. Chem. Lett.,2007,1958538,IC50,None,NCI,CHEMBL892080,BAO_0000219,5.68,Cytotoxicity against human Taxol-adriamycin-resistant NCI cells after 72 hrs by MTT assay

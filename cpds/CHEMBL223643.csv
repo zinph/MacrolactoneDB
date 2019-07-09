@@ -1,0 +1,15 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL396,Homo sapiens,J. Med. Chem.,2007,1819057,IC50,VALINOMYCIN,NCI-H460,CHEMBL917611,BAO_0000219,9.0,Antiproliferative activity against H460 cells after 72 hrs by MTT assay
+CHEMBL399,Homo sapiens,J. Med. Chem.,2007,1819067,IC50,VALINOMYCIN,HeLa,CHEMBL917612,BAO_0000219,9.0,Antiproliferative activity against HeLa cells after 72 hrs by MTT assay
+CHEMBL614725,Homo sapiens,J. Med. Chem.,2007,1819079,IC50,VALINOMYCIN,MIA PaCa-2,CHEMBL917613,BAO_0000219,9.0,Antiproliferative activity against MiaPaCa2 cells after 72 hrs by MTT assay
+CHEMBL612262,Homo sapiens,J. Med. Chem.,2007,1819091,IC50,VALINOMYCIN,SW-620,CHEMBL917614,BAO_0000219,10.0,Antiproliferative activity against SW620 cells after 72 hrs by MTT assay
+CHEMBL387,Homo sapiens,J. Med. Chem.,2007,1819101,IC50,VALINOMYCIN,MCF7,CHEMBL917615,BAO_0000219,6.3,Antiproliferative activity against MCF7 cells after 72 hrs by MTT assay
+CHEMBL612575,SARS coronavirus,J. Med. Chem.,2007,1915974,EC50,VALINOMYCIN,SARS coronavirus,CHEMBL894319,BAO_0000218,5.79,Antiviral activity against SARS coronavirus in Vero E6 cells assessed as inhibition of viral replication by ELISA
+CHEMBL6020,Homo sapiens,Pharm. Res.,2003,11000501,IC50,VALINOMYCIN,Bile salt export pump,CHEMBL2076226,BAO_0000219,5.14,TP_TRANSPORTER: increase in dihydrofluorescein intracellular accumulation (dihydrofluorescein: 1 uM) in SK-E2 cells (expressing BSEP)
+CHEMBL4302,Homo sapiens,Chem. Res. Toxicol.,2001,11001405,IC50,VALINOMYCIN,P-glycoprotein 1,CHEMBL2076240,BAO_0000219,5.5,TP_TRANSPORTER: inhibition of Daunorubicin efflux in NIH-3T3-G185 cells
+CHEMBL614004,Homo sapiens,ACS Med. Chem. Lett.,2013,13862490,IC50,VALINOMYCIN,A2780,CHEMBL3100352,BAO_0000219,5.66,Cytotoxicity against human A2780 cells after 72 hrs by MTT assay
+CHEMBL387,Homo sapiens,ACS Med. Chem. Lett.,2013,13862491,IC50,VALINOMYCIN,MCF7,CHEMBL3100350,BAO_0000219,5.75,Cytotoxicity against human MCF7 cells after 72 hrs by MTT assay
+CHEMBL395,Homo sapiens,ACS Med. Chem. Lett.,2013,13862498,IC50,VALINOMYCIN,HepG2,CHEMBL3100351,BAO_0000219,9.1,Cytotoxicity against human HepG2 cells after 72 hrs by MTT assay
+CHEMBL614657,Rattus norvegicus,ACS Med. Chem. Lett.,2013,13862499,IC50,VALINOMYCIN,C6,CHEMBL3100349,BAO_0000219,9.4,Cytotoxicity against rat C6 cells after 72 hrs by MTT assay
+CHEMBL6020,Homo sapiens,Toxicol Sci,2010,18051776,IC50,VALINOMYCIN,Bile salt export pump,CHEMBL4011663,BAO_0000019,5.8,
+CHEMBL6020,Homo sapiens,Toxicol Sci,2013,18129086,IC50,VALINOMYCIN,Bile salt export pump,CHEMBL4028921,BAO_0000219,5.81,Inhibition of human BSEP overexpressed in Sf9 cell membrane vesicles assessed as uptake of [3H]-taurocholate in presence of ATP measured after 15 to 20 mins by membrane vesicle transport assay

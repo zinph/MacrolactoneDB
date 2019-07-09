@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1293227,Homo sapiens,None,None,3606516,Potency,None,Ubiquitin carboxyl-terminal hydrolase 2,CHEMBL1614474,BAO_0000019,4.55,

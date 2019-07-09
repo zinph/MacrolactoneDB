@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL376,Rattus norvegicus,J. Med. Chem.,1978,14708079,Kd,None,Rattus norvegicus,CHEMBL3281724,BAO_0000218,7.68,Antivasopressor activity in iv dosed phenoxybenzamine treated rat assessed as inhibition of arginine-vasopressin-induced effect

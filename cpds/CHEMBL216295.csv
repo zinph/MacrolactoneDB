@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4077,Mus musculus,J. Med. Chem.,2004,940886,EC50,None,Melanocortin receptor 1,CHEMBL717325,BAO_0000019,10.7,Effective concentration against mouse Melanocortin 1 receptor
+CHEMBL4774,Mus musculus,J. Med. Chem.,2004,940887,EC50,None,Melanocortin receptor 3,CHEMBL718854,BAO_0000019,9.8,Effective concentration against mouse Melanocortin 3 receptor
+CHEMBL3719,Mus musculus,J. Med. Chem.,2004,940888,EC50,None,Melanocortin receptor 4,CHEMBL717600,BAO_0000019,10.06,Effective concentration against mouse melanocortin MC4 receptor
+CHEMBL4489,Mus musculus,J. Med. Chem.,2004,940889,EC50,None,Melanocortin receptor 5,CHEMBL884505,BAO_0000019,9.8,Effective concentration against mouse Melanocortin 5 receptor

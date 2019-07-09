@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2096984,Sus scrofa,Bioorg. Med. Chem.,2007,2056502,IC50,None,Pancreatic elastase,CHEMBL925137,BAO_0000224,6.57,Inhibition of porcine pancreatic elastase
+CHEMBL248,Homo sapiens,Bioorg. Med. Chem.,2007,2056508,Ki,None,Leukocyte elastase,CHEMBL925136,BAO_0000357,8.0,Inhibition of human leukocyte elastase

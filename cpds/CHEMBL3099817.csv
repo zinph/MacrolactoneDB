@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL395,Homo sapiens,ACS Med. Chem. Lett.,2013,13862492,IC50,None,HepG2,CHEMBL3100351,BAO_0000219,6.71,Cytotoxicity against human HepG2 cells after 72 hrs by MTT assay
+CHEMBL614657,Rattus norvegicus,ACS Med. Chem. Lett.,2013,13862493,IC50,None,C6,CHEMBL3100349,BAO_0000219,6.76,Cytotoxicity against rat C6 cells after 72 hrs by MTT assay

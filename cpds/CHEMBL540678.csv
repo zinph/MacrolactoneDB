@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4829,Homo sapiens,Bioorg. Med. Chem. Lett.,2009,2681739,Kd,None,Acetyl-CoA carboxylase 2,CHEMBL1055469,BAO_0000357,8.52,Binding affinity to human His-tagged acetyl-CoA-carboxylase biotin carboxylase domain

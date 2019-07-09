@@ -1,0 +1,9 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3920,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3504876,Ki,None,Protein kinase C theta,CHEMBL1260400,BAO_0000357,8.09,Inhibition of [3H]PDBu binding to PKCtheta C1B peptide
+CHEMBL3616,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3504877,Ki,None,Protein kinase C eta,CHEMBL1260399,BAO_0000357,7.92,Inhibition of [3H]PDBu binding to PKCeta C1B peptide
+CHEMBL3582,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3504878,Ki,None,Protein kinase C epsilon,CHEMBL1260398,BAO_0000357,7.43,Inhibition of [3H]PDBu binding to PKCepsilon C1B peptide
+CHEMBL2996,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3504879,Ki,None,Protein kinase C delta,CHEMBL1260397,BAO_0000357,8.01,Inhibition of [3H]PDBu binding to PKC delta C1B peptide
+CHEMBL2996,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3504880,Ki,None,Protein kinase C delta,CHEMBL1260396,BAO_0000357,6.89,Inhibition of [3H]PDBu binding to PKC delta C1A peptide
+CHEMBL2938,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3504881,Ki,None,Protein kinase C gamma,CHEMBL1260395,BAO_0000357,7.1,Inhibition of [3H]PDBu binding to PKC gamma C1A peptide
+CHEMBL3045,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3504882,Ki,None,Protein kinase C beta,CHEMBL1260394,BAO_0000357,6.85,Inhibition of [3H]PDBu binding to PKC beta C1A peptide
+CHEMBL299,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3504883,Ki,None,Protein kinase C alpha,CHEMBL1260393,BAO_0000357,6.92,Inhibition of [3H]PDBu binding to PKC alpha C1A peptide

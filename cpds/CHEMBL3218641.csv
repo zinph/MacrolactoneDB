@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,MedChemComm,2013,14548917,IC50,None,Unchecked,CHEMBL3223233,BAO_0000019,6.16,Inhibition of recombinant HA-tagged K-Ras G12V mutant (unknown origin) assessed as disruption of interaction with GST-tagged Raf-RBD after overnight incubation by HTRF assay
+CHEMBL612545,None,MedChemComm,2013,14548922,Kd,None,Unchecked,CHEMBL3223234,BAO_0000019,6.08,Binding affinity to K-Ras G12V mutant (unknown origin) after 2 hrs by fluorescence polarization-based spectrofluorimetric analysis

@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg Med Chem Lett,2017,17975868,IC50,None,Unchecked,CHEMBL3997068,BAO_0000219,8.52,Cytotoxicity against human HEK293 cells after 72 hrs by CellTiter blue staining based microscopic method
+CHEMBL612545,None,Bioorg Med Chem Lett,2017,17975871,IC50,None,Unchecked,CHEMBL3997069,BAO_0000219,7.11,Cytotoxicity against human A549 cells after 72 hrs by CellTiter blue staining based microscopic method
+CHEMBL612545,None,Bioorg Med Chem Lett,2017,17975874,IC50,None,Unchecked,CHEMBL3997070,BAO_0000219,7.54,Cytotoxicity against human LOXIMVI cells after 72 hrs by CellTiter blue staining based microscopic method
+CHEMBL612545,None,Bioorg Med Chem Lett,2017,17975877,IC50,None,Unchecked,CHEMBL3997071,BAO_0000219,7.28,Cytotoxicity against mouse L929 cells after 72 hrs by CellTiter blue staining based microscopic method

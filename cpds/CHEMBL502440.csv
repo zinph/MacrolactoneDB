@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4241,Rattus norvegicus,J. Nat. Prod.,2001,2197688,IC50,PUNICALIN,Squalene monooxygenase,CHEMBL947712,BAO_0000019,4.7,Inhibition of C-terminal hexahistidine-tagged rat recombinant squalene epoxidase without N-terminal putative membrane domain expressed in Escherichia coli

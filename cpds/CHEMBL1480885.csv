@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL340,Homo sapiens,None,None,4949243,Potency,None,Cytochrome P450 3A4,CHEMBL1614108,BAO_0000357,5.4,PUBCHEM_BIOASSAY: qHTS Assay for Activators of Cytochrome P450 3A4. (Class of assay: confirmatory) [Related pubchem assays: 410 ]
+CHEMBL340,Homo sapiens,None,None,5078592,Potency,None,Cytochrome P450 3A4,CHEMBL1613886,BAO_0000357,5.4,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4. (Class of assay: confirmatory) [Related pubchem assays: 410 ]
+CHEMBL340,Homo sapiens,None,None,6022699,AC50,None,Cytochrome P450 3A4,CHEMBL1741324,BAO_0000019,5.4,PUBCHEM_BIOASSAY: Cytochrome panel assay with activity outcomes. (Class of assay: other) Panel member name: p450-cyp3a4 Compounds with AC50 equal or less than 10 uM are considered active

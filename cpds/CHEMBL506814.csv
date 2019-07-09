@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4241,Rattus norvegicus,J. Nat. Prod.,2001,2197687,IC50,PUNICALAGIN,Squalene monooxygenase,CHEMBL947712,BAO_0000019,4.4,Inhibition of C-terminal hexahistidine-tagged rat recombinant squalene epoxidase without N-terminal putative membrane domain expressed in Escherichia coli
+CHEMBL4822,Homo sapiens,Bioorg. Med. Chem. Lett.,2014,14734383,IC50,PUNICALAGIN,Beta-secretase 1,CHEMBL3293240,BAO_0000357,6.39,Inhibition of BACE1 (unknown origin)

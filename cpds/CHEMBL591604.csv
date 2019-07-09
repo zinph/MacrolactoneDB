@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL379,Hepatitis C virus,J. Med. Chem.,2010,3120458,IC50,None,Hepatitis C virus,CHEMBL1073035,BAO_0000218,8.52,Antiviral activity against HCV Con1 infected in human HuH7 cells assessed as inhibition of viral replication after 24 hrs by replicon assay in presence of 10% fetal bovine serum
+CHEMBL379,Hepatitis C virus,J. Med. Chem.,2010,3120483,IC50,None,Hepatitis C virus,CHEMBL1064409,BAO_0000218,7.64,Antiviral activity against HCV Con1 infected in human HuH7 cells assessed as inhibition of viral replication after 24 hrs by replicon assay in presence of 50% normal human serum

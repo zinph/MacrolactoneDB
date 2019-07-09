@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1293224,Homo sapiens,None,None,3944810,Potency,None,Microtubule-associated protein tau,CHEMBL1614502,BAO_0000019,7.55,
+CHEMBL1293224,Homo sapiens,None,None,4036518,Potency,None,Microtubule-associated protein tau,CHEMBL1614421,BAO_0000357,7.5,"PUBCHEM_BIOASSAY: qHTS for Inhibitors of Tau Fibril Formation, Thioflavin T Binding. (Class of assay: confirmatory) [Related pubchem assays: 596 ]"

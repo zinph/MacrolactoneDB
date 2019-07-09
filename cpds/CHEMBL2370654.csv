@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4844,Candida albicans,Bioorg. Med. Chem. Lett.,2001,983782,IC50,None,"Beta-1,3-glucan synthase",CHEMBL664611,BAO_0000357,8.3,"Inhibition of 1,3-beta-D-glucan synthase (GS) from candida albicans"

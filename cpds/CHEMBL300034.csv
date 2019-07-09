@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,Bioorg. Med. Chem. Lett.,2015,15771213,IC50,MONACTIN,NON-PROTEIN TARGET,CHEMBL3635801,BAO_0000219,8.0,Antiproliferative activity against human H522-T1 cells after 96 hrs by CellTitre-Glo luminescent assay
+CHEMBL613503,Homo sapiens,Bioorg. Med. Chem. Lett.,2015,15771216,IC50,MONACTIN,A2058,CHEMBL3635800,BAO_0000219,7.7,Antiproliferative activity against human A2058 cells after 96 hrs by CellTitre-Glo luminescent assay
+CHEMBL614004,Homo sapiens,Bioorg. Med. Chem. Lett.,2015,15771219,IC50,MONACTIN,A2780,CHEMBL3635799,BAO_0000219,6.89,Antiproliferative activity against human A2780 cells after 2 hrs by Alamar Blue assay

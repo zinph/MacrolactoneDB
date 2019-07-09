@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2770,Gallus gallus,Bioorg. Med. Chem. Lett.,2000,164455,IC50,BAFILOMYCIN A1,Adenosinetriphosphatase,CHEMBL750200,BAO_0000357,7.52,Compound was tested for inhibition of osteoclast vacuolar ATPase derived from chicken medullary bone
+CHEMBL4790,Homo sapiens,J. Med. Chem.,1998,312184,IC50,BAFILOMYCIN A1,Vacuolar ATP synthase subunit S1,CHEMBL812904,BAO_0000357,7.0,Compound was tested for inhibition of V-ATPase from Chicken osteoclasts (cOc)

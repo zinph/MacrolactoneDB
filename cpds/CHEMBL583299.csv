@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL240,Homo sapiens,J. Med. Chem.,2009,2924235,IC50,None,HERG,CHEMBL1042376,BAO_0000357,4.17,Inhibition of human ERG by patch-clamp assay
+CHEMBL612558,None,J. Med. Chem.,2009,2924245,Ki,None,ADMET,CHEMBL1042375,BAO_0000251,7.62,Inhibition of CYP3A in human liver microsomes assessed as hydroxymidazolam formation by time dependent inhibition assay

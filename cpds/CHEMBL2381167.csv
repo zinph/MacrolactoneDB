@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2996,Homo sapiens,Bioorg. Med. Chem.,2013,13303142,Ki,None,Protein kinase C delta,CHEMBL2384826,BAO_0000357,6.48,Inhibition of [3H]PDBu binding to PKCdelta-C1A domain peptide (unknown origin)
+CHEMBL2996,Homo sapiens,Bioorg. Med. Chem.,2013,13303172,Ki,None,Protein kinase C delta,CHEMBL2384827,BAO_0000357,8.01,Inhibition of [3H]PDBu binding to PKCdelta-C1B domain peptide (unknown origin)

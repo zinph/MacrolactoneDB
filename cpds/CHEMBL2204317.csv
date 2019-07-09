@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Med. Chem.,2011,12187796,Ki,None,Unchecked,CHEMBL2208595,BAO_0000019,8.92,Inhibition of HCV 3a NS3 protease
+CHEMBL379,Hepatitis C virus,J. Med. Chem.,2011,12187797,EC50,None,Hepatitis C virus,CHEMBL2208596,BAO_0000218,8.7,Antiviral activity against HCV by cell based replicon assay
+CHEMBL379,Hepatitis C virus,J. Med. Chem.,2011,12187798,Ki,None,Hepatitis C virus,CHEMBL2208598,BAO_0000218,10.54,Inhibition of HCV 1b NS3 protease

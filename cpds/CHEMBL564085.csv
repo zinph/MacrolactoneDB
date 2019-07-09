@@ -1,0 +1,10 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL340,Homo sapiens,J. Med. Chem.,2003,1159401,IC50,TROLEANDOMYCIN,Cytochrome P450 3A4,CHEMBL663577,BAO_0000357,4.21,Inhibition of recombinant human Cytochrome P450 3A4 with BFC [7-benzyloxy-4-trifluoromethylcoumarin] after 5 minutes
+CHEMBL340,Homo sapiens,J. Med. Chem.,2003,1159402,IC50,TROLEANDOMYCIN,Cytochrome P450 3A4,CHEMBL663574,BAO_0000357,4.48,Inhibition of recombinant human Cytochrome P450 3A4 with BFC [7-benzyloxy-4-trifluoromethylcoumarin] after 15 minutes
+CHEMBL340,Homo sapiens,J. Med. Chem.,2003,1159403,IC50,TROLEANDOMYCIN,Cytochrome P450 3A4,CHEMBL663575,BAO_0000357,4.7,Inhibition of recombinant human Cytochrome P450 3A4 using BFC [7-benzyloxy-4-trifluoromethylcoumarin] after 30 minutes
+CHEMBL340,Homo sapiens,J. Med. Chem.,2003,1159404,IC50,TROLEANDOMYCIN,Cytochrome P450 3A4,CHEMBL663576,BAO_0000357,4.8,Inhibition of recombinant human Cytochrome P450 3A4 with BFC [7-benzyloxy-4-trifluoromethylcoumarin] after 45 minutes
+CHEMBL340,Homo sapiens,Eur. J. Med. Chem.,2009,2686207,IC50,TROLEANDOMYCIN,Cytochrome P450 3A4,CHEMBL1063294,BAO_0000357,5.1,Inhibition of CYP3A4
+CHEMBL4302,Homo sapiens,Biochem. Biophys. Res. Commun.,2001,11001834,IC50,TROLEANDOMYCIN,P-glycoprotein 1,CHEMBL2076218,BAO_0000219,4.17,TP_TRANSPORTER: inhibition of Daunorubicin efflux in NIH-3T3-G185 cells
+CHEMBL4302,Homo sapiens,Biochem. Biophys. Res. Commun.,2001,11001863,IC50,TROLEANDOMYCIN,P-glycoprotein 1,CHEMBL2076214,BAO_0000219,4.11,TP_TRANSPORTER: inhibition of LDS-751 efflux in NIH-3T3-G185 cells
+CHEMBL4302,Homo sapiens,Biochem. Biophys. Res. Commun.,2001,11001886,IC50,TROLEANDOMYCIN,P-glycoprotein 1,CHEMBL2076213,BAO_0000219,4.06,TP_TRANSPORTER: inhibition of Rhodamine 123 efflux in NIH-3T3-G185 cells
+CHEMBL4302,Homo sapiens,Mol. Pharmacol.,2002,11003304,Ki,TROLEANDOMYCIN,P-glycoprotein 1,CHEMBL2076229,BAO_0000219,4.06,TP_TRANSPORTER: increase in Vinblastine intracellular accumulation in MDR1-expressing LLC-PK1 cells

@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL364,Plasmodium falciparum,Proc. Natl. Acad. Sci. U.S.A.,2008,3025542,EC50,NONACTIN,Plasmodium falciparum,CHEMBL1040691,BAO_0000218,6.36,NOVARTIS: Inhibition of Plasmodium falciparum 3D7 (drug-susceptible) proliferation in erythrocyte-based infection assay 
+CHEMBL364,Plasmodium falciparum,Proc. Natl. Acad. Sci. U.S.A.,2008,3031050,EC50,NONACTIN,Plasmodium falciparum,CHEMBL1040692,BAO_0000218,6.45,NOVARTIS: Inhibition of Plasmodium falciparum W2 (drug-resistant) proliferation in erythrocyte-based infection assay
+CHEMBL3879801,None,Bioorg. Med. Chem. Lett.,2015,15771214,IC50,NONACTIN,NON-PROTEIN TARGET,CHEMBL3635801,BAO_0000219,6.72,Antiproliferative activity against human H522-T1 cells after 96 hrs by CellTitre-Glo luminescent assay
+CHEMBL613503,Homo sapiens,Bioorg. Med. Chem. Lett.,2015,15771217,IC50,NONACTIN,A2058,CHEMBL3635800,BAO_0000219,6.58,Antiproliferative activity against human A2058 cells after 96 hrs by CellTitre-Glo luminescent assay
+CHEMBL614004,Homo sapiens,Bioorg. Med. Chem. Lett.,2015,15771220,IC50,NONACTIN,A2780,CHEMBL3635799,BAO_0000219,6.8,Antiproliferative activity against human A2780 cells after 2 hrs by Alamar Blue assay

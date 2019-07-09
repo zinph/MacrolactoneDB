@@ -1,0 +1,11 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614740,Homo sapiens,J. Med. Chem.,2003,138666,IC50,VERRUCARRIN M,NCI-H226,CHEMBL747940,BAO_0000219,7.48,In vitro antitumor activity against NSCL NCI-H226 tumor cell lines
+CHEMBL614561,Homo sapiens,J. Med. Chem.,2003,138668,IC50,VERRUCARRIN M,COLO 205,CHEMBL656817,BAO_0000219,8.15,In vitro antitumor activity against colon COLO 205 tumor cell lines
+CHEMBL612263,Homo sapiens,J. Med. Chem.,2003,138669,IC50,VERRUCARRIN M,HCT-15,CHEMBL684928,BAO_0000219,7.14,In vitro antitumor activity against colon HCT-15 tumor cell lines
+CHEMBL614317,Homo sapiens,J. Med. Chem.,2003,138670,IC50,VERRUCARRIN M,M14,CHEMBL713480,BAO_0000219,8.1,In vitro antitumor activity against melanoma M14 tumor cell lines
+CHEMBL614917,Homo sapiens,J. Med. Chem.,2003,138671,IC50,VERRUCARRIN M,SK-MEL-2,CHEMBL805028,BAO_0000219,7.43,In vitro antitumor activity against melanoma SK-MEL-2 tumor cell lines
+CHEMBL614610,Homo sapiens,J. Med. Chem.,2003,138672,IC50,VERRUCARRIN M,UACC-62,CHEMBL815363,BAO_0000219,7.24,In vitro antitumor activity against melanoma UACC-62 tumor cell lines
+CHEMBL614516,Homo sapiens,J. Med. Chem.,2003,138674,IC50,VERRUCARRIN M,A498,CHEMBL624425,BAO_0000219,7.28,In vitro antitumor activity against renal A498 tumor cell lines
+CHEMBL614886,Homo sapiens,J. Med. Chem.,2003,138675,IC50,VERRUCARRIN M,RXF 393,CHEMBL772391,BAO_0000219,7.08,In vitro antitumor activity against renal RXF 393 tumor cell lines
+CHEMBL614697,Homo sapiens,J. Med. Chem.,2003,138677,IC50,VERRUCARRIN M,MDA-MB-435,CHEMBL709620,BAO_0000219,7.85,In vitro antitumor activity against breast MDA-MB-435 tumor cell lines
+CHEMBL614078,Homo sapiens,J. Med. Chem.,2003,138678,IC50,VERRUCARRIN M,MDA-N,CHEMBL877233,BAO_0000219,7.85,In vitro antitumor activity against breast MDA-N tumor cell lines

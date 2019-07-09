@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2203,Homo sapiens,Bioorg. Med. Chem. Lett.,1995,856131,IC50,None,Motilin receptor,CHEMBL732794,BAO_0000357,6.81,Compound was tested for in vitro motilin receptor binding affinity
+CHEMBL2203,Homo sapiens,Bioorg. Med. Chem. Lett.,1995,856132,IC50,None,Motilin receptor,CHEMBL732795,BAO_0000357,6.77,Compound was tested for in vitro motilin receptor binding affinity after treatment with hydrochloric acid solution (pH 2.5)
+CHEMBL5306,Oryctolagus cuniculus,Bioorg. Med. Chem. Lett.,1994,1223408,IC50,None,Motilin receptor,CHEMBL879670,BAO_0000357,6.81,"Concentration required for in vitro motilin receptor binding, expressed as negative logarithm of IC50"
+CHEMBL5306,Oryctolagus cuniculus,Bioorg. Med. Chem. Lett.,1994,1223409,IC50,None,Motilin receptor,CHEMBL732797,BAO_0000357,6.77,Concentration required for in vitro acid stability with hydrochloric acid solution (pH 2.5 ) at room temperature for 2 hr by assaying the solution for motilin receptor binding

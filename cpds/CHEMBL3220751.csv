@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,MedChemComm,2012,14526292,EC50,None,NON-PROTEIN TARGET,CHEMBL3227191,BAO_0000219,6.69,Antiviral activity against Hepatitis C virus genotype 1b I389luc-ubi-neo/NS3-3'/5.1 subgenomic replicon infected in human Huh5-2 cells after 4 days by luciferase assay
+CHEMBL1949,Homo sapiens,MedChemComm,2012,14526318,IC50,None,Cyclophilin A,CHEMBL3227194,BAO_0000357,6.46,Inhibition of recombinant GST-tagged CypA (unknown origin)/HCV Con1 NS5A-His interaction after 16 hrs by ELISA

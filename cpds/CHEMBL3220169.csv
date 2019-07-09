@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL387,Homo sapiens,MedChemComm,2011,14545245,IC50,None,MCF7,CHEMBL3227872,BAO_0000219,4.72,Cytotoxicity in human MCF7 cells assessed as growth inhibition after 72 hrs by XTT assay
+CHEMBL3879801,None,MedChemComm,2011,14545249,IC50,None,NON-PROTEIN TARGET,CHEMBL3227869,BAO_0000219,4.94,Cytotoxicity in human JeKo1 cells assessed as growth inhibition after 72 hrs by XTT assay
+CHEMBL614177,Homo sapiens,MedChemComm,2011,14545250,IC50,None,MOLT-4,CHEMBL3227870,BAO_0000219,4.81,Cytotoxicity in human MOLT4 cells assessed as growth inhibition after 72 hrs by XTT assay
+CHEMBL390,Homo sapiens,MedChemComm,2011,14545251,IC50,None,PC-3,CHEMBL3227871,BAO_0000219,4.74,Cytotoxicity in human PC3 cells assessed as growth inhibition after 72 hrs by XTT assay
+CHEMBL614917,Homo sapiens,MedChemComm,2011,14545255,IC50,None,SK-MEL-2,CHEMBL3227868,BAO_0000219,4.97,Cytotoxicity in human SK-MEL-2 cells assessed as growth inhibition after 72 hrs by XTT assay

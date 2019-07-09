@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3663,Homo sapiens,Bioorg. Med. Chem. Lett.,1998,249047,IC50,None,Growth factor receptor-bound protein 2,CHEMBL677054,BAO_0000357,5.23,Inhibition of GST-Grb2 Tyrosine kinase SH2 domain binding to [3H]labeled-phosphopeptide (Ac-SpYVNK-NH-C(O)-CH2CH2H3)

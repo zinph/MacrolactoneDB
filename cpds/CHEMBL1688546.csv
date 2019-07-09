@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Antimicrob. Agents Chemother.,2009,5305335,Kd,KOSAN-1325,Unchecked,CHEMBL1695569,BAO_0000019,8.12,Displacement of [14C]-erythromycin from Escherichia coli K-12 70S ribosome after 10 mins by competitive binding assay

@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1963,Homo sapiens,None,None,3938415,Potency,None,Thyroid stimulating hormone receptor,CHEMBL1614361,BAO_0000019,5.5,PUBCHEM_BIOASSAY: qHTS Assay for Agonists of the Thyroid Stimulating Hormone Receptor. (Class of assay: confirmatory) 

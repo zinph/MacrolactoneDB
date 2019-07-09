@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2095194,Homo sapiens,Bioorg Med Chem Lett,2016,16671480,Ki,None,Coagulation factor VII/tissue factor,CHEMBL3855510,BAO_0000223,8.7,Inhibition of human TF-factor 7a (366 to 11 residues) using factor 10 as substrate after 60 mins

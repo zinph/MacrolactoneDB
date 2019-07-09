@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL254,Homo sapiens,None,2014,17652896,IC50,None,Phosphodiesterase 4A,CHEMBL3706219,BAO_0000019,6.06,

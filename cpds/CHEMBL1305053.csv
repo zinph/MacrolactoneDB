@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL6110,Schistosoma mansoni,None,None,4320116,Potency,None,Thioredoxin glutathione reductase,CHEMBL1614161,BAO_0000019,4.6,
+CHEMBL1293303,Influenza A virus,None,None,4426503,Potency,None,Nonstructural protein 1,CHEMBL1614236,BAO_0000019,5.1,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors of Influenza NS1 Protein Function. (Class of assay: confirmatory) 

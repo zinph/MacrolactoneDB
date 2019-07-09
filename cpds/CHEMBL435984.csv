@@ -1,0 +1,12 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614740,Homo sapiens,J. Med. Chem.,2003,126125,IC50,RORIDIN M,NCI-H226,CHEMBL747940,BAO_0000219,6.8,In vitro antitumor activity against NSCL NCI-H226 tumor cell lines
+CHEMBL614387,Homo sapiens,J. Med. Chem.,2003,126126,IC50,RORIDIN M,NCI-H522,CHEMBL745716,BAO_0000219,7.58,In vitro antitumor activity against NSCL NCI-H522 tumor cell lines
+CHEMBL394,Homo sapiens,J. Med. Chem.,2003,126127,IC50,RORIDIN M,HCT-116,CHEMBL686973,BAO_0000219,7.12,In vitro antitumor activity against colon HCT116 tumor cell lines
+CHEMBL612263,Homo sapiens,J. Med. Chem.,2003,126128,IC50,RORIDIN M,HCT-15,CHEMBL684928,BAO_0000219,6.32,In vitro antitumor activity against colon HCT-15 tumor cell lines
+CHEMBL614317,Homo sapiens,J. Med. Chem.,2003,126129,IC50,RORIDIN M,M14,CHEMBL713480,BAO_0000219,7.12,In vitro antitumor activity against melanoma M14 tumor cell lines
+CHEMBL614917,Homo sapiens,J. Med. Chem.,2003,126130,IC50,RORIDIN M,SK-MEL-2,CHEMBL805028,BAO_0000219,6.58,In vitro antitumor activity against melanoma SK-MEL-2 tumor cell lines
+CHEMBL614610,Homo sapiens,J. Med. Chem.,2003,126131,IC50,RORIDIN M,UACC-62,CHEMBL815363,BAO_0000219,6.39,In vitro antitumor activity against melanoma UACC-62 tumor cell lines
+CHEMBL614516,Homo sapiens,J. Med. Chem.,2003,126133,IC50,RORIDIN M,A498,CHEMBL624425,BAO_0000219,6.23,In vitro antitumor activity against renal A498 tumor cell lines
+CHEMBL614886,Homo sapiens,J. Med. Chem.,2003,126134,IC50,RORIDIN M,RXF 393,CHEMBL772391,BAO_0000219,5.66,In vitro antitumor activity against renal RXF 393 tumor cell lines
+CHEMBL614697,Homo sapiens,J. Med. Chem.,2003,126136,IC50,RORIDIN M,MDA-MB-435,CHEMBL709620,BAO_0000219,6.86,In vitro antitumor activity against breast MDA-MB-435 tumor cell lines
+CHEMBL614078,Homo sapiens,J. Med. Chem.,2003,126137,IC50,RORIDIN M,MDA-N,CHEMBL877233,BAO_0000219,7.08,In vitro antitumor activity against breast MDA-N tumor cell lines

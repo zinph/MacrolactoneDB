@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,J. Nat. Prod.,2007,2058464,IC50,BEAUVERICIN H2,NON-PROTEIN TARGET,CHEMBL925432,BAO_0000219,5.21,Cytotoxicity against human PC-3M cells by MTT assay
+CHEMBL3879801,None,J. Nat. Prod.,2007,2058470,IC50,BEAUVERICIN H2,NON-PROTEIN TARGET,CHEMBL925431,BAO_0000219,5.5,Antihaptotactic activity in human PC-3M cells assessed as inhibition of cell migration by wound healing assay

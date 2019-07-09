@@ -1,0 +1,42 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3880,Homo sapiens,J. Med. Chem.,1999,44602,Kd,RADICICOL,Heat shock protein HSP 90-alpha,CHEMBL693504,BAO_0000357,7.72,The compound was tested for binding affinity against yeast Heat shock protein HSP 90
+CHEMBL3880,Homo sapiens,J. Med. Chem.,1999,44603,Kd,RADICICOL,Heat shock protein HSP 90-alpha,CHEMBL693503,BAO_0000357,8.57,The compound was tested for binding affinity against isolated N-domain of Heat shock protein HSP 90
+CHEMBL614741,None,J. Med. Chem.,2003,779431,IC50,RADICICOL,3Y1 cell line,CHEMBL615556,BAO_0000219,6.16,Concentration to inhibit growth of normal rat fibroblast cells (3Y1-B cells) after 72 h exposure
+CHEMBL3879801,None,J. Med. Chem.,2003,779432,IC50,RADICICOL,NON-PROTEIN TARGET,CHEMBL799317,BAO_0000019,7.23,Concentration to inhibit growth of v-src-transformed cells (SR-3Y1 cells) after 72 h exposure
+CHEMBL613518,Rattus norvegicus,J. Med. Chem.,2003,779433,IC50,RADICICOL,NRK,CHEMBL752570,BAO_0000219,6.54,Concentration to inhibit growth of normal rat kidney epithelial cells (NRK cells) after 72 hr exposure
+CHEMBL3879801,None,J. Med. Chem.,2003,779434,IC50,RADICICOL,NON-PROTEIN TARGET,CHEMBL700270,BAO_0000019,6.96,Concentration to inhibit growth of normal rat K-ras-transformed cells (KNRK 5.2 cells) after 72 hr exposure
+CHEMBL3014,Rattus norvegicus,J. Med. Chem.,2003,779435,IC50,RADICICOL,Tyrosine-protein kinase SRC,CHEMBL843326,BAO_0000219,6.75,Inhibition of v-Src tyrosine kinase autophosphorylation in SR3Y1 cells after 15 hr exposure
+CHEMBL3880,Homo sapiens,J. Med. Chem.,2005,1487912,IC50,RADICICOL,Heat shock protein HSP 90-alpha,CHEMBL830071,BAO_0000357,6.82,Inhibitory concentration against activity of Hsp90 was determined by fluorescence polarization (FP) assay(n=2)
+CHEMBL4199,Saccharomyces cerevisiae S288c,J. Med. Chem.,2005,1487913,IC50,RADICICOL,Heat shock protein HSP 90 (HSC82),CHEMBL828090,BAO_0000357,6.7,Inhibitory concentration against ATPase activity of Hsp90 of Saccharomyces cerevisiae was determined by ATPase activity assay
+CHEMBL2095165,Homo sapiens,Bioorg. Med. Chem. Lett.,2005,1656543,IC50,RADICICOL,Heat shock protein HSP90,CHEMBL863358,BAO_0000224,6.82,Binding affinity to Hsp90 by fluorescent polarization assay
+CHEMBL2095165,Homo sapiens,J. Med. Chem.,2006,1750067,EC50,RADICICOL,Heat shock protein HSP90,CHEMBL864232,BAO_0000219,7.6,Binding affinity to Hsp90 in MCF7 cell lysate
+CHEMBL364,Plasmodium falciparum,Antimicrob. Agents Chemother.,2007,1827801,IC50,RADICICOL,Plasmodium falciparum,CHEMBL912647,BAO_0000218,5.14,Inhibition of Plasmodium falciparum FCK2 growth as [3H]hypoxanthine uptake after 48 hrs
+CHEMBL364,Plasmodium falciparum,Antimicrob. Agents Chemother.,2007,1827803,IC50,RADICICOL,Plasmodium falciparum,CHEMBL912648,BAO_0000218,5.25,Inhibition of Plasmodium falciparum FCK2 growth as [3H]hypoxanthine uptake after 96 hrs
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2008,2080108,EC50,RADICICOL,Unchecked,CHEMBL929535,BAO_0000019,9.1,Binding affinity at purified Hsp90 by DELFIA assay
+CHEMBL612545,None,Proc. Natl. Acad. Sci. U.S.A.,2007,2136775,IC50,RADICICOL,Unchecked,CHEMBL936783,BAO_0000219,7.57,Inhibition of COX2 expression in LPS-stimulated human macrophages
+CHEMBL612545,None,Proc. Natl. Acad. Sci. U.S.A.,2007,2136776,IC50,RADICICOL,Unchecked,CHEMBL936782,BAO_0000019,9.57,Inhibition of p60v-src kinase
+CHEMBL230,Homo sapiens,J. Nat. Prod.,2005,2324518,IC50,RADICICOL,Cyclooxygenase-2,CHEMBL1008495,BAO_0000357,7.57,Inhibition of COX2
+CHEMBL387,Homo sapiens,Bioorg. Med. Chem.,2008,2348919,IC50,RADICICOL,MCF7,CHEMBL964695,BAO_0000219,7.05,Cytotoxicity against human MCF7 cells after 24 hrs
+CHEMBL613834,Homo sapiens,Bioorg. Med. Chem.,2008,2348920,IC50,RADICICOL,SK-BR-3,CHEMBL964696,BAO_0000219,8.44,Cytotoxicity against human SKBR3 cells after 24 hrs
+CHEMBL5586,Homo sapiens,Bioorg. Med. Chem.,2009,2393918,IC50,RADICICOL,Carbonyl reductase [NADPH] 1,CHEMBL1004505,BAO_0000019,5.49,Binding affinity to human recombinant carbonyl reductase 1 expressed in Escherichia coli assessed as NADPH oxidation using isatin as substrate
+CHEMBL5586,Homo sapiens,Bioorg. Med. Chem.,2009,2393919,Ki,RADICICOL,Carbonyl reductase [NADPH] 1,CHEMBL1004505,BAO_0000019,6.28,Binding affinity to human recombinant carbonyl reductase 1 expressed in Escherichia coli assessed as NADPH oxidation using isatin as substrate
+CHEMBL377,Human herpesvirus 1,J. Nat. Prod.,2003,2437997,IC50,RADICICOL,Human herpesvirus 1,CHEMBL989414,BAO_0000218,6.7,Antiviral activity against HSV1 F infected in african green monkey Vero cells assessed as reduction of virus-induced cytopathic effect by cellular replication assay
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2006,2550141,IC50,RADICICOL,MCF7,CHEMBL969118,BAO_0000219,7.52,Antiproliferative activity against human MCF7 cells by MTT assay
+CHEMBL3536,Saccharomyces cerevisiae S288c,Bioorg. Med. Chem.,2009,2617208,Kd,RADICICOL,Heat shock protein HSP 90 (HSP82),CHEMBL1020354,BAO_0000357,7.72,Binding affinity to N-terminal ATP/ADP-binding domain of yeast Hsp90
+CHEMBL387,Homo sapiens,Bioorg. Med. Chem.,2009,2617209,IC50,RADICICOL,MCF7,CHEMBL1020359,BAO_0000219,7.64,Cytotoxicity against human MCF7 cells
+CHEMBL4303,Homo sapiens,Bioorg. Med. Chem.,2009,2617211,IC50,RADICICOL,Heat shock protein HSP 90-beta,CHEMBL1020360,BAO_0000357,7.7,Inhibition of Hsp90
+CHEMBL612545,None,Bioorg. Med. Chem.,2009,2683872,IC50,RADICICOL,Unchecked,CHEMBL1060569,BAO_0000219,6.72,Inhibition of WNT5A mRNA expression in human dermal papilla cells after 24 hrs by quantigene assay
+CHEMBL387,Homo sapiens,Bioorg. Med. Chem. Lett.,2009,2992529,IC50,RADICICOL,MCF7,CHEMBL1045240,BAO_0000219,7.32,Antiproliferative activity against human MCF7 cells
+CHEMBL613834,Homo sapiens,Bioorg. Med. Chem. Lett.,2009,2992538,IC50,RADICICOL,SK-BR-3,CHEMBL1045241,BAO_0000219,7.43,Antiproliferative activity against human SK-BR-3 cells
+CHEMBL612545,None,Bioorg. Med. Chem.,2010,3407506,Kd,RADICICOL,Unchecked,CHEMBL1219067,BAO_0000019,8.52,Binding affinity to HSP90 after 4 hrs by surface plasmon resonance analysis
+CHEMBL3880,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,6277576,IC50,RADICICOL,Heat shock protein HSP 90-alpha,CHEMBL1806078,BAO_0000357,7.8,Binding affinity to Hsp90alpha N-terminal ATPase domain by TR-FRET assay based competitive binding assay
+CHEMBL3880,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,6277593,IC50,RADICICOL,Heat shock protein HSP 90-alpha,CHEMBL1806079,BAO_0000357,6.28,Inhibition of Hsp90alpha ATPase activity by malachite green ATP-ase assay
+CHEMBL2745,Rattus norvegicus,J. Med. Chem.,2011,12095139,Ki,RADICICOL,ATP-citrate synthase,CHEMBL2169037,BAO_0000019,5.16,Competitive inhibition of rat liver ACLY using ATP as substrate by spectrophotometric analysis
+CHEMBL2745,Rattus norvegicus,J. Med. Chem.,2011,12095140,Ki,RADICICOL,ATP-citrate synthase,CHEMBL2169036,BAO_0000019,4.89,Competitive inhibition of rat liver ACLY using citrate as substrate by spectrophotometric analysis
+CHEMBL612545,None,J. Med. Chem.,2011,12149129,Kd,RADICICOL,Unchecked,CHEMBL2184191,BAO_0000019,7.72,Inhibition of Saccharomyces cerevisiae Hsp90
+CHEMBL3880,Homo sapiens,J. Med. Chem.,2013,12675330,Kd,RADICICOL,Heat shock protein HSP 90-alpha,CHEMBL2338980,BAO_0000357,8.38,Binding affinity to recombinant Hsp90 alpha (unknown origin) by surface plasmon resonance
+CHEMBL4303,Homo sapiens,Eur. J. Med. Chem.,2013,13397864,Kd,RADICICOL,Heat shock protein HSP 90-beta,CHEMBL2416121,BAO_0000357,8.66,Binding affinity to human Hsp90 by surface plasmon resonance analysis
+CHEMBL4303,Homo sapiens,J. Nat. Prod.,2014,13944686,IC50,RADICICOL,Heat shock protein HSP 90-beta,CHEMBL3131479,BAO_0000357,7.72,Inhibition of HSP90 (unknown origin)
+CHEMBL378,Human immunodeficiency virus 1,J. Nat. Prod.,2014,13944708,EC50,RADICICOL,Human immunodeficiency virus 1,CHEMBL3131481,BAO_0000218,5.04,Reactivation of latent HIV1 NL4-3-Luc expression in human naive CD4+ T cells treated 7 days post-infection measured after 48 hrs by luminescence plate reader analysis
+CHEMBL612545,None,J Med Chem,2017,18037056,Ki,RADICICOL,Unchecked,CHEMBL4008880,BAO_0000019,4.7,Inhibition of HSP90 (unknown origin)
+CHEMBL612545,None,J Med Chem,2018,18274689,Kd,RADICICOL,Unchecked,CHEMBL4059435,BAO_0000019,8.32,Binding affinity to dog N-terminal GST-tagged GRP94 N41 deletion mutant (69 to 337 residues) expressed in Escherichia coli BL21star (DE3) at 298 K by ITC assay

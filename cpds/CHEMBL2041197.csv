@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL398,Homo sapiens,J. Nat. Prod.,2012,10933131,IC50,JASPAMIDE L,KB,CHEMBL2044588,BAO_0000219,6.67,Growth inhibition of human KB cells after 72 hrs by CellTiter 96 assay

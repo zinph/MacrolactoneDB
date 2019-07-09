@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL299,Homo sapiens,J. Nat. Prod.,1996,2336806,Ki,BRYOSTATIN 10,Protein kinase C alpha,CHEMBL1028405,BAO_0000357,8.81,Displacement of [3H]PDBu form PKCalpha

@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL204,Homo sapiens,Bioorg. Med. Chem. Lett.,2003,538640,Ki,None,Thrombin,CHEMBL817243,BAO_0000357,9.77,Inhibitory activity against thrombin IIa
+CHEMBL209,Homo sapiens,Bioorg. Med. Chem. Lett.,2003,538642,Ki,None,Trypsin I,CHEMBL817817,BAO_0000357,6.24,Inhibitory activity against human trypsin
+CHEMBL1873,Homo sapiens,Bioorg. Med. Chem. Lett.,2003,538644,Ki,None,Tissue-type plasminogen activator,CHEMBL808464,BAO_0000357,6.32,Inhibitory activity against Tissue plasminogen activator

@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,1999,438188,IC50,None,Unchecked,CHEMBL882295,BAO_0000019,5.0,Inhibitory effect against collagen-induced platelet aggregation at a concentration of 100 ug/mL
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,1999,438189,IC50,None,Unchecked,CHEMBL762035,BAO_0000019,4.52,Inhibitory effect against arachidonic acid-induced platelet aggregation at a concentration of 100 uM
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,1999,438190,IC50,None,Unchecked,CHEMBL762034,BAO_0000019,4.4,"Inhibitory effect against U-46,619-induced platelet aggregation at a concentration of 1 uM"

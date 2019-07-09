@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614198,Homo sapiens,J. Nat. Prod.,2012,12200835,IC50,None,NFF,CHEMBL2216646,BAO_0000219,6.43,Cytotoxicity against human NFF cells after 72 hrs by alamar blue assay
+CHEMBL612558,None,J. Nat. Prod.,2012,12200839,IC50,None,ADMET,CHEMBL2216648,BAO_0000219,6.7,Cytotoxicity against human HEK cells after 72 hrs by alamar blue assay
+CHEMBL390,Homo sapiens,J. Nat. Prod.,2012,12200843,IC50,None,PC-3,CHEMBL2216647,BAO_0000219,6.77,Cytotoxicity against human PC3 cells after 72 hrs by alamar blue assay
+CHEMBL612518,Homo sapiens,J. Nat. Prod.,2012,12200847,IC50,None,LNCaP,CHEMBL2216649,BAO_0000219,6.64,Cytotoxicity against human LNCAP cells after 72 hrs by alamar blue assay
+CHEMBL399,Homo sapiens,J. Nat. Prod.,2012,12200851,IC50,None,HeLa,CHEMBL2216650,BAO_0000219,6.96,Cytotoxicity against human HeLa cells after 72 hrs by alamar blue assay
+CHEMBL392,Homo sapiens,J. Nat. Prod.,2012,12200855,IC50,None,A549,CHEMBL2216651,BAO_0000219,6.89,Cytotoxicity against human A549 cells after 72 hrs by alamar blue assay

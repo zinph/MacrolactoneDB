@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1855,Homo sapiens,Bioorg. Med. Chem. Lett.,2004,536811,Ki,None,Gonadotropin-releasing hormone receptor,CHEMBL709253,BAO_0000219,9.48,Binding affinity against human luteinizing releasing hormone receptor cloned in CHO cells
+CHEMBL1855,Homo sapiens,J. Med. Chem.,2004,1100421,Ki,None,Gonadotropin-releasing hormone receptor,CHEMBL712505,BAO_0000219,9.48,In vitro binding affinity to human luteinizing hormone-releasing hormone (LHRH) receptor cloned in CHO cells
+CHEMBL3066,Rattus norvegicus,J. Med. Chem.,2004,1100422,Ki,None,Gonadotropin-releasing hormone receptor,CHEMBL712508,BAO_0000219,9.97,In vitro binding affinity to rat luteinizing hormone-releasing hormone (LHRH) receptor cloned in CHO cells
+CHEMBL2456,Rattus norvegicus,J. Med. Chem.,2004,1100423,Kd,None,Luteinizing hormone/Choriogonadotropin receptor,CHEMBL712506,BAO_0000219,9.32,In vitro binding ability against Luteinizing hormone-releasing hormone release in rat pituitary cells

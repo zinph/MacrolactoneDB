@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL243,Human immunodeficiency virus 1,Bioorg. Med. Chem. Lett.,2002,825505,Ki,None,Human immunodeficiency virus type 1 protease,CHEMBL696061,BAO_0000357,7.06,Compound was tested for its inhibitory potency against human immunodeficiency virus -1 (HIV-1 protease)

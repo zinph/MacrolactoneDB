@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4372,Bacillus anthracis,None,None,4659608,Potency,SPARTIOIDINE,Anthrax lethal factor,CHEMBL1613797,BAO_0000019,4.6,PUBCHEM_BIOASSAY: qHTS Assay for Anthrax Lethal Toxin Internalization. (Class of assay: confirmatory) 

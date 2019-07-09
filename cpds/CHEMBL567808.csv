@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL5306,Oryctolagus cuniculus,J. Med. Chem.,2009,2935243,EC50,None,Motilin receptor,CHEMBL1054530,BAO_0000019,5.68,Agonist activity at motilin receptor in rabbit smooth muscle assessed as maximal possible tissue contraction

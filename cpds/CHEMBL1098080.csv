@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614245,Homo sapiens,Bioorg. Med. Chem. Lett.,2010,3292869,IC50,None,THP-1,CHEMBL1114702,BAO_0000219,7.37,Antiinflammatory activity in human THP1 cells assessed as inhibition of LPS-induced TNFalpha production by PLAP reporter assay

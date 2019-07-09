@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1287622,Homo sapiens,None,None,4628465,Potency,None,Lethal(3)malignant brain tumor-like protein 1,CHEMBL1614280,BAO_0000019,4.8,PUBCHEM_BIOASSAY: qHTS Assay for the Inhibitors of L3MBTL1. (Class of assay: confirmatory) [Related pubchem assays: 485292 (Probe Development Summary for Inhibitors of L3MBTL1)]

@@ -1,0 +1,8 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612647,Candida glabrata,J. Nat. Prod.,2012,10969592,IC50,LANGKOLIDE,Candida glabrata,CHEMBL2067089,BAO_0000218,6.0,Antifungal activity against Candida glabrata DSM 6425 after 14 to 16 hrs by resazurin reduction assay
+CHEMBL366,Candida albicans,J. Nat. Prod.,2012,10969593,IC50,LANGKOLIDE,Candida albicans,CHEMBL2067090,BAO_0000218,5.91,Antifungal activity against Candida albicans DSM 1386 after 14 to 16 hrs by resazurin reduction assay
+CHEMBL614822,Mus musculus,J. Nat. Prod.,2012,10969594,IC50,LANGKOLIDE,NIH3T3,CHEMBL2067091,BAO_0000219,6.31,Cytotoxicity against mouse NIH/3T3 cells after 24 hrs by CellTiter-Blue assay
+CHEMBL395,Homo sapiens,J. Nat. Prod.,2012,10969595,IC50,LANGKOLIDE,HepG2,CHEMBL2067092,BAO_0000219,5.62,Cytotoxicity against human HepG2 cells after 24 hrs by CellTiter-Blue assay
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2012,10969596,IC50,LANGKOLIDE,HT-29,CHEMBL2067093,BAO_0000219,5.86,Cytotoxicity against human HT-29 cells after 24 hrs by CellTiter-Blue assay
+CHEMBL275,Homo sapiens,J. Nat. Prod.,2012,10969597,IC50,LANGKOLIDE,Phosphodiesterase 4B,CHEMBL2067094,BAO_0000357,6.32,Inhibition of human recombinant PDE4B2 by HTS cAMP assay
+CHEMBL262,Homo sapiens,J. Nat. Prod.,2012,10969598,IC50,LANGKOLIDE,Glycogen synthase kinase-3 beta,CHEMBL2067095,BAO_0000357,5.66,Inhibition of recombinant GSK3beta by KinaseGlo assay

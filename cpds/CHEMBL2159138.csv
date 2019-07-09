@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL340,Homo sapiens,J. Med. Chem.,2012,12067999,IC50,None,Cytochrome P450 3A4,CHEMBL2163109,BAO_0000357,5.54,Inhibition of human recombinant CYP3A4 using 7-BQ as substrate preincubated for 5 to 10 mins before substrate addition

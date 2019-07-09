@@ -1,0 +1,11 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2008,2460376,IC50,APRATOXIN A,HT-29,CHEMBL958762,BAO_0000219,8.85,Antiproliferative activity against human HT29 cells after 48 hrs by MTT assay
+CHEMBL399,Homo sapiens,J. Nat. Prod.,2008,2460380,IC50,APRATOXIN A,HeLa,CHEMBL958763,BAO_0000219,8.0,Antiproliferative activity against human HeLa cells after 48 hrs by MTT assay
+CHEMBL615023,Homo sapiens,J. Nat. Prod.,2008,2460384,IC50,APRATOXIN A,U2OS,CHEMBL958764,BAO_0000219,8.0,Antiproliferative activity against human U2OS cells after 48 hrs by MTT assay
+CHEMBL612558,None,Nat. Chem. Biol.,2006,3448203,IC50,APRATOXIN A,ADMET,CHEMBL1249357,BAO_0000219,7.22,Cytotoxicity against activated human CD4+ T cells assessed as cell viability after 5 days by fluorescence detection method
+CHEMBL612558,None,Nat. Chem. Biol.,2006,3448204,IC50,APRATOXIN A,ADMET,CHEMBL1249358,BAO_0000219,5.75,Cytotoxicity against resting human CD4+ T cell assessed as cell viability after 3 days by fluorescence detection method
+CHEMBL615023,Homo sapiens,Nat. Chem. Biol.,2006,3448225,IC50,APRATOXIN A,U2OS,CHEMBL1249409,BAO_0000219,7.3,Antiproliferative activity against human U2OS cells expressing constitutively active Stat3 mutant after 48 hrs by CMV-GFP reporter assay method
+CHEMBL394,Homo sapiens,ACS Med. Chem. Lett.,2011,10869867,IC50,APRATOXIN A,HCT-116,CHEMBL2025198,BAO_0000219,8.22,Cytotoxicity against human HCT116 cells after 48 hrs
+CHEMBL394,Homo sapiens,ACS Med. Chem. Lett.,2011,10869876,IC50,APRATOXIN A,HCT-116,CHEMBL2025199,BAO_0000219,8.83,Inhibition of VEGF-A secretion in human HCT116 cells after 12 hrs
+CHEMBL396,Homo sapiens,J. Nat. Prod.,2013,13420903,IC50,APRATOXIN A,NCI-H460,CHEMBL2421275,BAO_0000219,8.6,Cytotoxicity against human NCI-H460 cells after 48 hrs by MTT assay
+CHEMBL612545,None,J Med Chem,2017,18064813,IC50,APRATOXIN A,Unchecked,CHEMBL4014022,BAO_0000219,8.55,Cytotoxicity against human HCT116 cells assessed as reduction in cell viability after 48 hrs by WST8 assay

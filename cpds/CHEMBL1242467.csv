@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1250378,Homo sapiens,Nat. Chem. Biol.,2007,3441223,IC50,PLADIENOLIDE C,Splicing factor 3B subunit 3,CHEMBL1243914,BAO_0000219,8.3,Inhibition of SAP130 in VEGF-stimulated human U251 cells by PLAP reporter gene assay
+CHEMBL1250378,Homo sapiens,Nat. Chem. Biol.,2007,3441235,IC50,PLADIENOLIDE C,Splicing factor 3B subunit 3,CHEMBL1243677,BAO_0000219,8.13,Inhibition of SAP130 mediated cell growth in human WiDr cells

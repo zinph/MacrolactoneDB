@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem.,2009,2683897,IC50,None,Unchecked,CHEMBL1060569,BAO_0000219,6.29,Inhibition of WNT5A mRNA expression in human dermal papilla cells after 24 hrs by quantigene assay

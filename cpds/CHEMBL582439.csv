@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL383,Homo sapiens,J. Med. Chem.,2009,2939640,IC50,ZAMPANOLIDE,HL-60,CHEMBL1048330,BAO_0000219,8.37,Cytotoxicity against human HL60 cells after 48 hrs by MTT assay
+CHEMBL614075,Homo sapiens,J. Med. Chem.,2009,2939641,IC50,ZAMPANOLIDE,1A9,CHEMBL1048331,BAO_0000219,7.84,Cytotoxicity against human 1A9 cells after 72 hrs by MTT assay
+CHEMBL614004,Homo sapiens,J. Med. Chem.,2009,2939656,IC50,ZAMPANOLIDE,A2780,CHEMBL1049171,BAO_0000219,8.15,Cytotoxicity against human A2780 cells by MTT cell proliferation assay
+CHEMBL3879801,None,J. Med. Chem.,2009,2939657,IC50,ZAMPANOLIDE,NON-PROTEIN TARGET,CHEMBL1049172,BAO_0000219,8.12,Cytotoxicity against p-glycoprotein overexpressing human A2780AD cells by MTT cell proliferation assay

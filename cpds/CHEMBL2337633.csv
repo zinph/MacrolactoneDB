@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2013,12710606,IC50,MYCALOLIDE B,Unchecked,CHEMBL2340750,BAO_0000019,5.77,Induction of F-actin (unknown origin) polymerization after 1 hr by spectrofluorometric analysis
+CHEMBL3879801,None,Bioorg. Med. Chem. Lett.,2013,12710618,IC50,MYCALOLIDE B,NON-PROTEIN TARGET,CHEMBL2340756,BAO_0000219,7.28,Cytotoxicity against human HeLaS3 cells after 72 hrs by MTT assay
+CHEMBL383,Homo sapiens,Bioorg. Med. Chem. Lett.,2013,12710630,IC50,MYCALOLIDE B,HL-60,CHEMBL2340759,BAO_0000219,8.33,Cytotoxicity against human HL60 cells after 72 hrs by MTT assay

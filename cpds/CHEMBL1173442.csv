@@ -1,0 +1,13 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL364,Plasmodium falciparum,J. Nat. Prod.,2010,3299988,IC50,AIGIALOMYCIN D,Plasmodium falciparum,CHEMBL1111998,BAO_0000218,5.51,Antiplasmodial activity against chloroquine-susceptible Plasmodium falciparum 3D7 after 72 hrs by malaria SYBR Green I-based fluorescence assay
+CHEMBL364,Plasmodium falciparum,J. Nat. Prod.,2010,3299999,IC50,AIGIALOMYCIN D,Plasmodium falciparum,CHEMBL1111999,BAO_0000218,4.98,Antiplasmodial activity against chloroquine-resistant Plasmodium falciparum Dd2 after 72 hrs by malaria SYBR Green I-based fluorescence assay
+CHEMBL3582,Homo sapiens,ACS Med. Chem. Lett.,2011,10838134,Kd,AIGIALOMYCIN D,Protein kinase C epsilon,CHEMBL2015896,BAO_0000357,4.92,Inhibition of PRKCE
+CHEMBL3788,Homo sapiens,ACS Med. Chem. Lett.,2011,10838136,Kd,AIGIALOMYCIN D,Serine/threonine-protein kinase PLK4,CHEMBL2015894,BAO_0000357,6.58,Inhibition of PLK4
+CHEMBL4204,Homo sapiens,ACS Med. Chem. Lett.,2011,10838138,Kd,AIGIALOMYCIN D,MAP kinase signal-integrating kinase 2,CHEMBL2015892,BAO_0000357,6.8,Inhibition of MNK2
+CHEMBL1974,Homo sapiens,ACS Med. Chem. Lett.,2011,10838140,Kd,AIGIALOMYCIN D,Tyrosine-protein kinase receptor FLT3,CHEMBL2015890,BAO_0000357,6.52,Inhibition of FLT3
+CHEMBL4895,Homo sapiens,ACS Med. Chem. Lett.,2011,10838141,Kd,AIGIALOMYCIN D,Tyrosine-protein kinase receptor UFO,CHEMBL2015888,BAO_0000357,6.0,Inhibition of AXL
+CHEMBL2094128,Homo sapiens,ACS Med. Chem. Lett.,2011,10838146,IC50,AIGIALOMYCIN D,Cyclin-dependent kinase 2/cyclin A,CHEMBL2015886,BAO_0000223,4.68,Inhibition of CDK2/cyclin A using 5-FAM-GGGPATPKKAKKL-COOH as substrate after 1 hr by IMAP assay
+CHEMBL4036,Homo sapiens,ACS Med. Chem. Lett.,2011,10838178,IC50,AIGIALOMYCIN D,Cyclin-dependent kinase 5,CHEMBL2015884,BAO_0000357,5.22,Inhibition of CDK5
+CHEMBL308,Homo sapiens,ACS Med. Chem. Lett.,2011,10838179,IC50,AIGIALOMYCIN D,Cyclin-dependent kinase 1,CHEMBL2015883,BAO_0000357,5.22,Inhibition of CDK1
+CHEMBL4204,Homo sapiens,ACS Med. Chem. Lett.,2011,10838187,IC50,AIGIALOMYCIN D,MAP kinase signal-integrating kinase 2,CHEMBL2015897,BAO_0000357,6.35,Inhibition of MNK2 using 5-FAM-TATKSGSTTKNRFVV-NH2 as substrate preincubated for 1 hr prior substrate addition measured after 2 hrs by IMAP assay
+CHEMBL4718,Homo sapiens,ACS Med. Chem. Lett.,2011,10838188,IC50,AIGIALOMYCIN D,MAP kinase-interacting serine/threonine-protein kinase MNK1,CHEMBL2015898,BAO_0000357,4.4,Inhibition of MNK1

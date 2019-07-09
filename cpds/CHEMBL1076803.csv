@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL398,Homo sapiens,J. Nat. Prod.,2010,3210841,IC50,CORDYCOMMUNIN,KB,CHEMBL1112394,BAO_0000219,4.35,Cytotoxicity against human KB cells by resazurin microplate assay

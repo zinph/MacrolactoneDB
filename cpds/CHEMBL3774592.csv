@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL385,Homo sapiens,J. Med. Chem.,2016,16503844,IC50,None,K562,CHEMBL3776565,BAO_0000219,6.58,Cytotoxicity against human K562 cells assessed as cell viability after 72 hrs by MTT assay
+CHEMBL3879801,None,J. Med. Chem.,2016,16503864,IC50,None,NON-PROTEIN TARGET,CHEMBL3776566,BAO_0000219,6.64,Cytotoxicity against human K562/G cells assessed as cell viability after 72 hrs by MTT assay

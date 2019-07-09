@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL372,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,236957,IC50,None,Homo sapiens,CHEMBL695988,BAO_0000218,7.89,Antiproliferative activity was evaluated by the 72 hr MTT cell viability assay using human colon carcinoma cells (GC3).

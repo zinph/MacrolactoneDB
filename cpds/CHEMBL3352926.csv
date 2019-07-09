@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3879801,None,J. Nat. Prod.,2014,15121573,IC50,None,NON-PROTEIN TARGET,CHEMBL3387337,BAO_0000219,5.68,Cytotoxicity against human HCT8 cells under normoxic condition after 24 hrs by crystal violet method
+CHEMBL3879801,None,J. Nat. Prod.,2014,15121574,IC50,None,NON-PROTEIN TARGET,CHEMBL3387338,BAO_0000219,6.68,Cytotoxicity against human HCT8 cells under hypoxic condition after 24 hrs by crystal violet method
+CHEMBL3879801,None,J. Nat. Prod.,2014,15121576,IC50,None,NON-PROTEIN TARGET,CHEMBL3387340,BAO_0000219,5.51,Cytotoxicity against human PANC1 cells under normoxic condition after 24 hrs by crystal violet method
+CHEMBL3879801,None,J. Nat. Prod.,2014,15121577,IC50,None,NON-PROTEIN TARGET,CHEMBL3387341,BAO_0000219,6.15,Cytotoxicity against human PANC1 cells under hypoxic condition after 24 hrs by crystal violet method

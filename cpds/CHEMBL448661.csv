@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Nat. Prod.,1997,2320169,IC50,SALINAMIDE A,Unchecked,CHEMBL1003541,BAO_0000019,6.3,Inhibition of Escherichia coli RNA polymerase by high throughput filtration assay
+CHEMBL612545,None,J. Nat. Prod.,1997,2320170,IC50,SALINAMIDE A,Unchecked,CHEMBL1003542,BAO_0000019,6.3,Inhibition of Staphylococcus aureus RNA polymerase by high throughput filtration assay

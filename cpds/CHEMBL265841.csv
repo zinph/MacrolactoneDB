@@ -1,0 +1,11 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL386,Mus musculus,Bioorg. Med. Chem. Lett.,1997,1250366,IC50,None,L1210,CHEMBL704719,BAO_0000219,9.7,The compound was tested in vitro for cytotoxic activity against L1210 cell line (mouse leukemia)
+CHEMBL614177,Homo sapiens,Bioorg. Med. Chem. Lett.,1997,1250367,IC50,None,MOLT-4,CHEMBL728519,BAO_0000219,8.52,The compound was tested in vitro for cytotoxic activity against Molt-4 cell line (human T-cell leukemia)
+CHEMBL381,Mus musculus,Bioorg. Med. Chem. Lett.,1997,1250369,IC50,None,B16,CHEMBL651065,BAO_0000219,10.22,The compound was tested in vitro for cytotoxic activity against B-16 cell line (mouse melanoma)
+CHEMBL3879801,None,Bioorg. Med. Chem. Lett.,1997,1250371,IC50,None,NON-PROTEIN TARGET,CHEMBL708728,BAO_0000219,10.4,The compound was tested in vitro for cytotoxic activity against M24-MET cell line (human metastatic melanoma)
+CHEMBL614072,Homo sapiens,Bioorg. Med. Chem. Lett.,1997,1250372,IC50,None,BT-549,CHEMBL856055,BAO_0000219,11.0,The compound was tested in vitro for cytotoxic activity against BT-549 cell line (human breast carcinoma)
+CHEMBL387,Homo sapiens,Bioorg. Med. Chem. Lett.,1997,1250373,IC50,None,MCF7,CHEMBL710413,BAO_0000219,10.4,The compound was tested in vitro for cytotoxic activity against MCF-7 cell line (human breast carcinoma)
+CHEMBL614213,Homo sapiens,Bioorg. Med. Chem. Lett.,1997,1250374,IC50,None,OVCAR-3,CHEMBL752434,BAO_0000219,9.0,The compound was tested in vitro for cytotoxic activity against OVCAR-3 cell line (human ovarian carcinoma)
+CHEMBL613102,Homo sapiens,Bioorg. Med. Chem. Lett.,1997,1250377,IC50,None,786-0,CHEMBL883801,BAO_0000219,11.0,The compound was tested in vitro for cytotoxic activity against 786-O cell line (human perirenal carcinoma)
+CHEMBL614573,Homo sapiens,Bioorg. Med. Chem. Lett.,1997,1250378,IC50,None,H322,CHEMBL686759,BAO_0000219,8.0,The compound was tested in vitro for cytotoxic activity against H 322 cell line (human lung adenocarcinoma)
+CHEMBL384,Homo sapiens,Bioorg. Med. Chem. Lett.,1997,1250380,IC50,None,HT-29,CHEMBL691585,BAO_0000219,11.0,The compound was tested in vitro for cytotoxic activity against HT-29 cell line (human colon adenocarcinoma)

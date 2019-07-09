@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2011,6232026,IC50,VERAGUAMIDE E,HT-29,CHEMBL1787588,BAO_0000219,5.82,Cytotoxicity against human HT-29 cells after 48 hrs by MTT assay
+CHEMBL399,Homo sapiens,J. Nat. Prod.,2011,6232035,IC50,VERAGUAMIDE E,HeLa,CHEMBL1787589,BAO_0000219,6.08,Cytotoxicity against human HeLa cells after 48 hrs by MTT assay

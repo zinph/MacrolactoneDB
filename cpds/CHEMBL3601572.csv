@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem.,2015,15669182,IC50,None,Unchecked,CHEMBL3602325,BAO_0000019,6.23,Inhibition of ribosome nascent peptide exit tunnel in Escherichia coli S30 extract assessed as inhibition of prokaryotic translation in presence of amino acids incubated for 20 mins by luciferase reporter gene assay

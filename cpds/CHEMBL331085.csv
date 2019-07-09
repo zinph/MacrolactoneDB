@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL286,Homo sapiens,J. Med. Chem.,1992,1005296,IC50,None,Renin,CHEMBL801600,BAO_0000357,8.41,Inhibitory activity against human renin inhibition (at pH 7.4)
+CHEMBL286,Homo sapiens,J. Med. Chem.,1992,1010280,IC50,None,Renin,CHEMBL801600,BAO_0000357,5.21,Inhibitory activity against human renin inhibition (at pH 7.4)

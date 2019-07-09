@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2095231,Hepatitis C virus,None,2014,17636159,Ki,None,"Hepatitis C virus serine protease, NS3/NS4A",CHEMBL3705199,BAO_0000223,7.37,

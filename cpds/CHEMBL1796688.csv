@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2093865,Homo sapiens,Eur. J. Med. Chem.,2013,12635214,IC50,SPIRUCHOSTATIN A,Histone deacetylase,CHEMBL2318092,BAO_0000224,8.48,Inhibition of class 1 HDAC (unknown origin)
+CHEMBL3879801,None,Bioorg. Med. Chem.,2015,15750323,IC50,SPIRUCHOSTATIN A,NON-PROTEIN TARGET,CHEMBL3632097,BAO_0000219,7.82,Antiproliferative activity against human IGROV1/Pt1 cells assessed as cell viability incubated for 72 hrs by coulter counter method
+CHEMBL613984,Homo sapiens,Bioorg. Med. Chem.,2015,15750346,IC50,SPIRUCHOSTATIN A,IGROV-1,CHEMBL3632096,BAO_0000219,7.6,Antiproliferative activity against human IGROV1 cells assessed as cell viability incubated for 72 hrs by coulter counter method
+CHEMBL394,Homo sapiens,Bioorg. Med. Chem.,2015,15750945,IC50,SPIRUCHOSTATIN A,HCT-116,CHEMBL3632098,BAO_0000219,8.4,Antiproliferative activity against human HCT116 cells assessed as cell viability incubated for 72 hrs by coulter counter method

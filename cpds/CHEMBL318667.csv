@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL384,Homo sapiens,Bioorg. Med. Chem. Lett.,1998,646077,IC50,None,HT-29,CHEMBL692887,BAO_0000219,7.23,Compound was evaluated for antiproliferative activity against human colon adenocarcinoma (HT-29) cell lines.
+CHEMBL386,Mus musculus,Bioorg. Med. Chem. Lett.,1998,646078,IC50,None,L1210,CHEMBL702740,BAO_0000219,6.96,Compound was evaluated for antiproliferative activity against murine leukemia (L1210) cell lines
+CHEMBL3658,Sus scrofa,Bioorg. Med. Chem. Lett.,1998,646079,IC50,None,Tubulin alpha chain,CHEMBL844178,BAO_0000019,4.41,Compound was tested in vitro for inhibition of tubulin polymerization

@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2093865,Homo sapiens,J. Med. Chem.,2007,2000980,IC50,None,Histone deacetylase,CHEMBL901576,BAO_0000224,8.15,Inhibition of HDAC in HeLa nuclear extract in presence of DTT
+CHEMBL325,Homo sapiens,J. Med. Chem.,2007,2000986,IC50,None,Histone deacetylase 1,CHEMBL901577,BAO_0000357,7.76,Inhibition of HDAC1 in presence of DTT
+CHEMBL1865,Homo sapiens,J. Med. Chem.,2007,2000992,IC50,None,Histone deacetylase 6,CHEMBL901578,BAO_0000357,5.31,Inhibition of HDAC6 in presence of DTT

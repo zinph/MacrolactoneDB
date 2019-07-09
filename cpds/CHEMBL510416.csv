@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2009,2508682,Ki,None,Hepatitis C virus,CHEMBL983947,BAO_0000218,5.54,Inhibition of HCV genotype 1b NS3/4A protease
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2009,2508683,Ki,None,Hepatitis C virus,CHEMBL983947,BAO_0000218,5.54,Inhibition of HCV genotype 1b NS3/4A protease
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2009,2508684,EC50,None,Hepatitis C virus,CHEMBL983948,BAO_0000218,4.7,Antiviral activity against HCV infected in human HuH7 cells by subgenomic replication assay in presence of 10% fetal calf serum
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2009,2508685,EC50,None,Hepatitis C virus,CHEMBL983949,BAO_0000218,4.82,Antiviral activity against HCV infected in human HuH7 cells by subgenomic replication assay in presence of 50% normal human serum
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2009,2508689,EC50,None,Hepatitis C virus,CHEMBL983948,BAO_0000218,4.7,Antiviral activity against HCV infected in human HuH7 cells by subgenomic replication assay in presence of 10% fetal calf serum
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2009,2508693,EC50,None,Hepatitis C virus,CHEMBL983949,BAO_0000218,4.7,Antiviral activity against HCV infected in human HuH7 cells by subgenomic replication assay in presence of 50% normal human serum

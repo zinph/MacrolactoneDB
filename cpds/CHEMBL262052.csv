@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2203,Homo sapiens,Bioorg. Med. Chem. Lett.,1995,845949,IC50,None,Motilin receptor,CHEMBL732794,BAO_0000357,8.33,Compound was tested for in vitro motilin receptor binding affinity
+CHEMBL2203,Homo sapiens,Bioorg. Med. Chem. Lett.,1995,845950,IC50,None,Motilin receptor,CHEMBL732795,BAO_0000357,8.08,Compound was tested for in vitro motilin receptor binding affinity after treatment with hydrochloric acid solution (pH 2.5)
+CHEMBL374,Oryctolagus cuniculus,Bioorg. Med. Chem. Lett.,1995,845951,EC50,None,Oryctolagus cuniculus,CHEMBL773449,BAO_0000218,7.64,Compound was tested for the in vitro smooth muscle contractile activity

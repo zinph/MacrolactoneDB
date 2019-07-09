@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2093865,Homo sapiens,Eur. J. Med. Chem.,2013,12635213,IC50,spiruchostatin B,Histone deacetylase,CHEMBL2318092,BAO_0000224,8.66,Inhibition of class 1 HDAC (unknown origin)

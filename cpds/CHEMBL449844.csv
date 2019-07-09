@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,Bioorg. Med. Chem. Lett.,2008,2399848,Ki,None,Unchecked,CHEMBL940414,BAO_0000019,9.46,Inhibition of full length HCV NS3/4A protease
+CHEMBL379,Hepatitis C virus,Bioorg. Med. Chem. Lett.,2008,2399866,EC50,None,Hepatitis C virus,CHEMBL940416,BAO_0000218,7.21,Antiviral activity against HCV infected in human Huh7 cells after 48 hrs by luciferase based replicon assay
+CHEMBL2095231,Hepatitis C virus,None,2014,17636156,Ki,None,"Hepatitis C virus serine protease, NS3/NS4A",CHEMBL3705199,BAO_0000223,9.7,

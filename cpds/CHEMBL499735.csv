@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL387,Homo sapiens,J. Nat. Prod.,2006,2549073,IC50,None,MCF7,CHEMBL968248,BAO_0000219,9.62,Antiproliferative activity against human MCF7 cells after 72 hrs by celltitre assay
+CHEMBL3879801,None,J. Nat. Prod.,2006,2549075,IC50,None,NON-PROTEIN TARGET,CHEMBL968249,BAO_0000219,8.55,Antiproliferative activity against human multidrug-resistant P-glycoprotein expressing NCI/ADR cells after 72 hrs by celltitre assay
+CHEMBL392,Homo sapiens,J. Nat. Prod.,2006,2549077,IC50,None,A549,CHEMBL968250,BAO_0000219,9.6,Antiproliferative activity against human A549 cells after 72 hrs by celltitre assay
+CHEMBL382,Homo sapiens,J. Nat. Prod.,2006,2549079,IC50,None,CCRF-CEM,CHEMBL968252,BAO_0000219,9.96,Antiproliferative activity against human CCRF-CEM cells after 72 hrs by celltitre assay
+CHEMBL382,Homo sapiens,J. Nat. Prod.,2006,2549081,IC50,None,CCRF-CEM,CHEMBL968251,BAO_0000219,9.62,Antiproliferative activity against human multidrug-resistant P-glycoprotein expressing CCRF-CEM/PTX cells after 72 hrs by celltitre assay

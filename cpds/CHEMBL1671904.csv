@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL340,Homo sapiens,None,None,4981425,Potency,None,Cytochrome P450 3A4,CHEMBL1614108,BAO_0000357,4.6,PUBCHEM_BIOASSAY: qHTS Assay for Activators of Cytochrome P450 3A4. (Class of assay: confirmatory) [Related pubchem assays: 410 ]
+CHEMBL340,Homo sapiens,None,None,5046639,Potency,None,Cytochrome P450 3A4,CHEMBL1613886,BAO_0000357,4.6,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4. (Class of assay: confirmatory) [Related pubchem assays: 410 ]
+CHEMBL240,Homo sapiens,Eur. J. Med. Chem.,2011,5219036,IC50,None,HERG,CHEMBL1676103,BAO_0000357,4.48,Inhibition of human ERG

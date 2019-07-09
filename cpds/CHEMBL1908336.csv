@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL6020,Homo sapiens,Toxicol Sci,2013,18129102,IC50,MIDECAMYCIN,Bile salt export pump,CHEMBL4028921,BAO_0000219,4.84,Inhibition of human BSEP overexpressed in Sf9 cell membrane vesicles assessed as uptake of [3H]-taurocholate in presence of ATP measured after 15 to 20 mins by membrane vesicle transport assay

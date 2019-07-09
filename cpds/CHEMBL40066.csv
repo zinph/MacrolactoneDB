@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL4302,Homo sapiens,Bioorg. Med. Chem. Lett.,1999,421313,IC50,None,P-glycoprotein 1,CHEMBL758146,BAO_0000219,4.98,Multidrug-resistant reversal activity using P388/VMDRC.04 cells (a subline of P388 murine leukemia cells expressing human recombinant human P-glycoprotein) in the presence of 10 nM vincristine

@@ -1,0 +1,7 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL2203,Homo sapiens,J. Med. Chem.,2004,990409,EC50,None,Motilin receptor,CHEMBL732791,BAO_0000019,8.38,In vitro effective concentration towards human motilin receptor
+CHEMBL2203,Homo sapiens,J. Med. Chem.,2004,990410,Ki,None,Motilin receptor,CHEMBL732792,BAO_0000357,8.47,In vitro binding affinity towards human motilin receptor
+CHEMBL5306,Oryctolagus cuniculus,J. Med. Chem.,2009,2935329,EC50,None,Motilin receptor,CHEMBL1054530,BAO_0000019,8.15,Agonist activity at motilin receptor in rabbit smooth muscle assessed as maximal possible tissue contraction
+CHEMBL5306,Oryctolagus cuniculus,Bioorg. Med. Chem. Lett.,2010,3500560,EC50,None,Motilin receptor,CHEMBL1260551,BAO_0000019,8.15,Agonist activity at motilin receptor in rabbit smooth muscle assessed as increase of muscle contraction
+CHEMBL3879801,None,Bioorg. Med. Chem.,2010,3525042,EC50,None,NON-PROTEIN TARGET,CHEMBL1273913,BAO_0000221,8.15,Induction of contraction in rabbit smooth muscle
+CHEMBL5306,Oryctolagus cuniculus,Bioorg. Med. Chem. Lett.,2011,6203722,EC50,None,Motilin receptor,CHEMBL1781399,BAO_0000019,8.15,Agonist activity at motilin receptor in rabbit smooth muscle assessed as maximal possible tissue contraction

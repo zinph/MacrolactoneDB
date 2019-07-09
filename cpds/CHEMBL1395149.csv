@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL3577,Homo sapiens,None,None,4157255,Potency,None,Aldehyde dehydrogenase 1A1,CHEMBL1614458,BAO_0000019,5.05,PUBCHEM_BIOASSAY: qHTS Assay for Inhibitors of Aldehyde Dehydrogenase 1 (ALDH1A1). (Class of assay: confirmatory) [Related pubchem assays: 1030 (qHTS Validation Assay for Inhibitors of aldehyde dehydrogenase 1 (ALDH1A1))]

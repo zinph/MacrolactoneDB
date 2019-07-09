@@ -1,0 +1,6 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL228,Homo sapiens,J. Med. Chem.,2006,1744700,Ki,None,Serotonin transporter,CHEMBL867297,BAO_0000357,7.3,Displacement of [3H]paroxetine from human 5HTT
+CHEMBL228,Homo sapiens,J. Med. Chem.,2006,1744704,IC50,None,Serotonin transporter,CHEMBL867297,BAO_0000357,6.7,Displacement of [3H]paroxetine from human 5HTT
+CHEMBL222,Homo sapiens,J. Med. Chem.,2006,1744709,Ki,None,Norepinephrine transporter,CHEMBL867293,BAO_0000357,7.7,Displacement of [3H]nisoxetine from human NET
+CHEMBL222,Homo sapiens,J. Med. Chem.,2006,1744710,IC50,None,Norepinephrine transporter,CHEMBL867293,BAO_0000357,7.4,Displacement of [3H]nisoxetine from human NET
+CHEMBL238,Homo sapiens,J. Med. Chem.,2006,1744713,IC50,None,Dopamine transporter,CHEMBL867291,BAO_0000357,8.42,Displacement of [3H]WIN-35428 from human DAT

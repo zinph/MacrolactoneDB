@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614197,Homo sapiens,Bioorg. Med. Chem. Lett.,2012,8012484,IC50,None,NCI-N87,CHEMBL1944311,BAO_0000219,7.0,Antiproliferative activity against human NCI-N87 cells overexpressing Her-2
+CHEMBL394,Homo sapiens,Bioorg. Med. Chem. Lett.,2012,8012501,IC50,None,HCT-116,CHEMBL1944309,BAO_0000219,6.16,Antiproliferative activity against human HCT116 cells
+CHEMBL3880,Homo sapiens,Bioorg. Med. Chem. Lett.,2012,8012518,Kd,None,Heat shock protein HSP 90-alpha,CHEMBL1944310,BAO_0000357,9.15,Binding affinity to N-terminus biotinylated human Hsp90 alpha by surface plasmon resonance assay

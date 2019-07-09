@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612545,None,J. Nat. Prod.,2010,3398821,EC50,HOIAMIDE A,Unchecked,CHEMBL1219308,BAO_0000219,5.77,Activation of voltage-gated sodium channel in mouse neocortical neuron assessed as intracellular sodium efflux
+CHEMBL612545,None,J. Nat. Prod.,2010,3398826,IC50,HOIAMIDE A,Unchecked,CHEMBL1219309,BAO_0000219,7.34,Inhibition of calcium channel in mouse neocortical neurons assessed as inhibition of intracellular calcium oscilations
+CHEMBL396,Homo sapiens,J. Nat. Prod.,2010,3398831,IC50,HOIAMIDE A,NCI-H460,CHEMBL1219310,BAO_0000219,4.95,Cytotoxicity against human H460 cells
+CHEMBL3879801,None,J. Nat. Prod.,2010,3398836,IC50,HOIAMIDE A,NON-PROTEIN TARGET,CHEMBL1219311,BAO_0000219,5.68,Cytotoxicity against mouse Neuro2a cells

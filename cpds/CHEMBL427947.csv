@@ -1,0 +1,4 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL1293236,Homo sapiens,None,None,3675427,Potency,None,ATP-dependent DNA helicase Q1,CHEMBL1613829,BAO_0000019,5.5,
+CHEMBL1293232,Homo sapiens,None,None,3892213,Potency,None,Survival motor neuron protein,CHEMBL1613842,BAO_0000019,6.45,PUBCHEM_BIOASSAY: qHTS Assay for Enhancers of SMN2 Splice Variant Expression. (Class of assay: confirmatory) 
+CHEMBL1293224,Homo sapiens,None,None,4051353,Potency,None,Microtubule-associated protein tau,CHEMBL1614421,BAO_0000357,4.65,"PUBCHEM_BIOASSAY: qHTS for Inhibitors of Tau Fibril Formation, Thioflavin T Binding. (Class of assay: confirmatory) [Related pubchem assays: 596 ]"

@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL325,Homo sapiens,Bioorg. Med. Chem. Lett.,2014,15060221,IC50,None,Histone deacetylase 1,CHEMBL3366145,BAO_0000357,9.21,Inhibition of HDAC1 (unknown origin) incubated at 37 degC for 30 mins
+CHEMBL1937,Homo sapiens,Bioorg. Med. Chem. Lett.,2014,15060234,IC50,None,Histone deacetylase 2,CHEMBL3366146,BAO_0000357,8.96,Inhibition of HDAC2 (unknown origin) incubated at 37 degC for 30 mins
+CHEMBL1829,Homo sapiens,Bioorg. Med. Chem. Lett.,2014,15060244,IC50,None,Histone deacetylase 3,CHEMBL3366147,BAO_0000357,8.96,Inhibition of HDAC3 (unknown origin) incubated at 37 degC for 30 mins
+CHEMBL3192,Homo sapiens,Bioorg. Med. Chem. Lett.,2014,15060254,IC50,None,Histone deacetylase 8,CHEMBL3366148,BAO_0000357,6.27,Inhibition of HDAC8 (unknown origin) incubated at 37 degC for 30 mins

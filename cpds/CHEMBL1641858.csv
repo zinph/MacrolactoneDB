@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL389,Mus musculus,J. Nat. Prod.,2010,5123282,IC50,LAGUNAMIDE B,P388,CHEMBL1647555,BAO_0000219,7.69,Cytotoxicity against mouse P388 cells after 72 hrs by MTT assay
+CHEMBL364,Plasmodium falciparum,J. Nat. Prod.,2010,5123283,IC50,LAGUNAMIDE B,Plasmodium falciparum,CHEMBL1647554,BAO_0000218,6.04,Antimalarial activity against drug-sensitive Plasmodium falciparum NF54 infected in human erythrocytes after 48 hrs by Liquid scintillation counter

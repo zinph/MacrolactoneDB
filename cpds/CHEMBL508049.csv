@@ -1,0 +1,5 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL612566,Homo sapiens,J. Nat. Prod.,2002,2533628,IC50,LYNGBYABELLIN B,CA46,CHEMBL997469,BAO_0000219,7.0,Antiproliferative activity against human CA46 cells after 24 hrs
+CHEMBL612558,None,J. Nat. Prod.,2002,2533630,IC50,LYNGBYABELLIN B,ADMET,CHEMBL997470,BAO_0000219,6.0,Antiproliferative activity against rat kangaroo PtK2 cells after 48 hrs
+CHEMBL384,Homo sapiens,J. Nat. Prod.,2010,3414185,IC50,LYNGBYABELLIN B,HT-29,CHEMBL1226009,BAO_0000219,5.96,Cytotoxicity against human HT-29 cells after 48 hrs by MTT assay
+CHEMBL399,Homo sapiens,J. Nat. Prod.,2010,3414193,IC50,LYNGBYABELLIN B,HeLa,CHEMBL1226010,BAO_0000219,6.15,Cytotoxicity against human HeLa cells after 48 hrs by MTT assay

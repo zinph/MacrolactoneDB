@@ -1,0 +1,3 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL614309,None,Bioorg. Med. Chem. Lett.,1998,988717,IC50,None,T-cells,CHEMBL812374,BAO_0000219,8.13,Immunosuppressive activity was determined as the ability to inhibit T cell proliferation.
+CHEMBL614309,None,Bioorg. Med. Chem. Lett.,1994,1182579,IC50,None,T-cells,CHEMBL812376,BAO_0000219,8.13,In vitro evaluation for immunosuppressive activity against proliferation of antigen stimulated murine splenic T cells

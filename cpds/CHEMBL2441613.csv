@@ -1,0 +1,2 @@
+target_chembl_id,target_organism,document_journal,document_year,activity_id,standard_type,molecule_pref_name,target_pref_name,assay_chembl_id,bao_format,pchembl_value,assay_description
+CHEMBL364,Plasmodium falciparum,ACS Med. Chem. Lett.,2013,13492637,IC50,None,Plasmodium falciparum,CHEMBL2444110,BAO_0000218,6.62,Antiplasmodial activity against chloroquine-sensitive Plasmodium falciparum 3D7 infected in erythrocytes assessed as parasite growth inhibition after 72 hrs by SYBR green I staining-based fluorescence assay
